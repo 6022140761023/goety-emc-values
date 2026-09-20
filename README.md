@@ -1,54 +1,54 @@
-# Goety EMC Values for ProjectE
+# Goety + Revelation EMC Values for ProjectE
 
-Minecraft **诡厄巫法 (Goety)** 模组的 [ProjectE（等价交换重制版）](https://www.curseforge.com/minecraft/mc-mods/projecte) EMC 值配置。
+Minecraft 1.20.1（Forge 47.4.21） **诡厄巫法（Goety）** 与 **诡厄巫法：启示录（Goety: Revelation）** 的 [ProjectE（等价交换重制版）](https://www.curseforge.com/minecraft/mc-mods/projecte) EMC 值配置。
 
-## 基本信息
+## 版本信息
 
 | 项目 | 内容 |
 |------|------|
-| 游戏版本 | Minecraft 1.20.1 (Forge 47.4.21) |
+| 游戏版本 | Minecraft 1.20.1（Forge 47.4.21） |
 | 诡厄巫法版本 | goety-2.5.57.3 |
+| 启示录版本 | GoetyRevelation-2.3.3fix（内嵌 RevelationFix 4.4） |
 | ProjectE 版本 | PE1.0.1 |
-| 总条目数 | **1,346 条** |
-| 覆盖模组 | Goety 本体 + 诡厄巫法：启示录 + 诡厄灾变 |
+| 总条目 | **1,426 条** |
+| Goety 本体 | 1,323 条 |
+| Goety: Revelation | 80 条 |
+| 其他模组修正 | 23 条 |
 
-## 定价结构
+## v1.1.0 更新内容
 
-| 档位 | 数量 | 示例 |
-|------|------|------|
-| 0-10 | 332 | 装饰方块、泥土 |
-| 10-100 | 237 | 基础材料、植物 |
-| 100-1,000 | 409 | 常规物品、刷怪蛋 |
-| 1,000-10,000 | 256 | 聚晶、装备、法杖 |
-| 10,000-100,000 | 87 | 高级饰品、神器 |
-| 100,000-1,000,000 | 8 | 深渊系列、王冠 |
-| **百万级** | **4** | **使徒刷怪蛋 (2,000,000)** |
-
-## 定价逻辑
-
-- **有合成配方的 444 个物品**：按合成材料成本自动迭代计算
-- **使徒相关**：200万（用户指定，保守防崩平衡）
-- **顶级 Boss 物品**：50万（深渊王冠等）
-- **刷怪蛋**：普通 300 / 强力 2,000 / Boss 50,000
-- **其余 884 个无配方物品**：按类别规则定价（聚晶/装备/材料/装饰分级）
-
-## 使用方法
-
-1. 下载 `custom_emc.json`
-2. 放入 Minecraft 配置目录：
-   ```
-   .minecraft/config/projecte/custom_emc.json
-   ```
-3. 进游戏输入 `/reload`，或重启游戏
-4. 转化桌 (Transmutation Table) 中即可兑换 Goety 物品
+- 新增 **Goety: Revelation 80 条 EMC**：
+  - 76 个物品/方块物品
+  - 4 个 `mystery_fragment{fragment:0~3}` NBT 变体
+- 关键物品按 **红物质 466,944 EMC 的 10 倍（4,669,440）** 作为最低档位。
+- 终局/核心物品示例：
+  - 天启七印、终末之环、维度意志：46,694,400
+  - 恶意、天启长弓、冈格尼尔、末影守望者：18,677,760
+  - 末日勋章、破碎之环、命运之矛头：9,338,880
+  - 神灵金属锭、晋升之环、寂灭之星：4,669,440
+  - 神灵金装备四件：9,338,880 / 件
 
 ## 文件说明
 
-- `custom_emc.json` — 完整 EMC 配置（含 tacz / 暮色森林 / 农夫乐事等其他模组条目）
-- `goety_emc_only.json` — 仅 Goety 模组条目（1,321 条），方便合并到自己的配置
+| 文件 | 说明 |
+|------|------|
+| `custom_emc.json` | 完整 EMC 配置，包含 Goety 本体 + 启示录 + 其他模组修正，共 1,426 条 |
+| `goety_emc_only.json` | 仅 Goety 本体条目，供只使用本体或做合并的用户参考 |
+| `revelation_emc_only.json` | 仅 Goety: Revelation 条目，共 80 条 |
+
+## 使用方法
+
+1. 下载 `custom_emc.json`。
+2. 放入 Minecraft 实例目录：
+   ```text
+   .minecraft/config/ProjectE/custom_emc.json
+   ```
+3. 进入游戏后执行 `/projecte reload`，或直接重启客户端。
+4. 在 Transmutation Table 中即可看到新增 EMC。
 
 ## 注意
 
-- 定价偏向**保守**，避免破坏游戏平衡
-- 若某物品价格不合理，欢迎提 Issue 讨论
-- 配置内部分条目带 NBT 标签（如 tacz 枪械、灵魂图腾），请勿删除 NBT 部分
+- 本配置主要面向 **ProjectE PE1.0.1**。
+- 数值偏 **高价值/长线平衡**，不是低配速通数值。
+- 如果某些物品价格不符合你的整合包平衡，欢迎提交 Issue。
+- `blessing_scroll` 等依赖可选模组的内容未纳入当前 80 条注册物品统计。
