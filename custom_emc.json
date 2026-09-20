@@ -5383,6 +5383,326 @@
     {
       "item": "goety:zpiglin_servant_spawn_egg",
       "emc": 800
+    },
+    {
+      "item": "goety_revelation:halo_of_the_end",
+      "emc": 46694400
+    },
+    {
+      "item": "goety_revelation:quietus_star",
+      "emc": 4669440
+    },
+    {
+      "item": "goety_revelation:revelation_focus",
+      "emc": 18677760
+    },
+    {
+      "item": "goety_revelation:heretic_focus",
+      "emc": 9338880
+    },
+    {
+      "item": "goety_revelation:wither_quietus_focus",
+      "emc": 18677760
+    },
+    {
+      "item": "goety_revelation:dementor_focus",
+      "emc": 4669440
+    },
+    {
+      "item": "goety_revelation:dragon_nirvana_focus",
+      "emc": 4669440
+    },
+    {
+      "item": "goety_revelation:dragon_skyrocket_focus",
+      "emc": 4669440
+    },
+    {
+      "item": "goety_revelation:ice_focus",
+      "emc": 4669440
+    },
+    {
+      "item": "goety_revelation:shadow_clone_focus",
+      "emc": 4669440
+    },
+    {
+      "item": "goety_revelation:nether_meteor_focus",
+      "emc": 4669440
+    },
+    {
+      "item": "goety_revelation:random_display",
+      "emc": 1
+    },
+    {
+      "item": "goety_revelation:puzzle_display",
+      "emc": 1
+    },
+    {
+      "item": "goety_revelation:puzzle_item",
+      "emc": 4669440
+    },
+    {
+      "item": "goety_revelation:atonement_voucher",
+      "emc": 20000
+    },
+    {
+      "item": "goety_revelation:curios_storage_crystal",
+      "emc": 2048
+    },
+    {
+      "item": "goety_revelation:apostle_servant_spawn_egg",
+      "emc": 50000
+    },
+    {
+      "item": "goety_revelation:heretic_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety_revelation:maverick_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety_revelation:ascension_hard_candy",
+      "emc": 500
+    },
+    {
+      "item": "goety_revelation:bow_of_revelation",
+      "emc": 18677760
+    },
+    {
+      "item": "goety_revelation:the_needle",
+      "emc": 9338880
+    },
+    {
+      "item": "goety_revelation:apocalyptium_ingot",
+      "emc": 4669440
+    },
+    {
+      "item": "goety_revelation:the_tip_of_the_longinus",
+      "emc": 9338880
+    },
+    {
+      "item": "goety_revelation:dimensional_will",
+      "emc": 46694400
+    },
+    {
+      "item": "goety_revelation:eternal_watch",
+      "emc": 9338880
+    },
+    {
+      "item": "goety_revelation:apocalyptium_helmet",
+      "emc": 9338880
+    },
+    {
+      "item": "goety_revelation:apocalyptium_chestplate",
+      "emc": 9338880
+    },
+    {
+      "item": "goety_revelation:apocalyptium_leggings",
+      "emc": 9338880
+    },
+    {
+      "item": "goety_revelation:apocalyptium_boots",
+      "emc": 9338880
+    },
+    {
+      "item": "goety_revelation:apocalyptium_upgrade_smithing_template",
+      "emc": 4669440
+    },
+    {
+      "item": "goety_revelation:mystery_fragment",
+      "emc": 4669440
+    },
+    {
+      "item": "goety_revelation:the_tip_of_the_aeglos",
+      "emc": 18677760
+    },
+    {
+      "item": "goety_revelation:valettein",
+      "emc": 9338880
+    },
+    {
+      "item": "goety_revelation:gungnir",
+      "emc": 18677760
+    },
+    {
+      "item": "goety_revelation:disc_arch_illager",
+      "emc": 2048
+    },
+    {
+      "item": "goety_revelation:disc_arch_illager_remix",
+      "emc": 2048
+    },
+    {
+      "item": "goety_revelation:disc_decisive_moment_disc",
+      "emc": 2048
+    },
+    {
+      "item": "goety_revelation:frostbloom_staff",
+      "emc": 4669440
+    },
+    {
+      "item": "goety_revelation:spider_fang",
+      "emc": 512
+    },
+    {
+      "item": "goety_revelation:venomous_spider_whip",
+      "emc": 16384
+    },
+    {
+      "item": "goety_revelation:spectre_whip",
+      "emc": 16384
+    },
+    {
+      "item": "goety_revelation:haunted_whip_hilt",
+      "emc": 512
+    },
+    {
+      "item": "goety_revelation:spider_helmet",
+      "emc": 12288
+    },
+    {
+      "item": "goety_revelation:spider_chestplate",
+      "emc": 10240
+    },
+    {
+      "item": "goety_revelation:spider_leggings",
+      "emc": 8192
+    },
+    {
+      "item": "goety_revelation:spider_boots",
+      "emc": 6144
+    },
+    {
+      "item": "goety_revelation:spectre_helmet",
+      "emc": 12288
+    },
+    {
+      "item": "goety_revelation:spectre_chestplate",
+      "emc": 10240
+    },
+    {
+      "item": "goety_revelation:spectre_leggings",
+      "emc": 8192
+    },
+    {
+      "item": "goety_revelation:spectre_boots",
+      "emc": 6144
+    },
+    {
+      "item": "goety_revelation:spider_darkmage_helmet",
+      "emc": 16384
+    },
+    {
+      "item": "goety_revelation:spider_darkmage_chestplate",
+      "emc": 14336
+    },
+    {
+      "item": "goety_revelation:spider_darkmage_leggings",
+      "emc": 12288
+    },
+    {
+      "item": "goety_revelation:spider_darkmage_boots",
+      "emc": 10240
+    },
+    {
+      "item": "goety_revelation:spectre_darkmage_helmet",
+      "emc": 16384
+    },
+    {
+      "item": "goety_revelation:spectre_darkmage_chestplate",
+      "emc": 14336
+    },
+    {
+      "item": "goety_revelation:spectre_darkmage_leggings",
+      "emc": 12288
+    },
+    {
+      "item": "goety_revelation:spectre_darkmage_boots",
+      "emc": 10240
+    },
+    {
+      "item": "goety_revelation:god_forging_scroll",
+      "emc": 4669440
+    },
+    {
+      "item": "goety_revelation:eden_scroll",
+      "emc": 4669440
+    },
+    {
+      "item": "goety_revelation:apollyon_robe",
+      "emc": 9338880
+    },
+    {
+      "item": "goety_revelation:soul_of_obsidian",
+      "emc": 4669440
+    },
+    {
+      "item": "goety_revelation:amulet_of_slime",
+      "emc": 1024
+    },
+    {
+      "item": "goety_revelation:gold_feather",
+      "emc": 4669440
+    },
+    {
+      "item": "goety_revelation:eerie_axe",
+      "emc": 5000
+    },
+    {
+      "item": "goety_revelation:ice_hermit_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety_revelation:broken_ender_keeper",
+      "emc": 9338880
+    },
+    {
+      "item": "goety_revelation:ender_keeper_sword",
+      "emc": 18677760
+    },
+    {
+      "item": "goety_revelation:ascension_halo",
+      "emc": 4669440
+    },
+    {
+      "item": "goety_revelation:broken_halo",
+      "emc": 9338880
+    },
+    {
+      "item": "goety_revelation:doom_icon",
+      "emc": 1
+    },
+    {
+      "item": "goety_revelation:doom_medal",
+      "emc": 9338880
+    },
+    {
+      "item": "goety_revelation:revelation",
+      "emc": 46694400
+    },
+    {
+      "item": "goety_revelation:rune_reactor",
+      "emc": 16384
+    },
+    {
+      "item": "goety_revelation:runestone_engraved_table",
+      "emc": 16384
+    },
+    {
+      "item": "goety_revelation:mystery_fragment{fragment:0}",
+      "emc": 4669440
+    },
+    {
+      "item": "goety_revelation:mystery_fragment{fragment:1}",
+      "emc": 4669440
+    },
+    {
+      "item": "goety_revelation:mystery_fragment{fragment:2}",
+      "emc": 4669440
+    },
+    {
+      "item": "goety_revelation:mystery_fragment{fragment:3}",
+      "emc": 4669440
     }
   ]
 }
