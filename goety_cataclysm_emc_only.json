@@ -1,0 +1,304 @@
+{
+  "entries": [
+    {
+      "item": "goety_cataclysm:abyssal_mine_focus",
+      "emc": 4000
+    },
+    {
+      "item": "goety_cataclysm:abyssal_beam_focus",
+      "emc": 4000
+    },
+    {
+      "item": "goety_cataclysm:abyssal_orb_focus",
+      "emc": 4000
+    },
+    {
+      "item": "goety_cataclysm:water_spear_focus",
+      "emc": 4000
+    },
+    {
+      "item": "goety_cataclysm:sunken_swell_focus",
+      "emc": 4000
+    },
+    {
+      "item": "goety_cataclysm:sunken_current_focus",
+      "emc": 4000
+    },
+    {
+      "item": "goety_cataclysm:sunken_tribune_focus",
+      "emc": 4000
+    },
+    {
+      "item": "goety_cataclysm:kakourgos_focus",
+      "emc": 4000
+    },
+    {
+      "item": "goety_cataclysm:polemistis_focus",
+      "emc": 4000
+    },
+    {
+      "item": "goety_cataclysm:kyria_focus",
+      "emc": 4000
+    },
+    {
+      "item": "goety_cataclysm:amethyst_cluster_focus",
+      "emc": 4000
+    },
+    {
+      "item": "goety_cataclysm:desert_crush_focus",
+      "emc": 4000
+    },
+    {
+      "item": "goety_cataclysm:earth_shake_focus",
+      "emc": 4000
+    },
+    {
+      "item": "goety_cataclysm:desert_raid_focus",
+      "emc": 4000
+    },
+    {
+      "item": "goety_cataclysm:cursed_grave_focus",
+      "emc": 3000
+    },
+    {
+      "item": "goety_cataclysm:cursed_cairn_focus",
+      "emc": 3000
+    },
+    {
+      "item": "goety_cataclysm:cursed_tomb_focus",
+      "emc": 3000
+    },
+    {
+      "item": "goety_cataclysm:battlefield_focus",
+      "emc": 3000
+    },
+    {
+      "item": "goety_cataclysm:ashen_breath_focus",
+      "emc": 4000
+    },
+    {
+      "item": "goety_cataclysm:extinct_flame_focus",
+      "emc": 4000
+    },
+    {
+      "item": "goety_cataclysm:flare_bomb_focus",
+      "emc": 4000
+    },
+    {
+      "item": "goety_cataclysm:death_laser_focus",
+      "emc": 8000
+    },
+    {
+      "item": "goety_cataclysm:lightning_spear_focus",
+      "emc": 8000
+    },
+    {
+      "item": "goety_cataclysm:thunder_rage_focus",
+      "emc": 8000
+    },
+    {
+      "item": "goety_cataclysm:storm_serpent_focus",
+      "emc": 8000
+    },
+    {
+      "item": "goety_cataclysm:void_rune_focus",
+      "emc": 12000
+    },
+    {
+      "item": "goety_cataclysm:void_vortex_focus",
+      "emc": 12000
+    },
+    {
+      "item": "goety_cataclysm:sandstorm_focus",
+      "emc": 8000
+    },
+    {
+      "item": "goety_cataclysm:abyss_essence",
+      "emc": 16384
+    },
+    {
+      "item": "goety_cataclysm:primordial_essence",
+      "emc": 32768
+    },
+    {
+      "item": "goety_cataclysm:ignited_helm",
+      "emc": 8192
+    },
+    {
+      "item": "goety_cataclysm:ignited_soul",
+      "emc": 4096
+    },
+    {
+      "item": "goety_cataclysm:mechanized_core",
+      "emc": 8192
+    },
+    {
+      "item": "goety_cataclysm:warrior_spirit",
+      "emc": 4096
+    },
+    {
+      "item": "goety_cataclysm:arcane_spirit",
+      "emc": 4096
+    },
+    {
+      "item": "goety_cataclysm:soul_jar_draugr",
+      "emc": 4096
+    },
+    {
+      "item": "goety_cataclysm:remnant_skull",
+      "emc": 4096
+    },
+    {
+      "item": "goety_cataclysm:ender_golem_skull",
+      "emc": 8192
+    },
+    {
+      "item": "goety_cataclysm:netherite_monstrosity_head",
+      "emc": 8192
+    },
+    {
+      "item": "goety_cataclysm:ender_golem_spawn_egg",
+      "emc": 50000
+    },
+    {
+      "item": "goety_cataclysm:netherite_monstrosity_spawn_egg",
+      "emc": 50000
+    },
+    {
+      "item": "goety_cataclysm:zombie_amethyst_crab_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety_cataclysm:deepling_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety_cataclysm:deepling_brute_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety_cataclysm:deepling_angler_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety_cataclysm:deepling_priest_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety_cataclysm:deepling_warlock_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety_cataclysm:lionfish_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety_cataclysm:coral_golem_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety_cataclysm:coralssus_spawn_egg",
+      "emc": 50000
+    },
+    {
+      "item": "goety_cataclysm:leviathan_spawn_egg",
+      "emc": 50000
+    },
+    {
+      "item": "goety_cataclysm:ignited_revenant_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety_cataclysm:ignited_berserker_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety_cataclysm:watcher_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety_cataclysm:prowler_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety_cataclysm:koboleton_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety_cataclysm:kobolediator_spawn_egg",
+      "emc": 50000
+    },
+    {
+      "item": "goety_cataclysm:wadjet_spawn_egg",
+      "emc": 50000
+    },
+    {
+      "item": "goety_cataclysm:ancient_remnant_spawn_egg",
+      "emc": 50000
+    },
+    {
+      "item": "goety_cataclysm:draugr_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety_cataclysm:royal_draugr_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety_cataclysm:elite_draugr_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety_cataclysm:draugr_necromancer_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety_cataclysm:aptrgangr_spawn_egg",
+      "emc": 50000
+    },
+    {
+      "item": "goety_cataclysm:hippocamptus_spawn_egg",
+      "emc": 50000
+    },
+    {
+      "item": "goety_cataclysm:cindaria_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety_cataclysm:clawdian_spawn_egg",
+      "emc": 50000
+    },
+    {
+      "item": "goety_cataclysm:urchinkin_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety_cataclysm:drowned_host_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety_cataclysm:symbiocto_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety_cataclysm:draugr_necromancer_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety_cataclysm:mechanized_iron_block",
+      "emc": 4096
+    },
+    {
+      "item": "goety_cataclysm:netherite_plating",
+      "emc": 8192
+    },
+    {
+      "item": "goety_cataclysm:void_mold_block",
+      "emc": 8192
+    },
+    {
+      "item": "goety_cataclysm:fabricator",
+      "emc": 16384
+    }
+  ]
+}
