@@ -26,7 +26,7 @@
     },
     {
       "item": "twilightforest:naga_scale",
-      "emc": 500
+      "emc": 128
     },
     {
       "item": "biomesoplenty:wildflower",
@@ -82,7 +82,7 @@
     },
     {
       "item": "twilightforest:charm_of_life_1",
-      "emc": 1
+      "emc": 2048
     },
     {
       "item": "tacz:modern_kinetic_gun{GunCurrentAmmoCount:0,GunFireMode:\"SEMI\",GunId:\"tacz:rpg7\",HasBulletInBarrel:0b}",
@@ -7819,6 +7819,2038 @@
     {
       "item": "tacz:target_minecart",
       "emc": 1024
+    },
+    {
+      "item": "twilightforest:naga_chestplate",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:naga_leggings",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:twilight_scepter",
+      "emc": 1024
+    },
+    {
+      "item": "twilightforest:lifedrain_scepter",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:zombie_scepter",
+      "emc": 1024
+    },
+    {
+      "item": "twilightforest:fortification_scepter",
+      "emc": 1024
+    },
+    {
+      "item": "twilightforest:magic_painting",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:ore_meter",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:filled_magic_map",
+      "emc": 128
+    },
+    {
+      "item": "twilightforest:filled_maze_map",
+      "emc": 128
+    },
+    {
+      "item": "twilightforest:filled_ore_map",
+      "emc": 128
+    },
+    {
+      "item": "twilightforest:raven_feather",
+      "emc": 48
+    },
+    {
+      "item": "twilightforest:magic_map_focus",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:maze_map_focus",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:magic_map",
+      "emc": 128
+    },
+    {
+      "item": "twilightforest:maze_map",
+      "emc": 128
+    },
+    {
+      "item": "twilightforest:ore_map",
+      "emc": 128
+    },
+    {
+      "item": "twilightforest:liveroot",
+      "emc": 256
+    },
+    {
+      "item": "twilightforest:raw_ironwood",
+      "emc": 128
+    },
+    {
+      "item": "twilightforest:ironwood_ingot",
+      "emc": 192
+    },
+    {
+      "item": "twilightforest:ironwood_helmet",
+      "emc": 768
+    },
+    {
+      "item": "twilightforest:ironwood_chestplate",
+      "emc": 768
+    },
+    {
+      "item": "twilightforest:ironwood_leggings",
+      "emc": 768
+    },
+    {
+      "item": "twilightforest:ironwood_boots",
+      "emc": 768
+    },
+    {
+      "item": "twilightforest:ironwood_sword",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:ironwood_shovel",
+      "emc": 192
+    },
+    {
+      "item": "twilightforest:ironwood_pickaxe",
+      "emc": 256
+    },
+    {
+      "item": "twilightforest:ironwood_axe",
+      "emc": 256
+    },
+    {
+      "item": "twilightforest:ironwood_hoe",
+      "emc": 192
+    },
+    {
+      "item": "twilightforest:torchberries",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:cooked_venison",
+      "emc": 128
+    },
+    {
+      "item": "twilightforest:hydra_chop",
+      "emc": 1024
+    },
+    {
+      "item": "twilightforest:fiery_blood",
+      "emc": 256
+    },
+    {
+      "item": "twilightforest:fiery_tears",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:fiery_ingot",
+      "emc": 1024
+    },
+    {
+      "item": "twilightforest:fiery_helmet",
+      "emc": 4096
+    },
+    {
+      "item": "twilightforest:fiery_chestplate",
+      "emc": 4096
+    },
+    {
+      "item": "twilightforest:fiery_leggings",
+      "emc": 4096
+    },
+    {
+      "item": "twilightforest:fiery_boots",
+      "emc": 4096
+    },
+    {
+      "item": "twilightforest:fiery_sword",
+      "emc": 4096
+    },
+    {
+      "item": "twilightforest:fiery_pickaxe",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:steeleaf_ingot",
+      "emc": 256
+    },
+    {
+      "item": "twilightforest:steeleaf_helmet",
+      "emc": 1536
+    },
+    {
+      "item": "twilightforest:steeleaf_chestplate",
+      "emc": 1536
+    },
+    {
+      "item": "twilightforest:steeleaf_leggings",
+      "emc": 1536
+    },
+    {
+      "item": "twilightforest:steeleaf_boots",
+      "emc": 1536
+    },
+    {
+      "item": "twilightforest:steeleaf_sword",
+      "emc": 1024
+    },
+    {
+      "item": "twilightforest:steeleaf_shovel",
+      "emc": 384
+    },
+    {
+      "item": "twilightforest:steeleaf_pickaxe",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:steeleaf_axe",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:steeleaf_hoe",
+      "emc": 384
+    },
+    {
+      "item": "twilightforest:gold_minotaur_axe",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:diamond_minotaur_axe",
+      "emc": 4096
+    },
+    {
+      "item": "twilightforest:mazebreaker_pickaxe",
+      "emc": 8192
+    },
+    {
+      "item": "twilightforest:transformation_powder",
+      "emc": 256
+    },
+    {
+      "item": "twilightforest:raw_meef",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:cooked_meef",
+      "emc": 128
+    },
+    {
+      "item": "twilightforest:meef_stroganoff",
+      "emc": 192
+    },
+    {
+      "item": "twilightforest:maze_wafer",
+      "emc": 128
+    },
+    {
+      "item": "twilightforest:ore_magnet",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:crumble_horn",
+      "emc": 1024
+    },
+    {
+      "item": "twilightforest:peacock_feather_fan",
+      "emc": 1024
+    },
+    {
+      "item": "twilightforest:moonworm_queen",
+      "emc": 1024
+    },
+    {
+      "item": "twilightforest:brittle_potion_flask",
+      "emc": 256
+    },
+    {
+      "item": "twilightforest:greater_potion_flask",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:charm_of_life_2",
+      "emc": 8192
+    },
+    {
+      "item": "twilightforest:charm_of_keeping_1",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:charm_of_keeping_2",
+      "emc": 8192
+    },
+    {
+      "item": "twilightforest:charm_of_keeping_3",
+      "emc": 32768
+    },
+    {
+      "item": "twilightforest:tower_key",
+      "emc": 1024
+    },
+    {
+      "item": "twilightforest:borer_essence",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:carminite",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:experiment_115",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:armor_shard",
+      "emc": 128
+    },
+    {
+      "item": "twilightforest:armor_shard_cluster",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:knightmetal_ingot",
+      "emc": 1024
+    },
+    {
+      "item": "twilightforest:knightmetal_helmet",
+      "emc": 4096
+    },
+    {
+      "item": "twilightforest:knightmetal_chestplate",
+      "emc": 4096
+    },
+    {
+      "item": "twilightforest:knightmetal_leggings",
+      "emc": 4096
+    },
+    {
+      "item": "twilightforest:knightmetal_boots",
+      "emc": 4096
+    },
+    {
+      "item": "twilightforest:knightmetal_sword",
+      "emc": 4096
+    },
+    {
+      "item": "twilightforest:knightmetal_pickaxe",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:knightmetal_axe",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:knightmetal_ring",
+      "emc": 1024
+    },
+    {
+      "item": "twilightforest:knightmetal_shield",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:block_and_chain",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:phantom_helmet",
+      "emc": 4096
+    },
+    {
+      "item": "twilightforest:phantom_chestplate",
+      "emc": 4096
+    },
+    {
+      "item": "twilightforest:ice_bomb",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:arctic_fur",
+      "emc": 192
+    },
+    {
+      "item": "twilightforest:arctic_helmet",
+      "emc": 1024
+    },
+    {
+      "item": "twilightforest:arctic_chestplate",
+      "emc": 1024
+    },
+    {
+      "item": "twilightforest:arctic_leggings",
+      "emc": 1024
+    },
+    {
+      "item": "twilightforest:arctic_boots",
+      "emc": 1024
+    },
+    {
+      "item": "twilightforest:alpha_yeti_fur",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:yeti_helmet",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:yeti_chestplate",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:yeti_leggings",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:yeti_boots",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:triple_bow",
+      "emc": 4096
+    },
+    {
+      "item": "twilightforest:seeker_bow",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:ice_bow",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:ender_bow",
+      "emc": 4096
+    },
+    {
+      "item": "twilightforest:ice_sword",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:glass_sword",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:magic_beans",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:giant_pickaxe",
+      "emc": 8192
+    },
+    {
+      "item": "twilightforest:giant_sword",
+      "emc": 8192
+    },
+    {
+      "item": "twilightforest:lamp_of_cinders",
+      "emc": 4096
+    },
+    {
+      "item": "twilightforest:cube_talisman",
+      "emc": 4096
+    },
+    {
+      "item": "twilightforest:cube_of_annihilation",
+      "emc": 4096
+    },
+    {
+      "item": "twilightforest:moon_dial",
+      "emc": 1024
+    },
+    {
+      "item": "twilightforest:huge_lily_pad",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:huge_water_lily",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:fallen_leaves",
+      "emc": 1
+    },
+    {
+      "item": "twilightforest:firefly",
+      "emc": 128
+    },
+    {
+      "item": "twilightforest:cicada",
+      "emc": 128
+    },
+    {
+      "item": "twilightforest:moonworm",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:zombie_skull_candle",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:skeleton_skull_candle",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:wither_skeleton_skull_candle",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:creeper_skull_candle",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:player_skull_candle",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:piglin_skull_candle",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:naga_trophy",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:lich_trophy",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:minoshroom_trophy",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:hydra_trophy",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:knight_phantom_trophy",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:ur_ghast_trophy",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:alpha_yeti_trophy",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:snow_queen_trophy",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:quest_ram_trophy",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:hollow_twilight_oak_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:hollow_canopy_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:hollow_mangrove_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:hollow_dark_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:hollow_time_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:hollow_transformation_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:hollow_mining_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:hollow_sorting_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:hollow_oak_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:hollow_spruce_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:hollow_birch_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:hollow_jungle_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:hollow_acacia_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:hollow_dark_oak_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:hollow_crimson_stem",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:hollow_warped_stem",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:hollow_vangrove_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:hollow_cherry_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:twilight_oak_sign",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:twilight_oak_hanging_sign",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:canopy_sign",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:canopy_hanging_sign",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:mangrove_sign",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:mangrove_hanging_sign",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:dark_sign",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:dark_hanging_sign",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:time_sign",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:time_hanging_sign",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:transformation_sign",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:transformation_hanging_sign",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:mining_sign",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:mining_hanging_sign",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:sorting_sign",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:sorting_hanging_sign",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:twilight_oak_boat",
+      "emc": 40
+    },
+    {
+      "item": "twilightforest:twilight_oak_chest_boat",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:canopy_boat",
+      "emc": 40
+    },
+    {
+      "item": "twilightforest:canopy_chest_boat",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:mangrove_boat",
+      "emc": 40
+    },
+    {
+      "item": "twilightforest:mangrove_chest_boat",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:dark_boat",
+      "emc": 40
+    },
+    {
+      "item": "twilightforest:dark_chest_boat",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:time_boat",
+      "emc": 40
+    },
+    {
+      "item": "twilightforest:time_chest_boat",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:transformation_boat",
+      "emc": 40
+    },
+    {
+      "item": "twilightforest:transformation_chest_boat",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:mining_boat",
+      "emc": 40
+    },
+    {
+      "item": "twilightforest:mining_chest_boat",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:sorting_boat",
+      "emc": 40
+    },
+    {
+      "item": "twilightforest:sorting_chest_boat",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:music_disc_radiance",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:music_disc_steps",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:music_disc_superstitious",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:music_disc_home",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:music_disc_wayfarer",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:music_disc_findings",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:music_disc_maker",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:music_disc_thread",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:music_disc_motion",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:naga_banner_pattern",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:lich_banner_pattern",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:minoshroom_banner_pattern",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:hydra_banner_pattern",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:knight_phantom_banner_pattern",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:ur_ghast_banner_pattern",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:alpha_yeti_banner_pattern",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:snow_queen_banner_pattern",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:quest_ram_banner_pattern",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:hedge",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:firefly_jar",
+      "emc": 128
+    },
+    {
+      "item": "twilightforest:firefly_particle_spawner",
+      "emc": 128
+    },
+    {
+      "item": "twilightforest:cicada_jar",
+      "emc": 128
+    },
+    {
+      "item": "twilightforest:moss_patch",
+      "emc": 16
+    },
+    {
+      "item": "twilightforest:mayapple",
+      "emc": 16
+    },
+    {
+      "item": "twilightforest:clover_patch",
+      "emc": 16
+    },
+    {
+      "item": "twilightforest:fiddlehead",
+      "emc": 16
+    },
+    {
+      "item": "twilightforest:mushgloom",
+      "emc": 16
+    },
+    {
+      "item": "twilightforest:torchberry_plant",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:root_strand",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:root",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:liveroot_block",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:uncrafting_table",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:smoker",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:encased_smoker",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:fire_jet",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:encased_fire_jet",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:slider",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:iron_ladder",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:nagastone_head",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:nagastone",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:spiral_bricks",
+      "emc": 16
+    },
+    {
+      "item": "twilightforest:etched_nagastone",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:nagastone_pillar",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:nagastone_stairs_left",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:nagastone_stairs_right",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:mossy_etched_nagastone",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:mossy_nagastone_pillar",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:mossy_nagastone_stairs_left",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:mossy_nagastone_stairs_right",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:cracked_etched_nagastone",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:cracked_nagastone_pillar",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:cracked_nagastone_stairs_left",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:cracked_nagastone_stairs_right",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:twisted_stone",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:twisted_stone_pillar",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:keepsake_casket",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:bold_stone_pillar",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:death_tome_spawner",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:empty_canopy_bookshelf",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:candelabra",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:wrought_iron_fence",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:mazestone",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:mazestone_brick",
+      "emc": 16
+    },
+    {
+      "item": "twilightforest:cut_mazestone",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:decorative_mazestone",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:cracked_mazestone",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:mossy_mazestone",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:mazestone_mosaic",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:mazestone_border",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:red_thread",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:stronghold_shield",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:trophy_pedestal",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:underbrick",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:mossy_underbrick",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:cracked_underbrick",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:underbrick_floor",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:towerwood",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:encased_towerwood",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:cracked_towerwood",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:mossy_towerwood",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:infested_towerwood",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:reappearing_block",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:vanishing_block",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:locked_vanishing_block",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:carminite_builder",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:antibuilder",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:ghast_trap",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:carminite_reactor",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:fake_gold",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:fake_diamond",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:aurora_block",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:aurora_pillar",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:aurora_slab",
+      "emc": 4
+    },
+    {
+      "item": "twilightforest:auroralized_glass",
+      "emc": 16
+    },
+    {
+      "item": "twilightforest:brown_thorns",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:green_thorns",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:burnt_thorns",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:thorn_rose",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:thorn_leaves",
+      "emc": 1
+    },
+    {
+      "item": "twilightforest:beanstalk_leaves",
+      "emc": 1
+    },
+    {
+      "item": "twilightforest:deadrock",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:cracked_deadrock",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:weathered_deadrock",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:trollsteinn",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:wispy_cloud",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:fluffy_cloud",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:rainy_cloud",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:snowy_cloud",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:giant_cobblestone",
+      "emc": 1
+    },
+    {
+      "item": "twilightforest:giant_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:giant_leaves",
+      "emc": 1
+    },
+    {
+      "item": "twilightforest:giant_obsidian",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:uberous_soil",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:huge_stalk",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:huge_mushgloom",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:huge_mushgloom_stem",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:trollvidr",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:unripe_trollber",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:trollber",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:castle_brick",
+      "emc": 16
+    },
+    {
+      "item": "twilightforest:worn_castle_brick",
+      "emc": 16
+    },
+    {
+      "item": "twilightforest:cracked_castle_brick",
+      "emc": 16
+    },
+    {
+      "item": "twilightforest:castle_roof_tile",
+      "emc": 16
+    },
+    {
+      "item": "twilightforest:mossy_castle_brick",
+      "emc": 16
+    },
+    {
+      "item": "twilightforest:thick_castle_brick",
+      "emc": 16
+    },
+    {
+      "item": "twilightforest:encased_castle_brick_pillar",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:encased_castle_brick_tile",
+      "emc": 16
+    },
+    {
+      "item": "twilightforest:bold_castle_brick_pillar",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:bold_castle_brick_tile",
+      "emc": 16
+    },
+    {
+      "item": "twilightforest:castle_brick_stairs",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:worn_castle_brick_stairs",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:cracked_castle_brick_stairs",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:mossy_castle_brick_stairs",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:encased_castle_brick_stairs",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:bold_castle_brick_stairs",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:pink_castle_rune_brick",
+      "emc": 16
+    },
+    {
+      "item": "twilightforest:blue_castle_rune_brick",
+      "emc": 16
+    },
+    {
+      "item": "twilightforest:yellow_castle_rune_brick",
+      "emc": 16
+    },
+    {
+      "item": "twilightforest:violet_castle_rune_brick",
+      "emc": 16
+    },
+    {
+      "item": "twilightforest:violet_force_field",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:pink_force_field",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:orange_force_field",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:green_force_field",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:blue_force_field",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:cinder_furnace",
+      "emc": 2048
+    },
+    {
+      "item": "twilightforest:cinder_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:cinder_wood",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:yellow_castle_door",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:violet_castle_door",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:pink_castle_door",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:blue_castle_door",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:twilight_portal_miniature_structure",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:naga_courtyard_miniature_structure",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:lich_tower_miniature_structure",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:knightmetal_block",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:ironwood_block",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:fiery_block",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:steeleaf_block",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:arctic_fur_block",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:carminite_block",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:naga_boss_spawner",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:lich_boss_spawner",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:hydra_boss_spawner",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:ur_ghast_boss_spawner",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:knight_phantom_boss_spawner",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:snow_queen_boss_spawner",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:minoshroom_boss_spawner",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:alpha_yeti_boss_spawner",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:final_boss_boss_spawner",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:oak_banister",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:spruce_banister",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:birch_banister",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:jungle_banister",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:acacia_banister",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:dark_oak_banister",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:crimson_banister",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:warped_banister",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:vangrove_banister",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:bamboo_banister",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:cherry_banister",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:twilight_oak_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:canopy_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:mangrove_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:dark_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:time_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:transformation_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:mining_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:sorting_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:stripped_twilight_oak_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:stripped_canopy_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:stripped_mangrove_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:stripped_dark_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:stripped_time_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:stripped_transformation_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:stripped_mining_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:stripped_sorting_log",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:twilight_oak_wood",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:canopy_wood",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:mangrove_wood",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:dark_wood",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:time_wood",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:transformation_wood",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:mining_wood",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:sorting_wood",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:stripped_twilight_oak_wood",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:stripped_canopy_wood",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:stripped_mangrove_wood",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:stripped_dark_wood",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:stripped_time_wood",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:stripped_transformation_wood",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:stripped_mining_wood",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:stripped_sorting_wood",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:time_log_core",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:transformation_log_core",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:mining_log_core",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:sorting_log_core",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:mangrove_root",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:twilight_oak_leaves",
+      "emc": 1
+    },
+    {
+      "item": "twilightforest:canopy_leaves",
+      "emc": 1
+    },
+    {
+      "item": "twilightforest:mangrove_leaves",
+      "emc": 1
+    },
+    {
+      "item": "twilightforest:dark_leaves",
+      "emc": 1
+    },
+    {
+      "item": "twilightforest:rainbow_oak_leaves",
+      "emc": 1
+    },
+    {
+      "item": "twilightforest:time_leaves",
+      "emc": 1
+    },
+    {
+      "item": "twilightforest:transformation_leaves",
+      "emc": 1
+    },
+    {
+      "item": "twilightforest:mining_leaves",
+      "emc": 1
+    },
+    {
+      "item": "twilightforest:sorting_leaves",
+      "emc": 1
+    },
+    {
+      "item": "twilightforest:twilight_oak_sapling",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:canopy_sapling",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:mangrove_sapling",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:darkwood_sapling",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:hollow_oak_sapling",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:time_sapling",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:transformation_sapling",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:mining_sapling",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:sorting_sapling",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:rainbow_oak_sapling",
+      "emc": 32
+    },
+    {
+      "item": "twilightforest:twilight_oak_planks",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:twilight_oak_stairs",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:twilight_oak_slab",
+      "emc": 4
+    },
+    {
+      "item": "twilightforest:twilight_oak_button",
+      "emc": 4
+    },
+    {
+      "item": "twilightforest:twilight_oak_fence",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:twilight_oak_fence_gate",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:twilight_oak_pressure_plate",
+      "emc": 4
+    },
+    {
+      "item": "twilightforest:twilight_oak_door",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:twilight_oak_trapdoor",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:twilight_oak_banister",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:canopy_planks",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:canopy_stairs",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:canopy_slab",
+      "emc": 4
+    },
+    {
+      "item": "twilightforest:canopy_button",
+      "emc": 4
+    },
+    {
+      "item": "twilightforest:canopy_fence",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:canopy_fence_gate",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:canopy_pressure_plate",
+      "emc": 4
+    },
+    {
+      "item": "twilightforest:canopy_door",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:canopy_trapdoor",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:canopy_bookshelf",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:canopy_banister",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:mangrove_planks",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:mangrove_stairs",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:mangrove_slab",
+      "emc": 4
+    },
+    {
+      "item": "twilightforest:mangrove_button",
+      "emc": 4
+    },
+    {
+      "item": "twilightforest:mangrove_fence",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:mangrove_fence_gate",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:mangrove_pressure_plate",
+      "emc": 4
+    },
+    {
+      "item": "twilightforest:mangrove_door",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:mangrove_trapdoor",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:mangrove_banister",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:dark_planks",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:dark_stairs",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:dark_slab",
+      "emc": 4
+    },
+    {
+      "item": "twilightforest:dark_button",
+      "emc": 4
+    },
+    {
+      "item": "twilightforest:dark_fence",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:dark_fence_gate",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:dark_pressure_plate",
+      "emc": 4
+    },
+    {
+      "item": "twilightforest:dark_door",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:dark_trapdoor",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:dark_banister",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:time_planks",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:time_stairs",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:time_slab",
+      "emc": 4
+    },
+    {
+      "item": "twilightforest:time_button",
+      "emc": 4
+    },
+    {
+      "item": "twilightforest:time_fence",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:time_fence_gate",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:time_pressure_plate",
+      "emc": 4
+    },
+    {
+      "item": "twilightforest:time_door",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:time_trapdoor",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:time_banister",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:transformation_planks",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:transformation_stairs",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:transformation_slab",
+      "emc": 4
+    },
+    {
+      "item": "twilightforest:transformation_button",
+      "emc": 4
+    },
+    {
+      "item": "twilightforest:transformation_fence",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:transformation_fence_gate",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:transformation_pressure_plate",
+      "emc": 4
+    },
+    {
+      "item": "twilightforest:transformation_door",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:transformation_trapdoor",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:transformation_banister",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:mining_planks",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:mining_stairs",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:mining_slab",
+      "emc": 4
+    },
+    {
+      "item": "twilightforest:mining_button",
+      "emc": 4
+    },
+    {
+      "item": "twilightforest:mining_fence",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:mining_fence_gate",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:mining_pressure_plate",
+      "emc": 4
+    },
+    {
+      "item": "twilightforest:mining_door",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:mining_trapdoor",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:mining_banister",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:sorting_planks",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:sorting_stairs",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:sorting_slab",
+      "emc": 4
+    },
+    {
+      "item": "twilightforest:sorting_button",
+      "emc": 4
+    },
+    {
+      "item": "twilightforest:sorting_fence",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:sorting_fence_gate",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:sorting_pressure_plate",
+      "emc": 4
+    },
+    {
+      "item": "twilightforest:sorting_door",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:sorting_trapdoor",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:sorting_banister",
+      "emc": 8
+    },
+    {
+      "item": "twilightforest:twilight_oak_chest",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:canopy_chest",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:mangrove_chest",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:dark_chest",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:time_chest",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:transformation_chest",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:mining_chest",
+      "emc": 64
+    },
+    {
+      "item": "twilightforest:sorting_chest",
+      "emc": 64
     }
   ]
 }
