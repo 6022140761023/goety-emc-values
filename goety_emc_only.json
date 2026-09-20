@@ -1,0 +1,5296 @@
+{
+  "entries": [
+    {
+      "item": "goety:totem_of_roots{\"Max Souls\":100,Souls:0}",
+      "emc": 700
+    },
+    {
+      "item": "goety:totem_of_roots{\"Max Souls\":100,Souls:100}",
+      "emc": 1
+    },
+    {
+      "item": "goety:abyss_crown",
+      "emc": 500000
+    },
+    {
+      "item": "goety:abyss_robe",
+      "emc": 300000
+    },
+    {
+      "item": "goety:abyss_staff",
+      "emc": 400000
+    },
+    {
+      "item": "goety:aging_cream",
+      "emc": 1500
+    },
+    {
+      "item": "goety:alarming_charm",
+      "emc": 1200
+    },
+    {
+      "item": "goety:amethyst_necklace",
+      "emc": 1000
+    },
+    {
+      "item": "goety:animation_core",
+      "emc": 908
+    },
+    {
+      "item": "goety:animator",
+      "emc": 22764
+    },
+    {
+      "item": "goety:apostle_spawn_egg",
+      "emc": 2000000
+    },
+    {
+      "item": "goety:apparition_door",
+      "emc": 144
+    },
+    {
+      "item": "goety:arca",
+      "emc": 1500
+    },
+    {
+      "item": "goety:arca_compass",
+      "emc": 1500
+    },
+    {
+      "item": "goety:arrow_rain_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:awakened_emerald_block",
+      "emc": 147456
+    },
+    {
+      "item": "goety:banish_focus",
+      "emc": 10224
+    },
+    {
+      "item": "goety:barricade_focus",
+      "emc": 17736
+    },
+    {
+      "item": "goety:bear_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:berserk_fungus",
+      "emc": 200
+    },
+    {
+      "item": "goety:big_end_basalt_bricks",
+      "emc": 4
+    },
+    {
+      "item": "goety:big_end_stone_bricks",
+      "emc": 8
+    },
+    {
+      "item": "goety:biomine_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:biting_focus",
+      "emc": 17200
+    },
+    {
+      "item": "goety:black_beast_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:black_crystal",
+      "emc": 1024
+    },
+    {
+      "item": "goety:black_iron_boots",
+      "emc": 2688
+    },
+    {
+      "item": "goety:black_iron_chestplate",
+      "emc": 5440
+    },
+    {
+      "item": "goety:black_iron_helmet",
+      "emc": 11520
+    },
+    {
+      "item": "goety:black_iron_leggings",
+      "emc": 4416
+    },
+    {
+      "item": "goety:black_wolf_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:blackguard_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:blackguard_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:blackstone_brazier",
+      "emc": 200
+    },
+    {
+      "item": "goety:blackstone_soul_brazier",
+      "emc": 512
+    },
+    {
+      "item": "goety:blackstone_throne",
+      "emc": 4
+    },
+    {
+      "item": "goety:blade_of_ender",
+      "emc": 300000
+    },
+    {
+      "item": "goety:blast_fungus",
+      "emc": 150
+    },
+    {
+      "item": "goety:blasting_focus",
+      "emc": 15272
+    },
+    {
+      "item": "goety:blastling_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:blastling_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:blaze_servant_spawn_egg",
+      "emc": 2000
+    },
+    {
+      "item": "goety:blazing_cage",
+      "emc": 1500
+    },
+    {
+      "item": "goety:blazing_focus",
+      "emc": 5627
+    },
+    {
+      "item": "goety:blazing_helm",
+      "emc": 15000
+    },
+    {
+      "item": "goety:blazing_horn",
+      "emc": 8000
+    },
+    {
+      "item": "goety:blink_focus",
+      "emc": 4992
+    },
+    {
+      "item": "goety:blizzard_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:blooming_chorus_wood",
+      "emc": 32
+    },
+    {
+      "item": "goety:blossoming_chorus_wood",
+      "emc": 32
+    },
+    {
+      "item": "goety:blossoming_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:blue_siltstone_pillar",
+      "emc": 8
+    },
+    {
+      "item": "goety:bolting_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:bombardment_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:bone_spider_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:bone_spider_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:bonehead_hammer",
+      "emc": 40416
+    },
+    {
+      "item": "goety:border_wraith_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:border_wraith_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:bottom_dirty_end_basalt",
+      "emc": 4
+    },
+    {
+      "item": "goety:bottom_soiled_end_basalt",
+      "emc": 4
+    },
+    {
+      "item": "goety:bouncy_bubble_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:bound_cryologer_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:bound_evoker_spawn_egg",
+      "emc": 2000
+    },
+    {
+      "item": "goety:bound_geomancer_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:bound_iceologer_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:bound_storm_caster_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:bound_wind_caller_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:braced_crag_tile_pillar",
+      "emc": 8
+    },
+    {
+      "item": "goety:brew",
+      "emc": 800
+    },
+    {
+      "item": "goety:brew_bag",
+      "emc": 1152
+    },
+    {
+      "item": "goety:brick_brazier",
+      "emc": 250
+    },
+    {
+      "item": "goety:brick_soul_brazier",
+      "emc": 512
+    },
+    {
+      "item": "goety:brood_mother_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:brood_mother_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:bulwark_focus",
+      "emc": 7840
+    },
+    {
+      "item": "goety:buried_scroll",
+      "emc": 500
+    },
+    {
+      "item": "goety:burrowing_focus",
+      "emc": 17280
+    },
+    {
+      "item": "goety:bygone_scroll",
+      "emc": 500
+    },
+    {
+      "item": "goety:cairn_necromancer_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:cairn_necromancer_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:call_focus",
+      "emc": 4352
+    },
+    {
+      "item": "goety:carrion_fly_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:carrion_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:carrion_maggot_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:carved_indented_gold",
+      "emc": 4608
+    },
+    {
+      "item": "goety:cauldron_ladle",
+      "emc": 200
+    },
+    {
+      "item": "goety:cave_spider_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:charge_focus",
+      "emc": 512
+    },
+    {
+      "item": "goety:chill_fabric",
+      "emc": 969
+    },
+    {
+      "item": "goety:chilling_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:chipped_dark_anvil",
+      "emc": 3000
+    },
+    {
+      "item": "goety:chiseled_end_stone",
+      "emc": 1
+    },
+    {
+      "item": "goety:chiseled_end_stone_bricks",
+      "emc": 1
+    },
+    {
+      "item": "goety:chiseled_indented_gold",
+      "emc": 3072
+    },
+    {
+      "item": "goety:chiseled_ominous_stone",
+      "emc": 108
+    },
+    {
+      "item": "goety:chiseled_ominous_stone_bricks",
+      "emc": 108
+    },
+    {
+      "item": "goety:chiseled_polished_ominous_stone",
+      "emc": 108
+    },
+    {
+      "item": "goety:chiseled_siltstone",
+      "emc": 64
+    },
+    {
+      "item": "goety:chiseled_siltstone_bricks",
+      "emc": 64
+    },
+    {
+      "item": "goety:chorus_blossom_leaves",
+      "emc": 4
+    },
+    {
+      "item": "goety:chorus_blossom_vines",
+      "emc": 64
+    },
+    {
+      "item": "goety:chorus_blossom_vines_pruned",
+      "emc": 64
+    },
+    {
+      "item": "goety:chorus_boat",
+      "emc": 40
+    },
+    {
+      "item": "goety:chorus_bookshelf",
+      "emc": 500
+    },
+    {
+      "item": "goety:chorus_button",
+      "emc": 4
+    },
+    {
+      "item": "goety:chorus_chest",
+      "emc": 64
+    },
+    {
+      "item": "goety:chorus_chest_boat",
+      "emc": 40
+    },
+    {
+      "item": "goety:chorus_door",
+      "emc": 16
+    },
+    {
+      "item": "goety:chorus_end_stone_pillar",
+      "emc": 8
+    },
+    {
+      "item": "goety:chorus_fence",
+      "emc": 12
+    },
+    {
+      "item": "goety:chorus_fence_gate",
+      "emc": 12
+    },
+    {
+      "item": "goety:chorus_fern",
+      "emc": 64
+    },
+    {
+      "item": "goety:chorus_fern_sprout",
+      "emc": 64
+    },
+    {
+      "item": "goety:chorus_grass_block",
+      "emc": 4
+    },
+    {
+      "item": "goety:chorus_grass_block_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:chorus_grass_dirt",
+      "emc": 4
+    },
+    {
+      "item": "goety:chorus_grass_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:chorus_growth",
+      "emc": 64
+    },
+    {
+      "item": "goety:chorus_hanging_sign",
+      "emc": 40
+    },
+    {
+      "item": "goety:chorus_leaves",
+      "emc": 4
+    },
+    {
+      "item": "goety:chorus_log",
+      "emc": 32
+    },
+    {
+      "item": "goety:chorus_planks",
+      "emc": 8
+    },
+    {
+      "item": "goety:chorus_pressure_plate",
+      "emc": 8
+    },
+    {
+      "item": "goety:chorus_sapling",
+      "emc": 4
+    },
+    {
+      "item": "goety:chorus_sign",
+      "emc": 40
+    },
+    {
+      "item": "goety:chorus_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:chorus_sprout",
+      "emc": 64
+    },
+    {
+      "item": "goety:chorus_stairs",
+      "emc": 12
+    },
+    {
+      "item": "goety:chorus_stalk",
+      "emc": 64
+    },
+    {
+      "item": "goety:chorus_tall_grass",
+      "emc": 4
+    },
+    {
+      "item": "goety:chorus_trapdoor",
+      "emc": 16
+    },
+    {
+      "item": "goety:chorus_vine",
+      "emc": 64
+    },
+    {
+      "item": "goety:chorus_wall_hanging_sign",
+      "emc": 40
+    },
+    {
+      "item": "goety:chorus_wall_sign",
+      "emc": 40
+    },
+    {
+      "item": "goety:chorus_wood",
+      "emc": 32
+    },
+    {
+      "item": "goety:chorus_wood_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:chorus_wood_stairs",
+      "emc": 12
+    },
+    {
+      "item": "goety:cobbled_chorus_grass_block",
+      "emc": 4
+    },
+    {
+      "item": "goety:cobbled_dark_dirt",
+      "emc": 4
+    },
+    {
+      "item": "goety:cobbled_dirt",
+      "emc": 4
+    },
+    {
+      "item": "goety:cobbled_end_stone",
+      "emc": 4
+    },
+    {
+      "item": "goety:cobbled_end_stone_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:cobbled_end_stone_stairs",
+      "emc": 12
+    },
+    {
+      "item": "goety:cobbled_end_stone_wall",
+      "emc": 4
+    },
+    {
+      "item": "goety:cobbled_ominous_stone",
+      "emc": 108
+    },
+    {
+      "item": "goety:cobbled_ominous_stone_path",
+      "emc": 4
+    },
+    {
+      "item": "goety:cobbled_ominous_stone_slab",
+      "emc": 108
+    },
+    {
+      "item": "goety:cobbled_ominous_stone_stairs",
+      "emc": 108
+    },
+    {
+      "item": "goety:cobbled_ominous_stone_wall",
+      "emc": 108
+    },
+    {
+      "item": "goety:cobbled_siltstone",
+      "emc": 8
+    },
+    {
+      "item": "goety:cobbled_siltstone_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:cobbled_siltstone_stairs",
+      "emc": 12
+    },
+    {
+      "item": "goety:cobbled_siltstone_wall",
+      "emc": 8
+    },
+    {
+      "item": "goety:command_focus",
+      "emc": 1178
+    },
+    {
+      "item": "goety:command_horn",
+      "emc": 8000
+    },
+    {
+      "item": "goety:compacted_pine_planks",
+      "emc": 8
+    },
+    {
+      "item": "goety:compacted_pine_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:compacted_windswept_planks",
+      "emc": 8
+    },
+    {
+      "item": "goety:compacted_windswept_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:conquillager_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:cooked_feet_of_frog",
+      "emc": 96
+    },
+    {
+      "item": "goety:corpse_blossom",
+      "emc": 128
+    },
+    {
+      "item": "goety:corrupt_chorus_boat",
+      "emc": 40
+    },
+    {
+      "item": "goety:corrupt_chorus_bookshelf",
+      "emc": 500
+    },
+    {
+      "item": "goety:corrupt_chorus_button",
+      "emc": 4
+    },
+    {
+      "item": "goety:corrupt_chorus_chest",
+      "emc": 64
+    },
+    {
+      "item": "goety:corrupt_chorus_chest_boat",
+      "emc": 40
+    },
+    {
+      "item": "goety:corrupt_chorus_door",
+      "emc": 16
+    },
+    {
+      "item": "goety:corrupt_chorus_fence",
+      "emc": 12
+    },
+    {
+      "item": "goety:corrupt_chorus_fence_gate",
+      "emc": 12
+    },
+    {
+      "item": "goety:corrupt_chorus_hanging_sign",
+      "emc": 40
+    },
+    {
+      "item": "goety:corrupt_chorus_log",
+      "emc": 32
+    },
+    {
+      "item": "goety:corrupt_chorus_planks",
+      "emc": 8
+    },
+    {
+      "item": "goety:corrupt_chorus_pressure_plate",
+      "emc": 8
+    },
+    {
+      "item": "goety:corrupt_chorus_sign",
+      "emc": 40
+    },
+    {
+      "item": "goety:corrupt_chorus_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:corrupt_chorus_stairs",
+      "emc": 12
+    },
+    {
+      "item": "goety:corrupt_chorus_trapdoor",
+      "emc": 16
+    },
+    {
+      "item": "goety:corrupt_chorus_wall_hanging_sign",
+      "emc": 40
+    },
+    {
+      "item": "goety:corrupt_chorus_wall_sign",
+      "emc": 40
+    },
+    {
+      "item": "goety:corrupt_chorus_wood",
+      "emc": 32
+    },
+    {
+      "item": "goety:corruption_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:cracked_crag_pavement",
+      "emc": 8
+    },
+    {
+      "item": "goety:cracked_crag_pavement_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:cracked_marble",
+      "emc": 4
+    },
+    {
+      "item": "goety:cracked_marble_slab",
+      "emc": 1
+    },
+    {
+      "item": "goety:cracked_ominous_stone_bricks",
+      "emc": 108
+    },
+    {
+      "item": "goety:cracked_polished_ominous_stone",
+      "emc": 108
+    },
+    {
+      "item": "goety:crafting_focus",
+      "emc": 392
+    },
+    {
+      "item": "goety:crag_brick_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:crag_brick_stairs",
+      "emc": 12
+    },
+    {
+      "item": "goety:crag_brick_wall",
+      "emc": 8
+    },
+    {
+      "item": "goety:crag_bricks",
+      "emc": 8
+    },
+    {
+      "item": "goety:crag_pavement",
+      "emc": 8
+    },
+    {
+      "item": "goety:crag_pavement_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:crag_tile_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:crag_tile_stairs",
+      "emc": 12
+    },
+    {
+      "item": "goety:crag_tile_wall",
+      "emc": 8
+    },
+    {
+      "item": "goety:crag_tiles",
+      "emc": 8
+    },
+    {
+      "item": "goety:cragrocks",
+      "emc": 8
+    },
+    {
+      "item": "goety:cragrocks_fence",
+      "emc": 12
+    },
+    {
+      "item": "goety:cragrocks_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:cragrocks_stairs",
+      "emc": 12
+    },
+    {
+      "item": "goety:cragrocks_wall",
+      "emc": 8
+    },
+    {
+      "item": "goety:creeper_totem",
+      "emc": 512
+    },
+    {
+      "item": "goety:crone_hat",
+      "emc": 800
+    },
+    {
+      "item": "goety:crone_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:cross_banner_pattern",
+      "emc": 300
+    },
+    {
+      "item": "goety:cross_banner_pattern.desc",
+      "emc": 200
+    },
+    {
+      "item": "goety:cross_pottery_sherd",
+      "emc": 150
+    },
+    {
+      "item": "goety:crusher_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:crusher_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:cryologer_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:cryologer_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:crypt_bookshelf",
+      "emc": 500
+    },
+    {
+      "item": "goety:crypt_bricks",
+      "emc": 16
+    },
+    {
+      "item": "goety:crypt_bricks_slab",
+      "emc": 16
+    },
+    {
+      "item": "goety:crypt_bricks_stairs",
+      "emc": 16
+    },
+    {
+      "item": "goety:crypt_bricks_wall",
+      "emc": 16
+    },
+    {
+      "item": "goety:crypt_chest",
+      "emc": 64
+    },
+    {
+      "item": "goety:crypt_pillar",
+      "emc": 32
+    },
+    {
+      "item": "goety:crypt_plinth",
+      "emc": 64
+    },
+    {
+      "item": "goety:crypt_sarcophagus",
+      "emc": 8
+    },
+    {
+      "item": "goety:crypt_slime_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:crypt_slime_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:crypt_stone",
+      "emc": 64
+    },
+    {
+      "item": "goety:crypt_stone_chiseled",
+      "emc": 64
+    },
+    {
+      "item": "goety:crypt_stone_polished",
+      "emc": 64
+    },
+    {
+      "item": "goety:crypt_stone_polished_slab",
+      "emc": 64
+    },
+    {
+      "item": "goety:crypt_stone_polished_stairs",
+      "emc": 16
+    },
+    {
+      "item": "goety:crypt_stone_polished_wall",
+      "emc": 10
+    },
+    {
+      "item": "goety:crypt_stone_slab",
+      "emc": 64
+    },
+    {
+      "item": "goety:crypt_stone_stairs",
+      "emc": 64
+    },
+    {
+      "item": "goety:crypt_tiles",
+      "emc": 64
+    },
+    {
+      "item": "goety:crypt_tiles_slab",
+      "emc": 64
+    },
+    {
+      "item": "goety:crypt_tiles_stairs",
+      "emc": 64
+    },
+    {
+      "item": "goety:crypt_tiles_wall",
+      "emc": 64
+    },
+    {
+      "item": "goety:crypt_urn",
+      "emc": 8
+    },
+    {
+      "item": "goety:cryptic_eye",
+      "emc": 8
+    },
+    {
+      "item": "goety:crystal_ball",
+      "emc": 1024
+    },
+    {
+      "item": "goety:cursed_bars",
+      "emc": 48
+    },
+    {
+      "item": "goety:cursed_cage",
+      "emc": 1500
+    },
+    {
+      "item": "goety:cursed_infuser",
+      "emc": 3000
+    },
+    {
+      "item": "goety:cursed_ingot",
+      "emc": 768
+    },
+    {
+      "item": "goety:cursed_knight_boots",
+      "emc": 3000
+    },
+    {
+      "item": "goety:cursed_knight_chestplate",
+      "emc": 3000
+    },
+    {
+      "item": "goety:cursed_knight_helmet",
+      "emc": 3000
+    },
+    {
+      "item": "goety:cursed_knight_leggings",
+      "emc": 3000
+    },
+    {
+      "item": "goety:cursed_metal_block",
+      "emc": 768
+    },
+    {
+      "item": "goety:cursed_paladin_boots",
+      "emc": 3000
+    },
+    {
+      "item": "goety:cursed_paladin_chestplate",
+      "emc": 3000
+    },
+    {
+      "item": "goety:cursed_paladin_helmet",
+      "emc": 3000
+    },
+    {
+      "item": "goety:cursed_paladin_leggings",
+      "emc": 3000
+    },
+    {
+      "item": "goety:cushion_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:cyclone_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:damaged_dark_anvil",
+      "emc": 2000
+    },
+    {
+      "item": "goety:dark_altar",
+      "emc": 3000
+    },
+    {
+      "item": "goety:dark_altar_blackstone",
+      "emc": 16384
+    },
+    {
+      "item": "goety:dark_altar_crypt_stone",
+      "emc": 16384
+    },
+    {
+      "item": "goety:dark_altar_deepslate",
+      "emc": 16384
+    },
+    {
+      "item": "goety:dark_altar_end_stone",
+      "emc": 16388
+    },
+    {
+      "item": "goety:dark_altar_highrock",
+      "emc": 3000
+    },
+    {
+      "item": "goety:dark_altar_marble",
+      "emc": 16388
+    },
+    {
+      "item": "goety:dark_altar_nether_brick",
+      "emc": 8
+    },
+    {
+      "item": "goety:dark_altar_ominous_stone",
+      "emc": 16384
+    },
+    {
+      "item": "goety:dark_altar_prismarine",
+      "emc": 3000
+    },
+    {
+      "item": "goety:dark_altar_stone",
+      "emc": 16384
+    },
+    {
+      "item": "goety:dark_anvil",
+      "emc": 4000
+    },
+    {
+      "item": "goety:dark_axe",
+      "emc": 1500
+    },
+    {
+      "item": "goety:dark_boots",
+      "emc": 1000
+    },
+    {
+      "item": "goety:dark_chestplate",
+      "emc": 1000
+    },
+    {
+      "item": "goety:dark_dirt",
+      "emc": 13
+    },
+    {
+      "item": "goety:dark_dirt_slab",
+      "emc": 2
+    },
+    {
+      "item": "goety:dark_fabric",
+      "emc": 192
+    },
+    {
+      "item": "goety:dark_hat",
+      "emc": 2304
+    },
+    {
+      "item": "goety:dark_helmet",
+      "emc": 1000
+    },
+    {
+      "item": "goety:dark_hoe",
+      "emc": 1000
+    },
+    {
+      "item": "goety:dark_ingot",
+      "emc": 512
+    },
+    {
+      "item": "goety:dark_leggings",
+      "emc": 1000
+    },
+    {
+      "item": "goety:dark_metal_block",
+      "emc": 4
+    },
+    {
+      "item": "goety:dark_metal_ingot",
+      "emc": 640
+    },
+    {
+      "item": "goety:dark_metal_scythe",
+      "emc": 4000
+    },
+    {
+      "item": "goety:dark_pickaxe",
+      "emc": 1500
+    },
+    {
+      "item": "goety:dark_pressure_plate",
+      "emc": 8
+    },
+    {
+      "item": "goety:dark_robe",
+      "emc": 704
+    },
+    {
+      "item": "goety:dark_robe_fancy",
+      "emc": 704
+    },
+    {
+      "item": "goety:dark_scroll",
+      "emc": 2000
+    },
+    {
+      "item": "goety:dark_scythe",
+      "emc": 10520
+    },
+    {
+      "item": "goety:dark_shovel",
+      "emc": 600
+    },
+    {
+      "item": "goety:dark_soul",
+      "emc": 256
+    },
+    {
+      "item": "goety:dark_sword",
+      "emc": 1200
+    },
+    {
+      "item": "goety:dark_wand",
+      "emc": 1768
+    },
+    {
+      "item": "goety:dead_pottery_sherd",
+      "emc": 150
+    },
+    {
+      "item": "goety:deadly_nightshade",
+      "emc": 64
+    },
+    {
+      "item": "goety:death_scythe",
+      "emc": 300000
+    },
+    {
+      "item": "goety:deepslate_brazier",
+      "emc": 250
+    },
+    {
+      "item": "goety:deepslate_sarcophagus",
+      "emc": 8
+    },
+    {
+      "item": "goety:deepslate_soul_brazier",
+      "emc": 512
+    },
+    {
+      "item": "goety:deepslate_throne",
+      "emc": 8
+    },
+    {
+      "item": "goety:dense_banded_steep_planks",
+      "emc": 898
+    },
+    {
+      "item": "goety:dense_steep_planks",
+      "emc": 10
+    },
+    {
+      "item": "goety:detritus",
+      "emc": 1
+    },
+    {
+      "item": "goety:detritus_dust",
+      "emc": 1
+    },
+    {
+      "item": "goety:diamond_ice_axe",
+      "emc": 9140
+    },
+    {
+      "item": "goety:diamond_mold_block",
+      "emc": 18432
+    },
+    {
+      "item": "goety:diamond_ravager_armor",
+      "emc": 94720
+    },
+    {
+      "item": "goety:diamond_trampler_armor",
+      "emc": 8000
+    },
+    {
+      "item": "goety:dirty_chiseled_siltstone",
+      "emc": 8
+    },
+    {
+      "item": "goety:dirty_cobbled_end_stone",
+      "emc": 4
+    },
+    {
+      "item": "goety:dirty_cobbled_end_stone_heavy",
+      "emc": 4
+    },
+    {
+      "item": "goety:dirty_cobbled_siltstone",
+      "emc": 4
+    },
+    {
+      "item": "goety:dirty_end_basalt",
+      "emc": 4
+    },
+    {
+      "item": "goety:dirty_end_rock",
+      "emc": 4
+    },
+    {
+      "item": "goety:dirty_ominous_stone",
+      "emc": 3
+    },
+    {
+      "item": "goety:dirty_ominous_stone_bricks",
+      "emc": 3
+    },
+    {
+      "item": "goety:dirty_ominous_stone_bricks_heavy",
+      "emc": 1
+    },
+    {
+      "item": "goety:dirty_ominous_stone_bricks_slight",
+      "emc": 13
+    },
+    {
+      "item": "goety:dirty_ominous_stone_pavement",
+      "emc": 60
+    },
+    {
+      "item": "goety:dirty_ominous_stone_pavement_heavy",
+      "emc": 36
+    },
+    {
+      "item": "goety:dirty_ominous_stone_slight",
+      "emc": 13
+    },
+    {
+      "item": "goety:dirty_ominous_stone_tiles",
+      "emc": 7
+    },
+    {
+      "item": "goety:dirty_ominous_stone_tiles_heavy",
+      "emc": 5
+    },
+    {
+      "item": "goety:dirty_ominous_stone_tiles_slight",
+      "emc": 15
+    },
+    {
+      "item": "goety:dirty_siltstone",
+      "emc": 16
+    },
+    {
+      "item": "goety:dirty_siltstone_heavy",
+      "emc": 4
+    },
+    {
+      "item": "goety:discharge_focus",
+      "emc": 1604
+    },
+    {
+      "item": "goety:drowned_necromancer_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:drowned_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:earth_punch_focus",
+      "emc": 17117
+    },
+    {
+      "item": "goety:ectoplasm",
+      "emc": 512
+    },
+    {
+      "item": "goety:eerie_pickaxe",
+      "emc": 11264
+    },
+    {
+      "item": "goety:elder_guardian_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:electrocute_focus",
+      "emc": 1152
+    },
+    {
+      "item": "goety:empty_focus",
+      "emc": 384
+    },
+    {
+      "item": "goety:empty_soul_jar",
+      "emc": 160
+    },
+    {
+      "item": "goety:end_basalt",
+      "emc": 4
+    },
+    {
+      "item": "goety:end_basalt_brick_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:end_basalt_brick_stairs",
+      "emc": 12
+    },
+    {
+      "item": "goety:end_basalt_bricks",
+      "emc": 8
+    },
+    {
+      "item": "goety:end_basalt_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:end_basalt_stairs",
+      "emc": 12
+    },
+    {
+      "item": "goety:end_dirt",
+      "emc": 4
+    },
+    {
+      "item": "goety:end_dirt_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:end_grass",
+      "emc": 4
+    },
+    {
+      "item": "goety:end_grass_sprout",
+      "emc": 4
+    },
+    {
+      "item": "goety:end_growth_block",
+      "emc": 4
+    },
+    {
+      "item": "goety:end_growth_vines",
+      "emc": 8
+    },
+    {
+      "item": "goety:end_growth_vines_plant",
+      "emc": 8
+    },
+    {
+      "item": "goety:end_lamp",
+      "emc": 500
+    },
+    {
+      "item": "goety:end_mud",
+      "emc": 4
+    },
+    {
+      "item": "goety:end_mud_bottle",
+      "emc": 12
+    },
+    {
+      "item": "goety:end_mud_bucket",
+      "emc": 773
+    },
+    {
+      "item": "goety:end_mud_cauldron",
+      "emc": 1800
+    },
+    {
+      "item": "goety:end_mud_fluid",
+      "emc": 4
+    },
+    {
+      "item": "goety:end_mud_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:end_rock",
+      "emc": 4
+    },
+    {
+      "item": "goety:end_rock_brick_fence",
+      "emc": 12
+    },
+    {
+      "item": "goety:end_rock_brick_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:end_rock_brick_stairs",
+      "emc": 12
+    },
+    {
+      "item": "goety:end_rock_brick_wall",
+      "emc": 8
+    },
+    {
+      "item": "goety:end_rock_bricks",
+      "emc": 8
+    },
+    {
+      "item": "goety:end_rock_chiseled",
+      "emc": 8
+    },
+    {
+      "item": "goety:end_rock_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:end_rock_slate",
+      "emc": 8
+    },
+    {
+      "item": "goety:end_rock_stairs",
+      "emc": 12
+    },
+    {
+      "item": "goety:end_rod_block",
+      "emc": 336
+    },
+    {
+      "item": "goety:end_soil",
+      "emc": 4
+    },
+    {
+      "item": "goety:end_soil_debris",
+      "emc": 4
+    },
+    {
+      "item": "goety:end_stone_pillar",
+      "emc": 2
+    },
+    {
+      "item": "goety:end_stone_slab",
+      "emc": 1
+    },
+    {
+      "item": "goety:end_stone_slate",
+      "emc": 8
+    },
+    {
+      "item": "goety:end_stone_slate_rock",
+      "emc": 8
+    },
+    {
+      "item": "goety:end_stone_tile_slab",
+      "emc": 1
+    },
+    {
+      "item": "goety:end_stone_tile_stairs",
+      "emc": 1
+    },
+    {
+      "item": "goety:end_stone_tiles",
+      "emc": 1
+    },
+    {
+      "item": "goety:end_walk_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:ender_chest_focus",
+      "emc": 3904
+    },
+    {
+      "item": "goety:ender_keeper_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:endersent_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:entangling_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:envioker_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:eruption_focus",
+      "emc": 2114
+    },
+    {
+      "item": "goety:esoteric_tesseract",
+      "emc": 22342
+    },
+    {
+      "item": "goety:eternal_cauldron",
+      "emc": 4000
+    },
+    {
+      "item": "goety:evoker_servant_spawn_egg",
+      "emc": 2000
+    },
+    {
+      "item": "goety:fanged_dagger",
+      "emc": 3000
+    },
+    {
+      "item": "goety:feast_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:feet_of_frog",
+      "emc": 64
+    },
+    {
+      "item": "goety:feline_amulet",
+      "emc": 1044
+    },
+    {
+      "item": "goety:fell_blade",
+      "emc": 20000
+    },
+    {
+      "item": "goety:fire_blast_focus",
+      "emc": 10372
+    },
+    {
+      "item": "goety:fire_breath_focus",
+      "emc": 576
+    },
+    {
+      "item": "goety:fireball_focus",
+      "emc": 2263
+    },
+    {
+      "item": "goety:firethorn",
+      "emc": 64
+    },
+    {
+      "item": "goety:firethorn_berries",
+      "emc": 32
+    },
+    {
+      "item": "goety:flame_capture",
+      "emc": 1500
+    },
+    {
+      "item": "goety:flame_strike_focus",
+      "emc": 4336
+    },
+    {
+      "item": "goety:floral_scroll",
+      "emc": 500
+    },
+    {
+      "item": "goety:flying_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:flying_ointment",
+      "emc": 2000
+    },
+    {
+      "item": "goety:focus_bag",
+      "emc": 2496
+    },
+    {
+      "item": "goety:focus_pack",
+      "emc": 2560
+    },
+    {
+      "item": "goety:forbidden_fragment",
+      "emc": 256
+    },
+    {
+      "item": "goety:forbidden_grass",
+      "emc": 8
+    },
+    {
+      "item": "goety:forbidden_piece",
+      "emc": 2000
+    },
+    {
+      "item": "goety:forbidden_scroll",
+      "emc": 2000
+    },
+    {
+      "item": "goety:frayed_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:frayed_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:freezing_lamp",
+      "emc": 500
+    },
+    {
+      "item": "goety:front_scroll",
+      "emc": 500
+    },
+    {
+      "item": "goety:frost_breath_focus",
+      "emc": 397
+    },
+    {
+      "item": "goety:frost_crown",
+      "emc": 20818
+    },
+    {
+      "item": "goety:frost_nova_focus",
+      "emc": 4000
+    },
+    {
+      "item": "goety:frost_robe",
+      "emc": 4516
+    },
+    {
+      "item": "goety:frost_robe_cryo",
+      "emc": 4516
+    },
+    {
+      "item": "goety:frost_staff",
+      "emc": 12417
+    },
+    {
+      "item": "goety:frostborn_focus",
+      "emc": 4000
+    },
+    {
+      "item": "goety:frosted_throne",
+      "emc": 1500
+    },
+    {
+      "item": "goety:frosty_carpet",
+      "emc": 8
+    },
+    {
+      "item": "goety:frosty_carpet_corner",
+      "emc": 8
+    },
+    {
+      "item": "goety:frosty_carpet_edge",
+      "emc": 8
+    },
+    {
+      "item": "goety:frosty_carpet_inner_corner",
+      "emc": 8
+    },
+    {
+      "item": "goety:frozen_blade",
+      "emc": 15000
+    },
+    {
+      "item": "goety:frozen_zombie_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:gale_banner_pattern",
+      "emc": 300
+    },
+    {
+      "item": "goety:gale_banner_pattern.desc",
+      "emc": 200
+    },
+    {
+      "item": "goety:gale_fabric",
+      "emc": 888
+    },
+    {
+      "item": "goety:gas_brew",
+      "emc": 800
+    },
+    {
+      "item": "goety:geo_robe",
+      "emc": 256
+    },
+    {
+      "item": "goety:geo_staff",
+      "emc": 12192
+    },
+    {
+      "item": "goety:geomancer_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:ghast_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:ghastly_focus",
+      "emc": 11363
+    },
+    {
+      "item": "goety:ghost_fire_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:glow_light",
+      "emc": 200
+    },
+    {
+      "item": "goety:glow_light_focus",
+      "emc": 772
+    },
+    {
+      "item": "goety:gnasher_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:gold_arch_marble",
+      "emc": 2052
+    },
+    {
+      "item": "goety:gold_banded_marble",
+      "emc": 2052
+    },
+    {
+      "item": "goety:gold_candelabra",
+      "emc": 4096
+    },
+    {
+      "item": "goety:gold_candlestick",
+      "emc": 2048
+    },
+    {
+      "item": "goety:gold_chandelier",
+      "emc": 20480
+    },
+    {
+      "item": "goety:gold_chiseled_highrock_bricks",
+      "emc": 8
+    },
+    {
+      "item": "goety:gold_covered_marble",
+      "emc": 513
+    },
+    {
+      "item": "goety:gold_dungeon_chain",
+      "emc": 944
+    },
+    {
+      "item": "goety:gold_dungeon_torch",
+      "emc": 2112
+    },
+    {
+      "item": "goety:gold_holder_marble",
+      "emc": 2052
+    },
+    {
+      "item": "goety:gold_indented_highrock_bricks",
+      "emc": 8
+    },
+    {
+      "item": "goety:gold_plated_marble",
+      "emc": 2052
+    },
+    {
+      "item": "goety:gold_ravager_armor",
+      "emc": 27136
+    },
+    {
+      "item": "goety:gold_trampler_armor",
+      "emc": 2000
+    },
+    {
+      "item": "goety:gold_trapdoor",
+      "emc": 16
+    },
+    {
+      "item": "goety:grand_robe",
+      "emc": 800
+    },
+    {
+      "item": "goety:grand_turban",
+      "emc": 800
+    },
+    {
+      "item": "goety:grapple_focus",
+      "emc": 488
+    },
+    {
+      "item": "goety:grassy_cobbled_end_stone",
+      "emc": 4
+    },
+    {
+      "item": "goety:grassy_end_basalt",
+      "emc": 4
+    },
+    {
+      "item": "goety:grassy_end_rock",
+      "emc": 4
+    },
+    {
+      "item": "goety:grassy_end_rock_bricks",
+      "emc": 4
+    },
+    {
+      "item": "goety:grassy_end_stone_bricks",
+      "emc": 4
+    },
+    {
+      "item": "goety:grassy_end_stone_bricks_heavy",
+      "emc": 4
+    },
+    {
+      "item": "goety:grassy_end_stone_tiles",
+      "emc": 4
+    },
+    {
+      "item": "goety:grassy_purpur_block",
+      "emc": 4
+    },
+    {
+      "item": "goety:grassy_smooth_end_stone",
+      "emc": 4
+    },
+    {
+      "item": "goety:grassy_smooth_end_stone_heavy",
+      "emc": 4
+    },
+    {
+      "item": "goety:grave_dust",
+      "emc": 128
+    },
+    {
+      "item": "goety:grave_glove",
+      "emc": 800
+    },
+    {
+      "item": "goety:grave_golem_skull",
+      "emc": 8000
+    },
+    {
+      "item": "goety:grave_golem_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:grave_soil",
+      "emc": 8
+    },
+    {
+      "item": "goety:graverobber_shovel",
+      "emc": 10512
+    },
+    {
+      "item": "goety:great_hammer",
+      "emc": 28704
+    },
+    {
+      "item": "goety:green_siltstone_pillar",
+      "emc": 8
+    },
+    {
+      "item": "goety:grim_infuser",
+      "emc": 3000
+    },
+    {
+      "item": "goety:grimoire_of_goodwill",
+      "emc": 2736
+    },
+    {
+      "item": "goety:grimoire_of_grounding",
+      "emc": 1136
+    },
+    {
+      "item": "goety:grimoire_of_grudges",
+      "emc": 3000
+    },
+    {
+      "item": "goety:grown_cobbled_end_stone",
+      "emc": 4
+    },
+    {
+      "item": "goety:grown_end_rock",
+      "emc": 4
+    },
+    {
+      "item": "goety:guardian_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:guardian_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:hail_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:half_jade_crystal_lamp",
+      "emc": 400
+    },
+    {
+      "item": "goety:hardened_leaves",
+      "emc": 4
+    },
+    {
+      "item": "goety:haunt_pottery_sherd",
+      "emc": 150
+    },
+    {
+      "item": "goety:haunt_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:haunted_armor_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:haunted_armor_stand",
+      "emc": 176
+    },
+    {
+      "item": "goety:haunted_boat",
+      "emc": 40
+    },
+    {
+      "item": "goety:haunted_bookshelf",
+      "emc": 500
+    },
+    {
+      "item": "goety:haunted_broom",
+      "emc": 3000
+    },
+    {
+      "item": "goety:haunted_button",
+      "emc": 4
+    },
+    {
+      "item": "goety:haunted_chest",
+      "emc": 64
+    },
+    {
+      "item": "goety:haunted_chest_boat",
+      "emc": 40
+    },
+    {
+      "item": "goety:haunted_door",
+      "emc": 16
+    },
+    {
+      "item": "goety:haunted_fence",
+      "emc": 12
+    },
+    {
+      "item": "goety:haunted_fence_gate",
+      "emc": 12
+    },
+    {
+      "item": "goety:haunted_glass",
+      "emc": 128
+    },
+    {
+      "item": "goety:haunted_glass_mob",
+      "emc": 128
+    },
+    {
+      "item": "goety:haunted_glass_mob_tinted",
+      "emc": 192
+    },
+    {
+      "item": "goety:haunted_glass_tinted",
+      "emc": 192
+    },
+    {
+      "item": "goety:haunted_hanging_sign",
+      "emc": 40
+    },
+    {
+      "item": "goety:haunted_jug",
+      "emc": 3843
+    },
+    {
+      "item": "goety:haunted_lamp",
+      "emc": 300
+    },
+    {
+      "item": "goety:haunted_log",
+      "emc": 32
+    },
+    {
+      "item": "goety:haunted_mirror",
+      "emc": 11136
+    },
+    {
+      "item": "goety:haunted_painting",
+      "emc": 500
+    },
+    {
+      "item": "goety:haunted_planks",
+      "emc": 8
+    },
+    {
+      "item": "goety:haunted_pressure_plate",
+      "emc": 8
+    },
+    {
+      "item": "goety:haunted_sapling",
+      "emc": 32
+    },
+    {
+      "item": "goety:haunted_sign",
+      "emc": 40
+    },
+    {
+      "item": "goety:haunted_skull_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:haunted_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:haunted_stairs",
+      "emc": 12
+    },
+    {
+      "item": "goety:haunted_trapdoor",
+      "emc": 16
+    },
+    {
+      "item": "goety:haunted_wall_hanging_sign",
+      "emc": 40
+    },
+    {
+      "item": "goety:haunted_wall_sign",
+      "emc": 40
+    },
+    {
+      "item": "goety:haunted_wood",
+      "emc": 32
+    },
+    {
+      "item": "goety:haunting_scroll",
+      "emc": 500
+    },
+    {
+      "item": "goety:heart_of_the_night",
+      "emc": 20000
+    },
+    {
+      "item": "goety:hellhound_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:henbane",
+      "emc": 48
+    },
+    {
+      "item": "goety:henbane_flower",
+      "emc": 16
+    },
+    {
+      "item": "goety:henbane_seeds",
+      "emc": 16
+    },
+    {
+      "item": "goety:heresiarch_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:heretic_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:heretic_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:highrock",
+      "emc": 4
+    },
+    {
+      "item": "goety:highrock_brick_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:highrock_brick_stairs",
+      "emc": 12
+    },
+    {
+      "item": "goety:highrock_brick_wall",
+      "emc": 8
+    },
+    {
+      "item": "goety:highrock_bricks",
+      "emc": 8
+    },
+    {
+      "item": "goety:highrock_indented_bricks",
+      "emc": 8
+    },
+    {
+      "item": "goety:highrock_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:highrock_stairs",
+      "emc": 12
+    },
+    {
+      "item": "goety:highrock_throne",
+      "emc": 4
+    },
+    {
+      "item": "goety:highrock_wall",
+      "emc": 4
+    },
+    {
+      "item": "goety:hogging_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:hoglin_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:hole",
+      "emc": 100
+    },
+    {
+      "item": "goety:hook_bell",
+      "emc": 2000
+    },
+    {
+      "item": "goety:hostile_black_wolf_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:hostile_redstone_golem_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:hostile_redstone_monstrosity_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:howling_soul",
+      "emc": 512
+    },
+    {
+      "item": "goety:hunger_core",
+      "emc": 440
+    },
+    {
+      "item": "goety:hungry_dagger",
+      "emc": 5000
+    },
+    {
+      "item": "goety:hunters_bow",
+      "emc": 25456
+    },
+    {
+      "item": "goety:hunting_focus",
+      "emc": 488
+    },
+    {
+      "item": "goety:husk_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:ice_bouquet_trap",
+      "emc": 2000
+    },
+    {
+      "item": "goety:ice_cube",
+      "emc": 9
+    },
+    {
+      "item": "goety:ice_golem_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:ice_spike_focus",
+      "emc": 492
+    },
+    {
+      "item": "goety:ice_storm_focus",
+      "emc": 4000
+    },
+    {
+      "item": "goety:iceologer_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:iceology_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:icy_spider_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:icy_spider_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:ignite_focus",
+      "emc": 644
+    },
+    {
+      "item": "goety:ill_bomb",
+      "emc": 100
+    },
+    {
+      "item": "goety:illuminate_focus",
+      "emc": 3356
+    },
+    {
+      "item": "goety:illusion_focus",
+      "emc": 4074
+    },
+    {
+      "item": "goety:illusion_robe",
+      "emc": 1144
+    },
+    {
+      "item": "goety:illusion_robe_mirror",
+      "emc": 1144
+    },
+    {
+      "item": "goety:indented_gold",
+      "emc": 18432
+    },
+    {
+      "item": "goety:indented_gold_slab",
+      "emc": 3072
+    },
+    {
+      "item": "goety:indented_gold_stairs",
+      "emc": 4608
+    },
+    {
+      "item": "goety:indented_gold_wall",
+      "emc": 3072
+    },
+    {
+      "item": "goety:infernal_tome",
+      "emc": 40672
+    },
+    {
+      "item": "goety:inferno_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:infused_end_stone_pillar",
+      "emc": 171
+    },
+    {
+      "item": "goety:inquillager_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:irk_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:irk_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:iron_dungeon_chain",
+      "emc": 944
+    },
+    {
+      "item": "goety:iron_dungeon_torch",
+      "emc": 288
+    },
+    {
+      "item": "goety:iron_hide_focus",
+      "emc": 17024
+    },
+    {
+      "item": "goety:iron_ice_axe",
+      "emc": 1204
+    },
+    {
+      "item": "goety:iron_ravager_armor",
+      "emc": 7424
+    },
+    {
+      "item": "goety:iron_trampler_armor",
+      "emc": 1000
+    },
+    {
+      "item": "goety:jade",
+      "emc": 1024
+    },
+    {
+      "item": "goety:jade_block",
+      "emc": 4
+    },
+    {
+      "item": "goety:jade_crystal_lamp",
+      "emc": 800
+    },
+    {
+      "item": "goety:jade_light",
+      "emc": 300
+    },
+    {
+      "item": "goety:jade_ore",
+      "emc": 256
+    },
+    {
+      "item": "goety:jade_pillar",
+      "emc": 8
+    },
+    {
+      "item": "goety:jade_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:jade_stairs",
+      "emc": 12
+    },
+    {
+      "item": "goety:jade_tiles",
+      "emc": 8
+    },
+    {
+      "item": "goety:jungle_zombie_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:killing_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:large_chorus_fern",
+      "emc": 64
+    },
+    {
+      "item": "goety:large_chorus_stalk",
+      "emc": 64
+    },
+    {
+      "item": "goety:large_sienna_fern",
+      "emc": 8
+    },
+    {
+      "item": "goety:launch_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:lavaball_focus",
+      "emc": 9951
+    },
+    {
+      "item": "goety:leaping_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:leapleaf_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:leeching_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:lightning_focus",
+      "emc": 9728
+    },
+    {
+      "item": "goety:lined_steep_wall",
+      "emc": 114
+    },
+    {
+      "item": "goety:lined_steep_wood",
+      "emc": 686
+    },
+    {
+      "item": "goety:lingering_brew",
+      "emc": 800
+    },
+    {
+      "item": "goety:lofty_chest",
+      "emc": 64
+    },
+    {
+      "item": "goety:magic_bolt_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:magic_emerald",
+      "emc": 16384
+    },
+    {
+      "item": "goety:magic_fabric",
+      "emc": 512
+    },
+    {
+      "item": "goety:magic_thorn",
+      "emc": 200
+    },
+    {
+      "item": "goety:magma_bomb_focus",
+      "emc": 7564
+    },
+    {
+      "item": "goety:magma_cube_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:malefic_helm",
+      "emc": 5000
+    },
+    {
+      "item": "goety:malghast_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:mandala",
+      "emc": 1052
+    },
+    {
+      "item": "goety:marble",
+      "emc": 4
+    },
+    {
+      "item": "goety:marble_brazier",
+      "emc": 3776
+    },
+    {
+      "item": "goety:marble_slab",
+      "emc": 1
+    },
+    {
+      "item": "goety:marble_soul_brazier",
+      "emc": 2048
+    },
+    {
+      "item": "goety:marble_stairs",
+      "emc": 1
+    },
+    {
+      "item": "goety:marble_throne",
+      "emc": 5
+    },
+    {
+      "item": "goety:marble_wind_blower",
+      "emc": 500
+    },
+    {
+      "item": "goety:mauling_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:maverick_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:maverick_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:messy_end_stone_bricks",
+      "emc": 8
+    },
+    {
+      "item": "goety:meteor_shower_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:mini_ghast_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:minister_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:ministrous_focus",
+      "emc": 1741
+    },
+    {
+      "item": "goety:mistral_scroll",
+      "emc": 500
+    },
+    {
+      "item": "goety:mixed_end_stone",
+      "emc": 1
+    },
+    {
+      "item": "goety:monsoon_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:moon_banner_pattern",
+      "emc": 524
+    },
+    {
+      "item": "goety:moon_banner_pattern.desc",
+      "emc": 200
+    },
+    {
+      "item": "goety:mossy_cobbled_siltstone",
+      "emc": 8
+    },
+    {
+      "item": "goety:mossy_crag_pavement",
+      "emc": 8
+    },
+    {
+      "item": "goety:mossy_crag_pavement_heavy",
+      "emc": 8
+    },
+    {
+      "item": "goety:mossy_crag_tiles",
+      "emc": 8
+    },
+    {
+      "item": "goety:mossy_crag_tiles_slight",
+      "emc": 100
+    },
+    {
+      "item": "goety:mossy_cragrocks",
+      "emc": 8
+    },
+    {
+      "item": "goety:mossy_cragrocks_heavy",
+      "emc": 8
+    },
+    {
+      "item": "goety:mossy_cragrocks_heavy_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:mossy_cragrocks_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:mossy_cragrocks_slight",
+      "emc": 100
+    },
+    {
+      "item": "goety:mossy_cragrocks_slight_slab",
+      "emc": 100
+    },
+    {
+      "item": "goety:mossy_necromancer_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:mossy_necromancer_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:mossy_skeleton_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:mountaineer_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:muck_wraith_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:muck_wraith_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:muddy_smooth_end_stone",
+      "emc": 4
+    },
+    {
+      "item": "goety:music_disc_apostle",
+      "emc": 2000000
+    },
+    {
+      "item": "goety:music_disc_apostle.desc",
+      "emc": 2000000
+    },
+    {
+      "item": "goety:music_disc_enderman",
+      "emc": 2048
+    },
+    {
+      "item": "goety:music_disc_enderman.desc",
+      "emc": 100
+    },
+    {
+      "item": "goety:music_disc_keeper",
+      "emc": 2048
+    },
+    {
+      "item": "goety:music_disc_keeper.desc",
+      "emc": 100
+    },
+    {
+      "item": "goety:music_disc_rm",
+      "emc": 2048
+    },
+    {
+      "item": "goety:music_disc_rm.desc",
+      "emc": 100
+    },
+    {
+      "item": "goety:music_disc_vizier",
+      "emc": 2048
+    },
+    {
+      "item": "goety:music_disc_vizier.desc",
+      "emc": 100
+    },
+    {
+      "item": "goety:mystic_core",
+      "emc": 1056
+    },
+    {
+      "item": "goety:nameless_cape",
+      "emc": 80000
+    },
+    {
+      "item": "goety:nameless_crown",
+      "emc": 100000
+    },
+    {
+      "item": "goety:nameless_staff",
+      "emc": 3000
+    },
+    {
+      "item": "goety:necro_brazier",
+      "emc": 800
+    },
+    {
+      "item": "goety:necro_cape",
+      "emc": 7112
+    },
+    {
+      "item": "goety:necro_crown",
+      "emc": 21448
+    },
+    {
+      "item": "goety:necro_staff",
+      "emc": 15040
+    },
+    {
+      "item": "goety:necromancer_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:necromancer_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:necrotic_gold_candlestick",
+      "emc": 30
+    },
+    {
+      "item": "goety:neollager_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:nether_brick_brazier",
+      "emc": 250
+    },
+    {
+      "item": "goety:nether_brick_soul_brazier",
+      "emc": 512
+    },
+    {
+      "item": "goety:nether_crown",
+      "emc": 18560
+    },
+    {
+      "item": "goety:nether_robe",
+      "emc": 2112
+    },
+    {
+      "item": "goety:nether_robe_warped",
+      "emc": 2112
+    },
+    {
+      "item": "goety:nether_staff",
+      "emc": 13944
+    },
+    {
+      "item": "goety:netherite_ravager_armor",
+      "emc": 94720
+    },
+    {
+      "item": "goety:netherite_trampler_armor",
+      "emc": 15000
+    },
+    {
+      "item": "goety:night_beacon",
+      "emc": 5000
+    },
+    {
+      "item": "goety:night_pottery_sherd",
+      "emc": 150
+    },
+    {
+      "item": "goety:nightshade_blossom",
+      "emc": 16
+    },
+    {
+      "item": "goety:nightshade_seeds",
+      "emc": 16
+    },
+    {
+      "item": "goety:obsidian_monolith_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:occult_fabric",
+      "emc": 1080
+    },
+    {
+      "item": "goety:ominous_brazier_statue",
+      "emc": 1992
+    },
+    {
+      "item": "goety:ominous_charm",
+      "emc": 1000
+    },
+    {
+      "item": "goety:ominous_idol",
+      "emc": 77104
+    },
+    {
+      "item": "goety:ominous_orb",
+      "emc": 8000
+    },
+    {
+      "item": "goety:ominous_pyre",
+      "emc": 66014
+    },
+    {
+      "item": "goety:ominous_saddle",
+      "emc": 768
+    },
+    {
+      "item": "goety:ominous_sarcophagus",
+      "emc": 3000
+    },
+    {
+      "item": "goety:ominous_shackles",
+      "emc": 120
+    },
+    {
+      "item": "goety:ominous_shard",
+      "emc": 256
+    },
+    {
+      "item": "goety:ominous_staff",
+      "emc": 3000
+    },
+    {
+      "item": "goety:ominous_statue",
+      "emc": 108
+    },
+    {
+      "item": "goety:ominous_stone",
+      "emc": 108
+    },
+    {
+      "item": "goety:ominous_stone_brazier",
+      "emc": 1884
+    },
+    {
+      "item": "goety:ominous_stone_brick_slab",
+      "emc": 108
+    },
+    {
+      "item": "goety:ominous_stone_brick_stairs",
+      "emc": 108
+    },
+    {
+      "item": "goety:ominous_stone_brick_wall",
+      "emc": 108
+    },
+    {
+      "item": "goety:ominous_stone_bricks",
+      "emc": 108
+    },
+    {
+      "item": "goety:ominous_stone_pavement",
+      "emc": 108
+    },
+    {
+      "item": "goety:ominous_stone_pavement_slab",
+      "emc": 108
+    },
+    {
+      "item": "goety:ominous_stone_pavement_stairs",
+      "emc": 108
+    },
+    {
+      "item": "goety:ominous_stone_pillar",
+      "emc": 108
+    },
+    {
+      "item": "goety:ominous_stone_pillar_slab",
+      "emc": 108
+    },
+    {
+      "item": "goety:ominous_stone_slab",
+      "emc": 108
+    },
+    {
+      "item": "goety:ominous_stone_soul_brazier",
+      "emc": 156
+    },
+    {
+      "item": "goety:ominous_stone_stairs",
+      "emc": 108
+    },
+    {
+      "item": "goety:ominous_stone_tile_slab",
+      "emc": 108
+    },
+    {
+      "item": "goety:ominous_stone_tile_stairs",
+      "emc": 108
+    },
+    {
+      "item": "goety:ominous_stone_tile_wall",
+      "emc": 108
+    },
+    {
+      "item": "goety:ominous_stone_tiles",
+      "emc": 108
+    },
+    {
+      "item": "goety:ominous_throne",
+      "emc": 1500
+    },
+    {
+      "item": "goety:order_focus",
+      "emc": 2766
+    },
+    {
+      "item": "goety:osseous_focus",
+      "emc": 1192
+    },
+    {
+      "item": "goety:overgrown_roots",
+      "emc": 12
+    },
+    {
+      "item": "goety:overgrowth_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:pale_steel_block",
+      "emc": 944
+    },
+    {
+      "item": "goety:pale_steel_ingot",
+      "emc": 944
+    },
+    {
+      "item": "goety:part_liquid",
+      "emc": 500
+    },
+    {
+      "item": "goety:pedestal",
+      "emc": 500
+    },
+    {
+      "item": "goety:pedestal_blackstone",
+      "emc": 4
+    },
+    {
+      "item": "goety:pedestal_crypt_stone",
+      "emc": 8
+    },
+    {
+      "item": "goety:pedestal_deepslate",
+      "emc": 8
+    },
+    {
+      "item": "goety:pedestal_dummy",
+      "emc": 500
+    },
+    {
+      "item": "goety:pedestal_end_stone",
+      "emc": 4
+    },
+    {
+      "item": "goety:pedestal_highrock",
+      "emc": 4
+    },
+    {
+      "item": "goety:pedestal_marble",
+      "emc": 5
+    },
+    {
+      "item": "goety:pedestal_nether_brick",
+      "emc": 8
+    },
+    {
+      "item": "goety:pedestal_ominous_stone",
+      "emc": 4
+    },
+    {
+      "item": "goety:pedestal_prismarine",
+      "emc": 500
+    },
+    {
+      "item": "goety:pedestal_stone",
+      "emc": 4
+    },
+    {
+      "item": "goety:pendant_of_hunger",
+      "emc": 5400
+    },
+    {
+      "item": "goety:phantasm_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:phantom_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:philosophers_mace",
+      "emc": 50000
+    },
+    {
+      "item": "goety:philosophers_stone",
+      "emc": 4
+    },
+    {
+      "item": "goety:piker_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:piker_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:pillager_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:pine_boat",
+      "emc": 40
+    },
+    {
+      "item": "goety:pine_bookshelf",
+      "emc": 500
+    },
+    {
+      "item": "goety:pine_button",
+      "emc": 4
+    },
+    {
+      "item": "goety:pine_chest",
+      "emc": 64
+    },
+    {
+      "item": "goety:pine_chest_boat",
+      "emc": 40
+    },
+    {
+      "item": "goety:pine_door",
+      "emc": 16
+    },
+    {
+      "item": "goety:pine_fence",
+      "emc": 12
+    },
+    {
+      "item": "goety:pine_fence_gate",
+      "emc": 12
+    },
+    {
+      "item": "goety:pine_firewood",
+      "emc": 32
+    },
+    {
+      "item": "goety:pine_hanging_sign",
+      "emc": 40
+    },
+    {
+      "item": "goety:pine_lantern",
+      "emc": 200
+    },
+    {
+      "item": "goety:pine_leaves",
+      "emc": 4
+    },
+    {
+      "item": "goety:pine_log",
+      "emc": 32
+    },
+    {
+      "item": "goety:pine_planks",
+      "emc": 8
+    },
+    {
+      "item": "goety:pine_pressure_plate",
+      "emc": 8
+    },
+    {
+      "item": "goety:pine_sapling",
+      "emc": 4
+    },
+    {
+      "item": "goety:pine_sign",
+      "emc": 40
+    },
+    {
+      "item": "goety:pine_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:pine_stairs",
+      "emc": 12
+    },
+    {
+      "item": "goety:pine_trapdoor",
+      "emc": 16
+    },
+    {
+      "item": "goety:pine_wall_hanging_sign",
+      "emc": 40
+    },
+    {
+      "item": "goety:pine_wall_sign",
+      "emc": 40
+    },
+    {
+      "item": "goety:pine_wood",
+      "emc": 32
+    },
+    {
+      "item": "goety:pithos",
+      "emc": 300
+    },
+    {
+      "item": "goety:player_banner",
+      "emc": 200
+    },
+    {
+      "item": "goety:plushie",
+      "emc": 500
+    },
+    {
+      "item": "goety:plushie_1",
+      "emc": 500
+    },
+    {
+      "item": "goety:plushie_10",
+      "emc": 500
+    },
+    {
+      "item": "goety:plushie_2",
+      "emc": 500
+    },
+    {
+      "item": "goety:plushie_3",
+      "emc": 500
+    },
+    {
+      "item": "goety:plushie_4",
+      "emc": 500
+    },
+    {
+      "item": "goety:plushie_5",
+      "emc": 500
+    },
+    {
+      "item": "goety:plushie_6",
+      "emc": 500
+    },
+    {
+      "item": "goety:plushie_7",
+      "emc": 500
+    },
+    {
+      "item": "goety:plushie_8",
+      "emc": 500
+    },
+    {
+      "item": "goety:plushie_9",
+      "emc": 500
+    },
+    {
+      "item": "goety:poison_anemone_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:poison_dart_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:poison_quill_seed",
+      "emc": 16
+    },
+    {
+      "item": "goety:poison_quill_vine_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:polar_bear_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:polished_dark_ominous_stone",
+      "emc": 13
+    },
+    {
+      "item": "goety:polished_dark_ominous_stone_slab",
+      "emc": 13
+    },
+    {
+      "item": "goety:polished_dark_ominous_stone_stairs",
+      "emc": 13
+    },
+    {
+      "item": "goety:polished_dark_ominous_stone_wall",
+      "emc": 13
+    },
+    {
+      "item": "goety:polished_highrock",
+      "emc": 4
+    },
+    {
+      "item": "goety:polished_highrock_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:polished_highrock_stairs",
+      "emc": 12
+    },
+    {
+      "item": "goety:polished_highrock_wall",
+      "emc": 4
+    },
+    {
+      "item": "goety:polished_ominous_stone",
+      "emc": 108
+    },
+    {
+      "item": "goety:polished_ominous_stone_slab",
+      "emc": 108
+    },
+    {
+      "item": "goety:polished_ominous_stone_stairs",
+      "emc": 108
+    },
+    {
+      "item": "goety:polished_ominous_stone_wall",
+      "emc": 108
+    },
+    {
+      "item": "goety:potted_chorus_fern",
+      "emc": 64
+    },
+    {
+      "item": "goety:potted_chorus_sapling",
+      "emc": 4
+    },
+    {
+      "item": "goety:potted_chorus_stalk",
+      "emc": 64
+    },
+    {
+      "item": "goety:potted_deadly_nightshade",
+      "emc": 8
+    },
+    {
+      "item": "goety:potted_haunted_sapling",
+      "emc": 4
+    },
+    {
+      "item": "goety:potted_henbane",
+      "emc": 80
+    },
+    {
+      "item": "goety:potted_pine_sapling",
+      "emc": 4
+    },
+    {
+      "item": "goety:potted_rotten_sapling",
+      "emc": 4
+    },
+    {
+      "item": "goety:potted_sienna_fern",
+      "emc": 8
+    },
+    {
+      "item": "goety:potted_sienna_grass",
+      "emc": 4
+    },
+    {
+      "item": "goety:potted_windswept_dead_bush",
+      "emc": 8
+    },
+    {
+      "item": "goety:potted_windswept_sapling",
+      "emc": 4
+    },
+    {
+      "item": "goety:preacher_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:prisma_beam_focus",
+      "emc": 768
+    },
+    {
+      "item": "goety:prisoner_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:pulverize_focus",
+      "emc": 2720
+    },
+    {
+      "item": "goety:pure_unholy_blood",
+      "emc": 15000
+    },
+    {
+      "item": "goety:purpur_end_rod_block",
+      "emc": 88
+    },
+    {
+      "item": "goety:purpur_lamp",
+      "emc": 500
+    },
+    {
+      "item": "goety:purpur_wall",
+      "emc": 2
+    },
+    {
+      "item": "goety:quaking_focus",
+      "emc": 16769
+    },
+    {
+      "item": "goety:quick_growing_kelp_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:quick_growing_seed",
+      "emc": 2
+    },
+    {
+      "item": "goety:quick_growing_vine_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:raging_matter",
+      "emc": 3000
+    },
+    {
+      "item": "goety:raiding_chest",
+      "emc": 944
+    },
+    {
+      "item": "goety:raiding_horn",
+      "emc": 5000
+    },
+    {
+      "item": "goety:rampaging_axe",
+      "emc": 10160
+    },
+    {
+      "item": "goety:rattled_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:rattled_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:ravaged_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:ravager_servant_spawn_egg",
+      "emc": 2000
+    },
+    {
+      "item": "goety:ravaging_scroll",
+      "emc": 500
+    },
+    {
+      "item": "goety:razor_wind_focus",
+      "emc": 12048
+    },
+    {
+      "item": "goety:reaper_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:reaper_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:reaping_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:recall_focus",
+      "emc": 7784
+    },
+    {
+      "item": "goety:red_moss_block",
+      "emc": 4
+    },
+    {
+      "item": "goety:red_moss_dirt",
+      "emc": 25
+    },
+    {
+      "item": "goety:red_moss_growth",
+      "emc": 4
+    },
+    {
+      "item": "goety:red_moss_highrock",
+      "emc": 4
+    },
+    {
+      "item": "goety:red_moss_siltstone",
+      "emc": 8
+    },
+    {
+      "item": "goety:red_moss_slab",
+      "emc": 1
+    },
+    {
+      "item": "goety:red_siltstone_pillar",
+      "emc": 8
+    },
+    {
+      "item": "goety:redstone_cube_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:redstone_golem_skull",
+      "emc": 4
+    },
+    {
+      "item": "goety:redstone_golem_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:redstone_ministrosity_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:redstone_monstrosity_head",
+      "emc": 4
+    },
+    {
+      "item": "goety:redstone_monstrosity_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:refuse_bottle",
+      "emc": 100
+    },
+    {
+      "item": "goety:reinforced_ice_axe",
+      "emc": 3252
+    },
+    {
+      "item": "goety:reinforced_redstone_block",
+      "emc": 3328
+    },
+    {
+      "item": "goety:reprobate_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:reprobate_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:resilience_lotion",
+      "emc": 800
+    },
+    {
+      "item": "goety:resonance_crystal",
+      "emc": 1024
+    },
+    {
+      "item": "goety:rimmed_steep_wall",
+      "emc": 117
+    },
+    {
+      "item": "goety:rimmed_steep_wood",
+      "emc": 704
+    },
+    {
+      "item": "goety:ring_of_force",
+      "emc": 6333
+    },
+    {
+      "item": "goety:ring_of_the_dragon",
+      "emc": 25728
+    },
+    {
+      "item": "goety:ring_of_the_forge",
+      "emc": 1000
+    },
+    {
+      "item": "goety:ring_of_thirst",
+      "emc": 1000
+    },
+    {
+      "item": "goety:ring_of_want",
+      "emc": 24640
+    },
+    {
+      "item": "goety:ring_of_wrecking",
+      "emc": 1000
+    },
+    {
+      "item": "goety:ripper_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:ripper_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:rotation_focus",
+      "emc": 648
+    },
+    {
+      "item": "goety:rotten_boat",
+      "emc": 40
+    },
+    {
+      "item": "goety:rotten_bookshelf",
+      "emc": 500
+    },
+    {
+      "item": "goety:rotten_button",
+      "emc": 4
+    },
+    {
+      "item": "goety:rotten_chest",
+      "emc": 64
+    },
+    {
+      "item": "goety:rotten_chest_boat",
+      "emc": 40
+    },
+    {
+      "item": "goety:rotten_door",
+      "emc": 16
+    },
+    {
+      "item": "goety:rotten_fence",
+      "emc": 12
+    },
+    {
+      "item": "goety:rotten_fence_gate",
+      "emc": 12
+    },
+    {
+      "item": "goety:rotten_hanging_sign",
+      "emc": 40
+    },
+    {
+      "item": "goety:rotten_leaves",
+      "emc": 4
+    },
+    {
+      "item": "goety:rotten_log",
+      "emc": 32
+    },
+    {
+      "item": "goety:rotten_planks",
+      "emc": 8
+    },
+    {
+      "item": "goety:rotten_pressure_plate",
+      "emc": 8
+    },
+    {
+      "item": "goety:rotten_sapling",
+      "emc": 4
+    },
+    {
+      "item": "goety:rotten_sign",
+      "emc": 40
+    },
+    {
+      "item": "goety:rotten_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:rotten_stairs",
+      "emc": 12
+    },
+    {
+      "item": "goety:rotten_trapdoor",
+      "emc": 16
+    },
+    {
+      "item": "goety:rotten_wall_hanging_sign",
+      "emc": 40
+    },
+    {
+      "item": "goety:rotten_wall_sign",
+      "emc": 40
+    },
+    {
+      "item": "goety:rotten_wood",
+      "emc": 32
+    },
+    {
+      "item": "goety:rotting_focus",
+      "emc": 1292
+    },
+    {
+      "item": "goety:royal_carpet",
+      "emc": 8
+    },
+    {
+      "item": "goety:royal_carpet_corner",
+      "emc": 8
+    },
+    {
+      "item": "goety:royal_carpet_edge",
+      "emc": 8
+    },
+    {
+      "item": "goety:royal_carpet_inner_corner",
+      "emc": 8
+    },
+    {
+      "item": "goety:royal_throne",
+      "emc": 1500
+    },
+    {
+      "item": "goety:rupture_focus",
+      "emc": 18848
+    },
+    {
+      "item": "goety:rusty_iron_bars",
+      "emc": 1
+    },
+    {
+      "item": "goety:rusty_iron_grate",
+      "emc": 28
+    },
+    {
+      "item": "goety:savage_tooth",
+      "emc": 432
+    },
+    {
+      "item": "goety:scatter_focus",
+      "emc": 384
+    },
+    {
+      "item": "goety:sculk_converter",
+      "emc": 4000
+    },
+    {
+      "item": "goety:sculk_devourer",
+      "emc": 6000
+    },
+    {
+      "item": "goety:sculk_grower",
+      "emc": 4000
+    },
+    {
+      "item": "goety:sculk_relay",
+      "emc": 3000
+    },
+    {
+      "item": "goety:sculptured_statue",
+      "emc": 3000
+    },
+    {
+      "item": "goety:sculptured_statue_1",
+      "emc": 3000
+    },
+    {
+      "item": "goety:sculptured_statue_2",
+      "emc": 3000
+    },
+    {
+      "item": "goety:sculptured_statue_3",
+      "emc": 3000
+    },
+    {
+      "item": "goety:sculptured_statue_4",
+      "emc": 3000
+    },
+    {
+      "item": "goety:sea_amulet",
+      "emc": 5376
+    },
+    {
+      "item": "goety:sensing_focus",
+      "emc": 704
+    },
+    {
+      "item": "goety:shade_brazier",
+      "emc": 1777
+    },
+    {
+      "item": "goety:shade_bricks",
+      "emc": 1
+    },
+    {
+      "item": "goety:shade_bricks_slab",
+      "emc": 1
+    },
+    {
+      "item": "goety:shade_bricks_stairs",
+      "emc": 1
+    },
+    {
+      "item": "goety:shade_bricks_wall",
+      "emc": 1
+    },
+    {
+      "item": "goety:shade_glass",
+      "emc": 1
+    },
+    {
+      "item": "goety:shade_glass_pane",
+      "emc": 1
+    },
+    {
+      "item": "goety:shade_gravestone",
+      "emc": 4
+    },
+    {
+      "item": "goety:shade_ossuary",
+      "emc": 2000
+    },
+    {
+      "item": "goety:shade_pillar",
+      "emc": 1
+    },
+    {
+      "item": "goety:shade_sarcophagus",
+      "emc": 2500
+    },
+    {
+      "item": "goety:shade_soul_brazier",
+      "emc": 49
+    },
+    {
+      "item": "goety:shade_stone",
+      "emc": 1
+    },
+    {
+      "item": "goety:shade_stone_bricks",
+      "emc": 1
+    },
+    {
+      "item": "goety:shade_stone_bricks_slab",
+      "emc": 1
+    },
+    {
+      "item": "goety:shade_stone_bricks_stairs",
+      "emc": 1
+    },
+    {
+      "item": "goety:shade_stone_bricks_wall",
+      "emc": 1
+    },
+    {
+      "item": "goety:shade_stone_chiseled",
+      "emc": 1
+    },
+    {
+      "item": "goety:shade_stone_polished",
+      "emc": 1
+    },
+    {
+      "item": "goety:shade_stone_polished_slab",
+      "emc": 1
+    },
+    {
+      "item": "goety:shade_stone_polished_stairs",
+      "emc": 1
+    },
+    {
+      "item": "goety:shade_stone_slab",
+      "emc": 1
+    },
+    {
+      "item": "goety:shade_stone_stairs",
+      "emc": 1
+    },
+    {
+      "item": "goety:shade_throne",
+      "emc": 1500
+    },
+    {
+      "item": "goety:shade_tiles",
+      "emc": 1
+    },
+    {
+      "item": "goety:shade_tiles_slab",
+      "emc": 1
+    },
+    {
+      "item": "goety:shade_tiles_stairs",
+      "emc": 1
+    },
+    {
+      "item": "goety:shadow_essence",
+      "emc": 512
+    },
+    {
+      "item": "goety:shocking_focus",
+      "emc": 768
+    },
+    {
+      "item": "goety:shockwave_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:shredding_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:shriek_obelisk",
+      "emc": 5000
+    },
+    {
+      "item": "goety:shrouded_blueprint",
+      "emc": 3000
+    },
+    {
+      "item": "goety:sienna_fern",
+      "emc": 8
+    },
+    {
+      "item": "goety:sienna_grass",
+      "emc": 4
+    },
+    {
+      "item": "goety:sienna_vine",
+      "emc": 1
+    },
+    {
+      "item": "goety:signaler_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:silt_highrock",
+      "emc": 4
+    },
+    {
+      "item": "goety:silt_highrock_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:silt_jade_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:silt_jade_stairs",
+      "emc": 12
+    },
+    {
+      "item": "goety:silt_jade_tiles",
+      "emc": 8
+    },
+    {
+      "item": "goety:silt_marble",
+      "emc": 17
+    },
+    {
+      "item": "goety:silt_marble_heavy",
+      "emc": 17
+    },
+    {
+      "item": "goety:silt_marble_slight",
+      "emc": 8
+    },
+    {
+      "item": "goety:silt_slate_marble",
+      "emc": 70
+    },
+    {
+      "item": "goety:silt_studded_crag_tiles",
+      "emc": 8
+    },
+    {
+      "item": "goety:siltstone",
+      "emc": 64
+    },
+    {
+      "item": "goety:siltstone_brick_slab",
+      "emc": 64
+    },
+    {
+      "item": "goety:siltstone_brick_stairs",
+      "emc": 64
+    },
+    {
+      "item": "goety:siltstone_brick_wall",
+      "emc": 64
+    },
+    {
+      "item": "goety:siltstone_bricks",
+      "emc": 4
+    },
+    {
+      "item": "goety:siltstone_pavement",
+      "emc": 1
+    },
+    {
+      "item": "goety:siltstone_pavement_slab",
+      "emc": 64
+    },
+    {
+      "item": "goety:siltstone_pavement_stairs",
+      "emc": 64
+    },
+    {
+      "item": "goety:siltstone_pavement_wall",
+      "emc": 64
+    },
+    {
+      "item": "goety:siltstone_pillar",
+      "emc": 64
+    },
+    {
+      "item": "goety:siltstone_slab",
+      "emc": 64
+    },
+    {
+      "item": "goety:siltstone_stairs",
+      "emc": 64
+    },
+    {
+      "item": "goety:siltstone_tile_slab",
+      "emc": 64
+    },
+    {
+      "item": "goety:siltstone_tile_stairs",
+      "emc": 64
+    },
+    {
+      "item": "goety:siltstone_tile_wall",
+      "emc": 64
+    },
+    {
+      "item": "goety:siltstone_tiles",
+      "emc": 1
+    },
+    {
+      "item": "goety:siltstone_wall",
+      "emc": 64
+    },
+    {
+      "item": "goety:skeleton_pillager_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:skeleton_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:skeleton_totem",
+      "emc": 384
+    },
+    {
+      "item": "goety:skeleton_wolf_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:skull_focus",
+      "emc": 2692
+    },
+    {
+      "item": "goety:skull_lord_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:skull_pile",
+      "emc": 768
+    },
+    {
+      "item": "goety:sky_wood_planks",
+      "emc": 218
+    },
+    {
+      "item": "goety:sky_wood_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:sky_wood_stairs",
+      "emc": 12
+    },
+    {
+      "item": "goety:slate_connected_marble",
+      "emc": 36
+    },
+    {
+      "item": "goety:slate_cornered_marble",
+      "emc": 10
+    },
+    {
+      "item": "goety:slate_glazed_marble",
+      "emc": 868
+    },
+    {
+      "item": "goety:slate_marble",
+      "emc": 217
+    },
+    {
+      "item": "goety:slate_marble_slab",
+      "emc": 36
+    },
+    {
+      "item": "goety:slate_marble_stairs",
+      "emc": 54
+    },
+    {
+      "item": "goety:slate_patterned_marble",
+      "emc": 36
+    },
+    {
+      "item": "goety:slime_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:slimy_focus",
+      "emc": 6252
+    },
+    {
+      "item": "goety:smack_stone_focus",
+      "emc": 468
+    },
+    {
+      "item": "goety:smooth_end_basalt_bricks",
+      "emc": 4
+    },
+    {
+      "item": "goety:smooth_end_stone",
+      "emc": 1
+    },
+    {
+      "item": "goety:smooth_end_stone_fence",
+      "emc": 1
+    },
+    {
+      "item": "goety:smooth_end_stone_slab",
+      "emc": 1
+    },
+    {
+      "item": "goety:smooth_end_stone_stairs",
+      "emc": 1
+    },
+    {
+      "item": "goety:smooth_end_stone_wall",
+      "emc": 1
+    },
+    {
+      "item": "goety:smooth_marble_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:smooth_siltstone",
+      "emc": 16
+    },
+    {
+      "item": "goety:smooth_siltstone_slab",
+      "emc": 64
+    },
+    {
+      "item": "goety:smooth_siltstone_stairs",
+      "emc": 64
+    },
+    {
+      "item": "goety:smooth_siltstone_wall",
+      "emc": 64
+    },
+    {
+      "item": "goety:snap_fungus",
+      "emc": 32
+    },
+    {
+      "item": "goety:snap_warts",
+      "emc": 64
+    },
+    {
+      "item": "goety:snapper_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:snareling_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:snareling_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:snaring_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:snow_brick_slab",
+      "emc": 1
+    },
+    {
+      "item": "goety:snow_brick_stairs",
+      "emc": 1
+    },
+    {
+      "item": "goety:snow_brick_wall",
+      "emc": 1
+    },
+    {
+      "item": "goety:snow_bricks",
+      "emc": 1
+    },
+    {
+      "item": "goety:snowy_chiseled_siltstone",
+      "emc": 8
+    },
+    {
+      "item": "goety:snowy_cobbled_siltstone",
+      "emc": 8
+    },
+    {
+      "item": "goety:snowy_cobbled_siltstone_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:snowy_cobbled_siltstone_stairs",
+      "emc": 12
+    },
+    {
+      "item": "goety:snowy_cobbled_siltstone_wall",
+      "emc": 8
+    },
+    {
+      "item": "goety:snowy_crag_brick_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:snowy_crag_brick_stairs",
+      "emc": 12
+    },
+    {
+      "item": "goety:snowy_crag_brick_wall",
+      "emc": 8
+    },
+    {
+      "item": "goety:snowy_crag_bricks",
+      "emc": 8
+    },
+    {
+      "item": "goety:snowy_crag_pavement",
+      "emc": 8
+    },
+    {
+      "item": "goety:snowy_dark_dirt",
+      "emc": 7
+    },
+    {
+      "item": "goety:snowy_dirt",
+      "emc": 1
+    },
+    {
+      "item": "goety:snowy_highrock_brick_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:snowy_highrock_brick_slight_slab",
+      "emc": 100
+    },
+    {
+      "item": "goety:snowy_highrock_brick_slight_stairs",
+      "emc": 100
+    },
+    {
+      "item": "goety:snowy_highrock_brick_slight_wall",
+      "emc": 100
+    },
+    {
+      "item": "goety:snowy_highrock_brick_stairs",
+      "emc": 12
+    },
+    {
+      "item": "goety:snowy_highrock_brick_wall",
+      "emc": 8
+    },
+    {
+      "item": "goety:snowy_highrock_bricks",
+      "emc": 8
+    },
+    {
+      "item": "goety:snowy_highrock_bricks_slight",
+      "emc": 100
+    },
+    {
+      "item": "goety:snowy_jade_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:snowy_jade_stairs",
+      "emc": 12
+    },
+    {
+      "item": "goety:snowy_jade_tiles",
+      "emc": 8
+    },
+    {
+      "item": "goety:snowy_pine_pillar",
+      "emc": 8
+    },
+    {
+      "item": "goety:snowy_red_moss_block",
+      "emc": 1
+    },
+    {
+      "item": "goety:snowy_red_moss_block_heavy",
+      "emc": 1
+    },
+    {
+      "item": "goety:snowy_red_moss_block_slight",
+      "emc": 2
+    },
+    {
+      "item": "goety:snowy_red_moss_heavy_slab",
+      "emc": 1
+    },
+    {
+      "item": "goety:snowy_red_moss_slab",
+      "emc": 1
+    },
+    {
+      "item": "goety:snowy_red_moss_slight_slab",
+      "emc": 1
+    },
+    {
+      "item": "goety:snowy_siltstone",
+      "emc": 17
+    },
+    {
+      "item": "goety:snowy_siltstone_brick_slab",
+      "emc": 2
+    },
+    {
+      "item": "goety:snowy_siltstone_brick_slight_slab",
+      "emc": 1
+    },
+    {
+      "item": "goety:snowy_siltstone_brick_slight_stairs",
+      "emc": 1
+    },
+    {
+      "item": "goety:snowy_siltstone_brick_slight_wall",
+      "emc": 1
+    },
+    {
+      "item": "goety:snowy_siltstone_brick_stairs",
+      "emc": 2
+    },
+    {
+      "item": "goety:snowy_siltstone_brick_wall",
+      "emc": 2
+    },
+    {
+      "item": "goety:snowy_siltstone_bricks",
+      "emc": 2
+    },
+    {
+      "item": "goety:snowy_siltstone_bricks_slight",
+      "emc": 1
+    },
+    {
+      "item": "goety:snowy_siltstone_pillar",
+      "emc": 32
+    },
+    {
+      "item": "goety:snowy_siltstone_slight",
+      "emc": 8
+    },
+    {
+      "item": "goety:snowy_windswept_plank_wall",
+      "emc": 100
+    },
+    {
+      "item": "goety:soiled_chorus_planks",
+      "emc": 8
+    },
+    {
+      "item": "goety:soiled_chorus_planks_heavy",
+      "emc": 8
+    },
+    {
+      "item": "goety:soiled_cobbled_end_stone",
+      "emc": 4
+    },
+    {
+      "item": "goety:soiled_cobbled_end_stone_heavy",
+      "emc": 4
+    },
+    {
+      "item": "goety:soiled_cobbled_end_stone_slight",
+      "emc": 100
+    },
+    {
+      "item": "goety:soiled_corrupt_chorus_planks",
+      "emc": 8
+    },
+    {
+      "item": "goety:soiled_end_basalt",
+      "emc": 4
+    },
+    {
+      "item": "goety:soiled_end_basalt_bricks",
+      "emc": 4
+    },
+    {
+      "item": "goety:soiled_end_basalt_slight",
+      "emc": 100
+    },
+    {
+      "item": "goety:soiled_end_dirt",
+      "emc": 4
+    },
+    {
+      "item": "goety:soiled_end_rock",
+      "emc": 4
+    },
+    {
+      "item": "goety:soiled_end_rock_bricks",
+      "emc": 4
+    },
+    {
+      "item": "goety:soiled_end_rock_chiseled",
+      "emc": 4
+    },
+    {
+      "item": "goety:soiled_end_stone_bricks",
+      "emc": 4
+    },
+    {
+      "item": "goety:soiled_end_stone_bricks_heavy",
+      "emc": 4
+    },
+    {
+      "item": "goety:soiled_end_stone_bricks_slight",
+      "emc": 100
+    },
+    {
+      "item": "goety:soiled_end_stone_tiles",
+      "emc": 4
+    },
+    {
+      "item": "goety:soiled_polished_ominous_stone",
+      "emc": 54
+    },
+    {
+      "item": "goety:soiled_polished_ominous_stone_heavy",
+      "emc": 27
+    },
+    {
+      "item": "goety:soiled_purpur_block",
+      "emc": 4
+    },
+    {
+      "item": "goety:soiled_spruce_planks",
+      "emc": 8
+    },
+    {
+      "item": "goety:soiled_spruce_planks_heavy",
+      "emc": 8
+    },
+    {
+      "item": "goety:sonic_boom_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:sorcerer_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:soul_absorber",
+      "emc": 6361
+    },
+    {
+      "item": "goety:soul_bolt_focus",
+      "emc": 900
+    },
+    {
+      "item": "goety:soul_candlestick",
+      "emc": 816
+    },
+    {
+      "item": "goety:soul_emerald",
+      "emc": 16768
+    },
+    {
+      "item": "goety:soul_energy",
+      "emc": 512
+    },
+    {
+      "item": "goety:soul_heal_focus",
+      "emc": 25312
+    },
+    {
+      "item": "goety:soul_jar",
+      "emc": 320
+    },
+    {
+      "item": "goety:soul_light",
+      "emc": 512
+    },
+    {
+      "item": "goety:soul_light_focus",
+      "emc": 388
+    },
+    {
+      "item": "goety:soul_mender",
+      "emc": 512
+    },
+    {
+      "item": "goety:soul_pottery_sherd",
+      "emc": 512
+    },
+    {
+      "item": "goety:soul_ruby",
+      "emc": 512
+    },
+    {
+      "item": "goety:soul_transfer",
+      "emc": 17472
+    },
+    {
+      "item": "goety:spent_totem",
+      "emc": 512
+    },
+    {
+      "item": "goety:spider_egg",
+      "emc": 200
+    },
+    {
+      "item": "goety:spider_mother_den",
+      "emc": 1000
+    },
+    {
+      "item": "goety:spider_nest",
+      "emc": 300
+    },
+    {
+      "item": "goety:spider_sac",
+      "emc": 150
+    },
+    {
+      "item": "goety:spider_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:spirit_fabric",
+      "emc": 1400
+    },
+    {
+      "item": "goety:spiteful_belt",
+      "emc": 3000
+    },
+    {
+      "item": "goety:splash_brew",
+      "emc": 800
+    },
+    {
+      "item": "goety:spooky_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:sprightly_focus",
+      "emc": 3345
+    },
+    {
+      "item": "goety:sprite_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:squall_golem_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:star_amulet",
+      "emc": 1393528
+    },
+    {
+      "item": "goety:stash_urn",
+      "emc": 147456
+    },
+    {
+      "item": "goety:steaming_focus",
+      "emc": 5943
+    },
+    {
+      "item": "goety:steep_button",
+      "emc": 16
+    },
+    {
+      "item": "goety:steep_fence",
+      "emc": 6
+    },
+    {
+      "item": "goety:steep_fence_gate",
+      "emc": 20
+    },
+    {
+      "item": "goety:steep_firewood",
+      "emc": 64
+    },
+    {
+      "item": "goety:steep_lamp",
+      "emc": 3594
+    },
+    {
+      "item": "goety:steep_planks",
+      "emc": 16
+    },
+    {
+      "item": "goety:steep_pressure_plate",
+      "emc": 16
+    },
+    {
+      "item": "goety:steep_sconce",
+      "emc": 320
+    },
+    {
+      "item": "goety:steep_slab",
+      "emc": 2
+    },
+    {
+      "item": "goety:steep_stairs",
+      "emc": 4
+    },
+    {
+      "item": "goety:steep_wall",
+      "emc": 10
+    },
+    {
+      "item": "goety:steep_wood",
+      "emc": 64
+    },
+    {
+      "item": "goety:steep_wood_slab",
+      "emc": 10
+    },
+    {
+      "item": "goety:stellar_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:stone_brazier",
+      "emc": 200
+    },
+    {
+      "item": "goety:stone_ministrosity_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:stone_sarcophagus",
+      "emc": 4
+    },
+    {
+      "item": "goety:stone_soul_brazier",
+      "emc": 512
+    },
+    {
+      "item": "goety:stone_throne",
+      "emc": 4
+    },
+    {
+      "item": "goety:storm_caster_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:storm_caster_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:storm_crown",
+      "emc": 50000
+    },
+    {
+      "item": "goety:storm_robe",
+      "emc": 800
+    },
+    {
+      "item": "goety:storm_staff",
+      "emc": 20232
+    },
+    {
+      "item": "goety:stormhound_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:stormlander",
+      "emc": 50000
+    },
+    {
+      "item": "goety:stray_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:stripped_haunted_log",
+      "emc": 32
+    },
+    {
+      "item": "goety:stripped_haunted_wood",
+      "emc": 32
+    },
+    {
+      "item": "goety:stripped_pine_log",
+      "emc": 32
+    },
+    {
+      "item": "goety:stripped_pine_wood",
+      "emc": 32
+    },
+    {
+      "item": "goety:stripped_rotten_log",
+      "emc": 32
+    },
+    {
+      "item": "goety:stripped_rotten_wood",
+      "emc": 32
+    },
+    {
+      "item": "goety:stripped_windswept_log",
+      "emc": 32
+    },
+    {
+      "item": "goety:stripped_windswept_wood",
+      "emc": 32
+    },
+    {
+      "item": "goety:studded_chorus_wood",
+      "emc": 32
+    },
+    {
+      "item": "goety:studded_steep_wall",
+      "emc": 352
+    },
+    {
+      "item": "goety:studded_steep_wood",
+      "emc": 2112
+    },
+    {
+      "item": "goety:sunken_skeleton_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:surging_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:swarm_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:sword_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:taglock_kit",
+      "emc": 56
+    },
+    {
+      "item": "goety:tall_end_grass",
+      "emc": 4
+    },
+    {
+      "item": "goety:tall_sienna_grass",
+      "emc": 4
+    },
+    {
+      "item": "goety:tall_skull",
+      "emc": 512
+    },
+    {
+      "item": "goety:targeting_monocle",
+      "emc": 2689
+    },
+    {
+      "item": "goety:teeth_focus",
+      "emc": 18304
+    },
+    {
+      "item": "goety:telekinesis_focus",
+      "emc": 12546
+    },
+    {
+      "item": "goety:terminus_scroll",
+      "emc": 500
+    },
+    {
+      "item": "goety:tesseract",
+      "emc": 8000
+    },
+    {
+      "item": "goety:tesseract.contains",
+      "emc": 100
+    },
+    {
+      "item": "goety:tesseract.empty",
+      "emc": 100
+    },
+    {
+      "item": "goety:tesseract.more",
+      "emc": 100
+    },
+    {
+      "item": "goety:tesseract.unleash",
+      "emc": 100
+    },
+    {
+      "item": "goety:thatched_chorus_planks",
+      "emc": 800
+    },
+    {
+      "item": "goety:thatched_pine_planks",
+      "emc": 800
+    },
+    {
+      "item": "goety:thrash_glove",
+      "emc": 18368
+    },
+    {
+      "item": "goety:thunderbolt_focus",
+      "emc": 8960
+    },
+    {
+      "item": "goety:thunderstorm_focus",
+      "emc": 27232
+    },
+    {
+      "item": "goety:tidal_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:top_dirty_end_basalt",
+      "emc": 4
+    },
+    {
+      "item": "goety:top_soiled_end_basalt",
+      "emc": 4
+    },
+    {
+      "item": "goety:tormentor_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:totem",
+      "emc": 512
+    },
+    {
+      "item": "goety:totem_of_roots",
+      "emc": 1380
+    },
+    {
+      "item": "goety:totem_of_souls",
+      "emc": 19476
+    },
+    {
+      "item": "goety:trampler_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:trampler_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:transfer_scroll",
+      "emc": 76
+    },
+    {
+      "item": "goety:trapped_chorus_chest",
+      "emc": 64
+    },
+    {
+      "item": "goety:trapped_corrupt_chorus_chest",
+      "emc": 64
+    },
+    {
+      "item": "goety:trapped_haunted_chest",
+      "emc": 64
+    },
+    {
+      "item": "goety:trapped_pine_chest",
+      "emc": 64
+    },
+    {
+      "item": "goety:trapped_raiding_chest",
+      "emc": 64
+    },
+    {
+      "item": "goety:trapped_rotten_chest",
+      "emc": 64
+    },
+    {
+      "item": "goety:trapped_windswept_chest",
+      "emc": 64
+    },
+    {
+      "item": "goety:treasure_pouch",
+      "emc": 1000
+    },
+    {
+      "item": "goety:trembling_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:trident_storm_focus",
+      "emc": 24512
+    },
+    {
+      "item": "goety:troop_focus",
+      "emc": 7098
+    },
+    {
+      "item": "goety:tropical_slime_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:tunnel_focus",
+      "emc": 3488
+    },
+    {
+      "item": "goety:twilight_goat_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:undeath_potion",
+      "emc": 800
+    },
+    {
+      "item": "goety:unholy_blood",
+      "emc": 3000
+    },
+    {
+      "item": "goety:unholy_fabric",
+      "emc": 256
+    },
+    {
+      "item": "goety:unholy_hat",
+      "emc": 800
+    },
+    {
+      "item": "goety:unholy_hat_halo",
+      "emc": 800
+    },
+    {
+      "item": "goety:unholy_robe",
+      "emc": 800
+    },
+    {
+      "item": "goety:updraft_focus",
+      "emc": 816
+    },
+    {
+      "item": "goety:vanguard_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:vanguard_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:venomous_fang",
+      "emc": 800
+    },
+    {
+      "item": "goety:vex_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:vexing_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:vindicator_chef_servant_spawn_egg",
+      "emc": 2000
+    },
+    {
+      "item": "goety:vindicator_servant_spawn_egg",
+      "emc": 2000
+    },
+    {
+      "item": "goety:vizier_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:void_barrel",
+      "emc": 8
+    },
+    {
+      "item": "goety:void_block",
+      "emc": 4
+    },
+    {
+      "item": "goety:void_bottle",
+      "emc": 508
+    },
+    {
+      "item": "goety:void_bucket",
+      "emc": 1269
+    },
+    {
+      "item": "goety:void_cauldron",
+      "emc": 1000
+    },
+    {
+      "item": "goety:void_crown",
+      "emc": 80000
+    },
+    {
+      "item": "goety:void_echo",
+      "emc": 20000
+    },
+    {
+      "item": "goety:void_eye",
+      "emc": 25000
+    },
+    {
+      "item": "goety:void_flame",
+      "emc": 12000
+    },
+    {
+      "item": "goety:void_flash_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:void_fluid",
+      "emc": 500
+    },
+    {
+      "item": "goety:void_frame",
+      "emc": 2000
+    },
+    {
+      "item": "goety:void_key",
+      "emc": 15000
+    },
+    {
+      "item": "goety:void_major_spread",
+      "emc": 2000
+    },
+    {
+      "item": "goety:void_minor_spread",
+      "emc": 500
+    },
+    {
+      "item": "goety:void_robe",
+      "emc": 800
+    },
+    {
+      "item": "goety:void_shard",
+      "emc": 256
+    },
+    {
+      "item": "goety:void_shrine",
+      "emc": 15000
+    },
+    {
+      "item": "goety:void_spawner",
+      "emc": 20000
+    },
+    {
+      "item": "goety:void_staff",
+      "emc": 3000
+    },
+    {
+      "item": "goety:void_vault",
+      "emc": 10000
+    },
+    {
+      "item": "goety:wall_grave_golem_skull",
+      "emc": 8000
+    },
+    {
+      "item": "goety:wall_redstone_golem_skull",
+      "emc": 4
+    },
+    {
+      "item": "goety:wall_redstone_monstrosity_head",
+      "emc": 4
+    },
+    {
+      "item": "goety:wall_shrine",
+      "emc": 108
+    },
+    {
+      "item": "goety:wall_tall_skull",
+      "emc": 512
+    },
+    {
+      "item": "goety:warding_charm",
+      "emc": 1000
+    },
+    {
+      "item": "goety:warlock_robe",
+      "emc": 800
+    },
+    {
+      "item": "goety:warlock_robe_dark",
+      "emc": 2500
+    },
+    {
+      "item": "goety:warlock_sash",
+      "emc": 2500
+    },
+    {
+      "item": "goety:warlock_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:warlock_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:warped_wartful_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:warred_scroll",
+      "emc": 500
+    },
+    {
+      "item": "goety:wartful_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:wartling_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:washed_slate_marble",
+      "emc": 123
+    },
+    {
+      "item": "goety:watching_focus",
+      "emc": 10764
+    },
+    {
+      "item": "goety:watchling_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:watchling_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:water_jet_focus",
+      "emc": 2930
+    },
+    {
+      "item": "goety:water_whip_focus",
+      "emc": 416
+    },
+    {
+      "item": "goety:wavewhisperer_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:wayfarers_belt",
+      "emc": 1500
+    },
+    {
+      "item": "goety:waystone",
+      "emc": 698
+    },
+    {
+      "item": "goety:weakening_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:weathered_slate_marble",
+      "emc": 217
+    },
+    {
+      "item": "goety:web_spider_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:web_spider_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:whirlwind_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:whisperer_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:whispering_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:wicked_boline",
+      "emc": 3808
+    },
+    {
+      "item": "goety:wight_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:wild_crown",
+      "emc": 21096
+    },
+    {
+      "item": "goety:wild_robe",
+      "emc": 5294
+    },
+    {
+      "item": "goety:wild_staff",
+      "emc": 3000
+    },
+    {
+      "item": "goety:wildfire_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:wind_blast_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:wind_blower",
+      "emc": 500
+    },
+    {
+      "item": "goety:wind_caller_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:wind_core",
+      "emc": 8000
+    },
+    {
+      "item": "goety:wind_crown",
+      "emc": 100
+    },
+    {
+      "item": "goety:wind_robe",
+      "emc": 800
+    },
+    {
+      "item": "goety:wind_staff",
+      "emc": 11968
+    },
+    {
+      "item": "goety:windswept_boat",
+      "emc": 40
+    },
+    {
+      "item": "goety:windswept_bookshelf",
+      "emc": 500
+    },
+    {
+      "item": "goety:windswept_button",
+      "emc": 4
+    },
+    {
+      "item": "goety:windswept_chest",
+      "emc": 64
+    },
+    {
+      "item": "goety:windswept_chest_boat",
+      "emc": 40
+    },
+    {
+      "item": "goety:windswept_dead_bush",
+      "emc": 8
+    },
+    {
+      "item": "goety:windswept_door",
+      "emc": 16
+    },
+    {
+      "item": "goety:windswept_fence",
+      "emc": 12
+    },
+    {
+      "item": "goety:windswept_fence_gate",
+      "emc": 12
+    },
+    {
+      "item": "goety:windswept_hanging_sign",
+      "emc": 40
+    },
+    {
+      "item": "goety:windswept_lamp",
+      "emc": 300
+    },
+    {
+      "item": "goety:windswept_leaves",
+      "emc": 4
+    },
+    {
+      "item": "goety:windswept_log",
+      "emc": 32
+    },
+    {
+      "item": "goety:windswept_plank_wall",
+      "emc": 100
+    },
+    {
+      "item": "goety:windswept_planks",
+      "emc": 8
+    },
+    {
+      "item": "goety:windswept_pressure_plate",
+      "emc": 8
+    },
+    {
+      "item": "goety:windswept_sapling",
+      "emc": 4
+    },
+    {
+      "item": "goety:windswept_sign",
+      "emc": 40
+    },
+    {
+      "item": "goety:windswept_slab",
+      "emc": 4
+    },
+    {
+      "item": "goety:windswept_stairs",
+      "emc": 12
+    },
+    {
+      "item": "goety:windswept_trapdoor",
+      "emc": 16
+    },
+    {
+      "item": "goety:windswept_wall_hanging_sign",
+      "emc": 40
+    },
+    {
+      "item": "goety:windswept_wall_sign",
+      "emc": 40
+    },
+    {
+      "item": "goety:windswept_wood",
+      "emc": 32
+    },
+    {
+      "item": "goety:winter_wolf_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:witch_cauldron",
+      "emc": 768
+    },
+    {
+      "item": "goety:witch_hat",
+      "emc": 16972
+    },
+    {
+      "item": "goety:witch_hat_hedge",
+      "emc": 16972
+    },
+    {
+      "item": "goety:witch_pole",
+      "emc": 288
+    },
+    {
+      "item": "goety:witch_robe",
+      "emc": 23965
+    },
+    {
+      "item": "goety:witch_robe.brew",
+      "emc": 800
+    },
+    {
+      "item": "goety:witch_robe_hedge",
+      "emc": 23965
+    },
+    {
+      "item": "goety:witch_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:wither_necromancer_servant_spawn_egg",
+      "emc": 50000
+    },
+    {
+      "item": "goety:wither_necromancer_spawn_egg",
+      "emc": 50000
+    },
+    {
+      "item": "goety:wither_skeleton_servant_spawn_egg",
+      "emc": 50000
+    },
+    {
+      "item": "goety:wither_skull_focus",
+      "emc": 1500
+    },
+    {
+      "item": "goety:withered_manuscript",
+      "emc": 5000
+    },
+    {
+      "item": "goety:worn_slate_marble",
+      "emc": 217
+    },
+    {
+      "item": "goety:wraith_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:wraith_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "goety:zombie_ravager_servant_spawn_egg",
+      "emc": 2000
+    },
+    {
+      "item": "goety:zombie_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:zombie_totem",
+      "emc": 384
+    },
+    {
+      "item": "goety:zombie_villager_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:zombie_vindicator_servant_spawn_egg",
+      "emc": 2000
+    },
+    {
+      "item": "goety:zpiglin_brute_servant_spawn_egg",
+      "emc": 800
+    },
+    {
+      "item": "goety:zpiglin_servant_spawn_egg",
+      "emc": 800
+    }
+  ]
+}
