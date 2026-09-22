@@ -1,0 +1,5956 @@
+{
+  "entries": [
+    {
+      "item": "farmersdelight:acacia_cabinet",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:apple_cider",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:apple_pie",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:apple_pie_slice",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:bacon",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:bacon_and_eggs",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:bacon_sandwich",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:baked_cod_stew",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:bamboo_basket",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:bamboo_cabinet",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:barbecue_stick",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:beef_patty",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:beef_stew",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:beetroot_crate",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:birch_cabinet",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:black_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:black_hanging_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:blue_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:blue_hanging_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:bone_broth",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:brown_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:brown_hanging_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:brown_mushroom_colony",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:cabbage",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:cabbage_crate",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:cabbage_leaf",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:cabbage_rolls",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:cabbage_seeds",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:cake_slice",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:canvas",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:canvas_rug",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:carrot_crate",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:cherry_cabinet",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:chicken_cuts",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:chicken_sandwich",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:chicken_soup",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:chocolate_pie",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:chocolate_pie_slice",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:cod_roll",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:cod_slice",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:cooked_bacon",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:cooked_chicken_cuts",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:cooked_cod_slice",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:cooked_mutton_chops",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:cooked_rice",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:cooked_salmon_slice",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:cooking_pot",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:crimson_cabinet",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:cutting_board",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:cyan_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:cyan_hanging_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:dark_oak_cabinet",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:diamond_knife",
+      "emc": 512
+    },
+    {
+      "item": "farmersdelight:dog_food",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:dumplings",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:egg_sandwich",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:fish_stew",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:flint_knife",
+      "emc": 512
+    },
+    {
+      "item": "farmersdelight:fried_egg",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:fried_rice",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:fruit_salad",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:full_tatami_mat",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:gleaming_salad",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:gleaming_salad_block",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:glow_berry_custard",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:golden_knife",
+      "emc": 512
+    },
+    {
+      "item": "farmersdelight:gray_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:gray_hanging_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:green_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:green_hanging_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:grilled_salmon",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:half_tatami_mat",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:ham",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:hamburger",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:hanging_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:honey_cookie",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:honey_glazed_ham",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:honey_glazed_ham_block",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:horse_feed",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:hot_cocoa",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:iron_knife",
+      "emc": 512
+    },
+    {
+      "item": "farmersdelight:jungle_cabinet",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:kelp_roll",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:kelp_roll_slice",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:light_blue_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:light_blue_hanging_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:light_gray_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:light_gray_hanging_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:lime_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:lime_hanging_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:magenta_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:magenta_hanging_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:mangrove_cabinet",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:melon_juice",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:melon_popsicle",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:milk_bottle",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:minced_beef",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:mixed_salad",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:mushroom_rice",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:mutton_chops",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:mutton_wrap",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:nether_salad",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:netherite_knife",
+      "emc": 512
+    },
+    {
+      "item": "farmersdelight:noodle_soup",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:oak_cabinet",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:onion",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:onion_crate",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:onion_soup",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:orange_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:orange_hanging_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:organic_compost",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:pasta_with_meatballs",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:pasta_with_mutton_chop",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:pie_crust",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:pink_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:pink_hanging_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:potato_crate",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:pumpkin_pie_slice",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:pumpkin_slice",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:pumpkin_soup",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:purple_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:purple_hanging_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:ratatouille",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:raw_pasta",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:red_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:red_hanging_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:red_mushroom_colony",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:rice",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:rice_bag",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:rice_bale",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:rice_panicle",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:rice_roll_medley_block",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:rich_soil",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:rich_soil_farmland",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:roast_chicken",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:roast_chicken_block",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:roasted_mutton_chops",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:rope",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:rope_fence",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:rope_fence_gate",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:rotten_tomato",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:safety_net",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:salmon_roll",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:salmon_slice",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:sandy_shrub",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:shepherds_pie",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:shepherds_pie_block",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:skillet",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:smoked_ham",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:spruce_cabinet",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:squid_ink_pasta",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:steak_and_potatoes",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:stove",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:straw",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:straw_bale",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:stuffed_potato",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:stuffed_pumpkin",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:stuffed_pumpkin_block",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:sweet_berry_cheesecake",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:sweet_berry_cheesecake_slice",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:sweet_berry_cookie",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:tatami",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:tomato",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:tomato_crate",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:tomato_sauce",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:tomato_seeds",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:tree_bark",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:vegetable_noodles",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:vegetable_soup",
+      "emc": 128
+    },
+    {
+      "item": "farmersdelight:warped_cabinet",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:wheat_dough",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:white_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:white_hanging_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:wild_beetroots",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:wild_cabbages",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:wild_carrots",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:wild_onions",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:wild_potatoes",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:wild_rice",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:wild_tomatoes",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:wooden_basket",
+      "emc": 64
+    },
+    {
+      "item": "farmersdelight:yellow_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "farmersdelight:yellow_hanging_canvas_sign",
+      "emc": 8
+    },
+    {
+      "item": "dynamictrees:acacia_branch",
+      "emc": 32
+    },
+    {
+      "item": "dynamictrees:acacia_seed",
+      "emc": 32
+    },
+    {
+      "item": "dynamictrees:apple_oak_seed",
+      "emc": 32
+    },
+    {
+      "item": "dynamictrees:azalea_seed",
+      "emc": 32
+    },
+    {
+      "item": "dynamictrees:birch_branch",
+      "emc": 32
+    },
+    {
+      "item": "dynamictrees:birch_seed",
+      "emc": 32
+    },
+    {
+      "item": "dynamictrees:cherry_branch",
+      "emc": 32
+    },
+    {
+      "item": "dynamictrees:cherry_seed",
+      "emc": 32
+    },
+    {
+      "item": "dynamictrees:cocoa_seed",
+      "emc": 32
+    },
+    {
+      "item": "dynamictrees:crimson_branch",
+      "emc": 32
+    },
+    {
+      "item": "dynamictrees:crimson_seed",
+      "emc": 32
+    },
+    {
+      "item": "dynamictrees:dark_oak_branch",
+      "emc": 32
+    },
+    {
+      "item": "dynamictrees:dark_oak_seed",
+      "emc": 32
+    },
+    {
+      "item": "dynamictrees:dendro_potion",
+      "emc": 256
+    },
+    {
+      "item": "dynamictrees:dirt_bucket",
+      "emc": 1024
+    },
+    {
+      "item": "dynamictrees:jungle_branch",
+      "emc": 32
+    },
+    {
+      "item": "dynamictrees:jungle_seed",
+      "emc": 32
+    },
+    {
+      "item": "dynamictrees:mangrove_branch",
+      "emc": 32
+    },
+    {
+      "item": "dynamictrees:mangrove_roots",
+      "emc": 32
+    },
+    {
+      "item": "dynamictrees:mangrove_seed",
+      "emc": 32
+    },
+    {
+      "item": "dynamictrees:mega_crimson_seed",
+      "emc": 32
+    },
+    {
+      "item": "dynamictrees:mega_jungle_seed",
+      "emc": 32
+    },
+    {
+      "item": "dynamictrees:mega_spruce_seed",
+      "emc": 32
+    },
+    {
+      "item": "dynamictrees:mega_warped_seed",
+      "emc": 32
+    },
+    {
+      "item": "dynamictrees:oak_branch",
+      "emc": 32
+    },
+    {
+      "item": "dynamictrees:oak_seed",
+      "emc": 32
+    },
+    {
+      "item": "dynamictrees:spruce_branch",
+      "emc": 32
+    },
+    {
+      "item": "dynamictrees:spruce_seed",
+      "emc": 32
+    },
+    {
+      "item": "dynamictrees:staff",
+      "emc": 32
+    },
+    {
+      "item": "dynamictrees:warped_branch",
+      "emc": 32
+    },
+    {
+      "item": "dynamictrees:warped_seed",
+      "emc": 32
+    },
+    {
+      "item": "dtquark:ancient_branch",
+      "emc": 64
+    },
+    {
+      "item": "dtquark:ancient_seed",
+      "emc": 64
+    },
+    {
+      "item": "dtquark:azalea_branch",
+      "emc": 64
+    },
+    {
+      "item": "dtquark:blossom_branch",
+      "emc": 64
+    },
+    {
+      "item": "dtquark:fiery_blossom_seed",
+      "emc": 64
+    },
+    {
+      "item": "dtquark:frosty_blossom_seed",
+      "emc": 64
+    },
+    {
+      "item": "dtquark:glow_shroom_branch",
+      "emc": 64
+    },
+    {
+      "item": "dtquark:glow_shroom_seed",
+      "emc": 64
+    },
+    {
+      "item": "dtquark:serene_blossom_seed",
+      "emc": 64
+    },
+    {
+      "item": "dtquark:sunny_blossom_seed",
+      "emc": 64
+    },
+    {
+      "item": "dtquark:warm_blossom_seed",
+      "emc": 64
+    },
+    {
+      "item": "dynamictreesplus:brown_mushroom_seed",
+      "emc": 32
+    },
+    {
+      "item": "dynamictreesplus:cactus_branch",
+      "emc": 32
+    },
+    {
+      "item": "dynamictreesplus:mushroom_branch",
+      "emc": 32
+    },
+    {
+      "item": "dynamictreesplus:pillar_cactus_seed",
+      "emc": 32
+    },
+    {
+      "item": "dynamictreesplus:pipe_cactus_seed",
+      "emc": 32
+    },
+    {
+      "item": "dynamictreesplus:red_mushroom_seed",
+      "emc": 32
+    },
+    {
+      "item": "dynamictreesplus:saguaro_cactus_seed",
+      "emc": 32
+    },
+    {
+      "item": "dttwilightforest:canopy_branch",
+      "emc": 64
+    },
+    {
+      "item": "dttwilightforest:canopy_seed",
+      "emc": 64
+    },
+    {
+      "item": "dttwilightforest:darkwood_branch",
+      "emc": 64
+    },
+    {
+      "item": "dttwilightforest:darkwood_seed",
+      "emc": 64
+    },
+    {
+      "item": "dttwilightforest:giga_spruce_seed",
+      "emc": 64
+    },
+    {
+      "item": "dttwilightforest:mangrove_branch",
+      "emc": 64
+    },
+    {
+      "item": "dttwilightforest:mangrove_roots",
+      "emc": 64
+    },
+    {
+      "item": "dttwilightforest:mangrove_seed",
+      "emc": 64
+    },
+    {
+      "item": "dttwilightforest:mining_branch",
+      "emc": 64
+    },
+    {
+      "item": "dttwilightforest:mining_seed",
+      "emc": 64
+    },
+    {
+      "item": "dttwilightforest:mushgloom_branch",
+      "emc": 64
+    },
+    {
+      "item": "dttwilightforest:mushgloom_seed",
+      "emc": 64
+    },
+    {
+      "item": "dttwilightforest:rainbow_oak_seed",
+      "emc": 64
+    },
+    {
+      "item": "dttwilightforest:robust_twilight_oak_seed",
+      "emc": 64
+    },
+    {
+      "item": "dttwilightforest:sorting_branch",
+      "emc": 64
+    },
+    {
+      "item": "dttwilightforest:sorting_seed",
+      "emc": 64
+    },
+    {
+      "item": "dttwilightforest:time_branch",
+      "emc": 64
+    },
+    {
+      "item": "dttwilightforest:time_seed",
+      "emc": 64
+    },
+    {
+      "item": "dttwilightforest:transformation_branch",
+      "emc": 64
+    },
+    {
+      "item": "dttwilightforest:transformation_seed",
+      "emc": 64
+    },
+    {
+      "item": "dttwilightforest:twilight_oak_branch",
+      "emc": 64
+    },
+    {
+      "item": "dttwilightforest:twilight_oak_seed",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:aspen_seed",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:dark_poplar_seed",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:dead_branch",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:dying_seed",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:fir_branch",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:fir_seed",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:flowering_oak_seed",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:glowshroom_seed",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:hellbark_branch",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:hellbark_seed",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:jacaranda_branch",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:jacaranda_seed",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:magic_branch",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:magic_poplar_seed",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:mahogany_branch",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:mahogany_seed",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:maple_branch",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:orange_maple_seed",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:palm_branch",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:palm_seed",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:pine_branch",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:pine_seed",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:rainbow_birch_seed",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:red_maple_seed",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:redwood_branch",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:redwood_seed",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:snowblossom_seed",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:spruce_poplar_seed",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:toadstool_seed",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:umbran_branch",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:umbran_seed",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:willow_branch",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:willow_seed",
+      "emc": 64
+    },
+    {
+      "item": "dtbop:yellow_maple_seed",
+      "emc": 64
+    },
+    {
+      "item": "epicfight:bokken",
+      "emc": 512
+    },
+    {
+      "item": "epicfight:diamond_dagger",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:diamond_greatsword",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:diamond_longsword",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:diamond_spear",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:diamond_tachi",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:glove",
+      "emc": 512
+    },
+    {
+      "item": "epicfight:golden_dagger",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:golden_greatsword",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:golden_longsword",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:golden_spear",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:golden_tachi",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:iron_dagger",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:iron_greatsword",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:iron_longsword",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:iron_spear",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:iron_tachi",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:netherite_dagger",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:netherite_greatsword",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:netherite_longsword",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:netherite_spear",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:netherite_tachi",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:skillbook",
+      "emc": 512
+    },
+    {
+      "item": "epicfight:stone_dagger",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:stone_greatsword",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:stone_longsword",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:stone_spear",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:stone_tachi",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:stray_hat",
+      "emc": 512
+    },
+    {
+      "item": "epicfight:stray_pants",
+      "emc": 512
+    },
+    {
+      "item": "epicfight:stray_robe",
+      "emc": 512
+    },
+    {
+      "item": "epicfight:uchigatana",
+      "emc": 512
+    },
+    {
+      "item": "epicfight:wooden_dagger",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:wooden_greatsword",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:wooden_longsword",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:wooden_spear",
+      "emc": 1024
+    },
+    {
+      "item": "epicfight:wooden_tachi",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:acacia_security_sea_boat",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:admin_tool",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:alarm",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:ancient_debris_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:bamboo_security_sea_raft",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:birch_security_sea_boat",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:blacklist_module",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:blast_furnace_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:block_change_detector",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:block_pocket_manager",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:block_pocket_wall",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:bouncing_betty",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:briefcase",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:bucket_f_lava",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:bucket_f_water",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:cage_trap",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:camera_monitor",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:cherry_security_sea_boat",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:chiseled_crystal_quartz",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:claymore",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:coal_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:cobbled_deepslate_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:cobblestone_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:codebreaker",
+      "emc": 512
+    },
+    {
+      "item": "securitycraft:colored_lens",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:copper_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:crystal_quartz",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:crystal_quartz_bricks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:crystal_quartz_item",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:crystal_quartz_pillar",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:crystal_quartz_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:crystal_quartz_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:dark_oak_security_sea_boat",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:deepslate_coal_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:deepslate_copper_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:deepslate_diamond_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:deepslate_emerald_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:deepslate_gold_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:deepslate_iron_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:deepslate_lapis_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:deepslate_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:deepslate_redstone_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:diamond_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:dirt_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:disguise_module",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:display_case",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:door_indestructible_iron_item",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:electrified_iron_fence",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:emerald_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:end_stone_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:floor_trap",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:furnace_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:gilded_blackstone_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:glow_display_case",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:gold_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:gravel_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:harming_module",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:ims",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:incognito_mask",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:inventory_scanner",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:iron_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:jungle_security_sea_boat",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:keycard_holder",
+      "emc": 512
+    },
+    {
+      "item": "securitycraft:keycard_lock",
+      "emc": 512
+    },
+    {
+      "item": "securitycraft:keycard_lv1",
+      "emc": 512
+    },
+    {
+      "item": "securitycraft:keycard_lv2",
+      "emc": 512
+    },
+    {
+      "item": "securitycraft:keycard_lv3",
+      "emc": 512
+    },
+    {
+      "item": "securitycraft:keycard_lv4",
+      "emc": 512
+    },
+    {
+      "item": "securitycraft:keycard_lv5",
+      "emc": 512
+    },
+    {
+      "item": "securitycraft:keycard_reader",
+      "emc": 512
+    },
+    {
+      "item": "securitycraft:keypad",
+      "emc": 512
+    },
+    {
+      "item": "securitycraft:keypad_barrel",
+      "emc": 512
+    },
+    {
+      "item": "securitycraft:keypad_blast_furnace",
+      "emc": 512
+    },
+    {
+      "item": "securitycraft:keypad_chest",
+      "emc": 512
+    },
+    {
+      "item": "securitycraft:keypad_door_item",
+      "emc": 512
+    },
+    {
+      "item": "securitycraft:keypad_frame",
+      "emc": 512
+    },
+    {
+      "item": "securitycraft:keypad_furnace",
+      "emc": 512
+    },
+    {
+      "item": "securitycraft:keypad_item",
+      "emc": 512
+    },
+    {
+      "item": "securitycraft:keypad_smoker",
+      "emc": 512
+    },
+    {
+      "item": "securitycraft:keypad_trapdoor",
+      "emc": 512
+    },
+    {
+      "item": "securitycraft:lapis_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:laser_block",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:lens",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:limited_use_keycard",
+      "emc": 512
+    },
+    {
+      "item": "securitycraft:mangrove_security_sea_boat",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:motion_activated_light",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:nether_gold_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:netherrack_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:oak_security_sea_boat",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:panic_button",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:portable_radar",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:portable_tune_player",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:projector",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:protecto",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:quartz_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:redstone_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:redstone_module",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:reinforced_acacia_button",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_acacia_fence",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_acacia_fence_gate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_acacia_log",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_acacia_planks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_acacia_pressure_plate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_acacia_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_acacia_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_acacia_wood",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_amethyst_block",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_andesite",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_andesite_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_andesite_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_andesite_wall",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_bamboo_block",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_bamboo_button",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_bamboo_fence",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_bamboo_fence_gate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_bamboo_mosaic",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_bamboo_mosaic_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_bamboo_mosaic_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_bamboo_planks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_bamboo_pressure_plate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_bamboo_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_bamboo_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_basalt",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_birch_button",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_birch_fence",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_birch_fence_gate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_birch_log",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_birch_planks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_birch_pressure_plate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_birch_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_birch_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_birch_wood",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_black_carpet",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_black_concrete",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_black_glazed_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_black_stained_glass",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_black_stained_glass_pane",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_black_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_black_wool",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_blackstone",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_blackstone_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_blackstone_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_blackstone_wall",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_blue_carpet",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_blue_concrete",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_blue_glazed_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_blue_ice",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_blue_stained_glass",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_blue_stained_glass_pane",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_blue_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_blue_wool",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_bone_block",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_bookshelf",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_brick_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_brick_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_brick_wall",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_bricks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_brown_carpet",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_brown_concrete",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_brown_glazed_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_brown_stained_glass",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_brown_stained_glass_pane",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_brown_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_brown_wool",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_calcite",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cauldron",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_chain",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cherry_button",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cherry_fence",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cherry_fence_gate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cherry_log",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cherry_planks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cherry_pressure_plate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cherry_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cherry_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cherry_wood",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_chiseled_bookshelf",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_chiseled_crystal_quartz_block",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_chiseled_deepslate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_chiseled_nether_bricks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_chiseled_polished_blackstone",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_chiseled_quartz_block",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_chiseled_red_sandstone",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_chiseled_sandstone",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_chiseled_stone_bricks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_clay",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_coal_block",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_coarse_dirt",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cobbled_deepslate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cobbled_deepslate_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cobbled_deepslate_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cobbled_deepslate_wall",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cobblestone",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cobblestone_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cobblestone_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cobblestone_wall",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cobweb",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_copper_block",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cracked_deepslate_bricks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cracked_deepslate_tiles",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cracked_nether_bricks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cracked_polished_blackstone_bricks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cracked_stone_bricks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_crimson_button",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_crimson_fence",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_crimson_fence_gate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_crimson_hyphae",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_crimson_nylium",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_crimson_planks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_crimson_pressure_plate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_crimson_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_crimson_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_crimson_stem",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_crying_obsidian",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_crystal_quartz_block",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_crystal_quartz_bricks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_crystal_quartz_pillar",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_crystal_quartz_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_crystal_quartz_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cut_copper",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cut_copper_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cut_copper_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cut_red_sandstone",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cut_red_sandstone_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cut_sandstone",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cut_sandstone_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cyan_carpet",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cyan_concrete",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cyan_glazed_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cyan_stained_glass",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cyan_stained_glass_pane",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cyan_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_cyan_wool",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_dark_oak_button",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_dark_oak_fence",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_dark_oak_fence_gate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_dark_oak_log",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_dark_oak_planks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_dark_oak_pressure_plate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_dark_oak_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_dark_oak_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_dark_oak_wood",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_dark_prismarine",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_dark_prismarine_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_dark_prismarine_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_deepslate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_deepslate_brick_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_deepslate_brick_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_deepslate_brick_wall",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_deepslate_bricks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_deepslate_tile_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_deepslate_tile_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_deepslate_tile_wall",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_deepslate_tiles",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_diamond_block",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_diorite",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_diorite_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_diorite_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_diorite_wall",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_dirt",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_dispenser",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_dripstone_block",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_dropper",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_emerald_block",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_end_rod",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_end_stone",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_end_stone_brick_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_end_stone_brick_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_end_stone_brick_wall",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_end_stone_bricks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_exposed_copper",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_exposed_cut_copper",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_exposed_cut_copper_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_exposed_cut_copper_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_fence_gate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_glass",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_glass_pane",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_glowstone",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_gold_block",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_granite",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_granite_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_granite_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_granite_wall",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_grass_block",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_grass_path",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_gravel",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_gray_carpet",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_gray_concrete",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_gray_glazed_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_gray_stained_glass",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_gray_stained_glass_pane",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_gray_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_gray_wool",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_green_carpet",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_green_concrete",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_green_glazed_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_green_stained_glass",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_green_stained_glass_pane",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_green_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_green_wool",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_hardened_clay",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_hopper",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_ice",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_iron_bars",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_iron_block",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_iron_trapdoor",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_jungle_button",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_jungle_fence",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_jungle_fence_gate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_jungle_log",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_jungle_planks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_jungle_pressure_plate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_jungle_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_jungle_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_jungle_wood",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_ladder",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_lantern",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_lapis_block",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_lectern",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_lever",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_light_blue_carpet",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_light_blue_concrete",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_light_blue_glazed_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_light_blue_stained_glass",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_light_blue_stained_glass_pane",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_light_blue_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_light_blue_wool",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_light_gray_carpet",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_light_gray_concrete",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_light_gray_glazed_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_light_gray_stained_glass",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_light_gray_stained_glass_pane",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_light_gray_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_light_gray_wool",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_lime_carpet",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_lime_concrete",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_lime_glazed_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_lime_stained_glass",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_lime_stained_glass_pane",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_lime_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_lime_wool",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_magenta_carpet",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_magenta_concrete",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_magenta_glazed_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_magenta_stained_glass",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_magenta_stained_glass_pane",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_magenta_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_magenta_wool",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_magma_block",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_mangrove_button",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_mangrove_fence",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_mangrove_fence_gate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_mangrove_log",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_mangrove_planks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_mangrove_pressure_plate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_mangrove_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_mangrove_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_mangrove_wood",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_moss_block",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_moss_carpet",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_mossy_cobblestone",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_mossy_cobblestone_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_mossy_cobblestone_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_mossy_cobblestone_wall",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_mossy_stone_brick_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_mossy_stone_brick_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_mossy_stone_brick_wall",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_mossy_stone_bricks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_mud",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_mud_brick_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_mud_brick_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_mud_brick_wall",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_mud_bricks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_mycelium",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_nether_brick_fence",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_nether_brick_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_nether_brick_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_nether_brick_wall",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_nether_bricks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_nether_wart_block",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_netherite_block",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_netherrack",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_normal_stone_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_oak_button",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_oak_fence",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_oak_fence_gate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_oak_log",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_oak_planks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_oak_pressure_plate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_oak_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_oak_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_oak_wood",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_observer",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_obsidian",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_ochre_froglight",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_orange_carpet",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_orange_concrete",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_orange_glazed_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_orange_stained_glass",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_orange_stained_glass_pane",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_orange_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_orange_wool",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_oxidized_copper",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_oxidized_cut_copper",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_oxidized_cut_copper_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_oxidized_cut_copper_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_packed_ice",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_packed_mud",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_pearlescent_froglight",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_pink_carpet",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_pink_concrete",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_pink_glazed_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_pink_stained_glass",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_pink_stained_glass_pane",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_pink_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_pink_wool",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_piston",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_podzol",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_polished_andesite",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_polished_andesite_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_polished_andesite_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_polished_basalt",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_polished_blackstone",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_polished_blackstone_brick_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_polished_blackstone_brick_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_polished_blackstone_brick_wall",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_polished_blackstone_bricks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_polished_blackstone_button",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_polished_blackstone_pressure_plate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_polished_blackstone_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_polished_blackstone_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_polished_blackstone_wall",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_polished_deepslate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_polished_deepslate_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_polished_deepslate_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_polished_deepslate_wall",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_polished_diorite",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_polished_diorite_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_polished_diorite_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_polished_granite",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_polished_granite_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_polished_granite_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_prismarine",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_prismarine_brick_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_prismarine_brick_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_prismarine_bricks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_prismarine_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_prismarine_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_prismarine_wall",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_purple_carpet",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_purple_concrete",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_purple_glazed_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_purple_stained_glass",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_purple_stained_glass_pane",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_purple_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_purple_wool",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_purpur_block",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_purpur_pillar",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_purpur_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_purpur_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_quartz_block",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_quartz_bricks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_quartz_pillar",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_quartz_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_quartz_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_raw_copper_block",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_raw_gold_block",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_raw_iron_block",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_red_carpet",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_red_concrete",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_red_glazed_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_red_nether_brick_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_red_nether_brick_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_red_nether_brick_wall",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_red_nether_bricks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_red_sand",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_red_sandstone",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_red_sandstone_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_red_sandstone_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_red_sandstone_wall",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_red_stained_glass",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_red_stained_glass_pane",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_red_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_red_wool",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_redstone_block",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_redstone_lamp",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_rooted_dirt",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_sand",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_sandstone",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_sandstone_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_sandstone_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_sandstone_wall",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_scaffolding",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_sea_lantern",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_shroomlight",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_smooth_basalt",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_smooth_crystal_quartz",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_smooth_crystal_quartz_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_smooth_crystal_quartz_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_smooth_quartz",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_smooth_quartz_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_smooth_quartz_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_smooth_red_sandstone",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_smooth_red_sandstone_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_smooth_red_sandstone_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_smooth_sandstone",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_smooth_sandstone_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_smooth_sandstone_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_smooth_stone",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_snow_block",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_soul_lantern",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_soul_sand",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_soul_soil",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_spruce_button",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_spruce_fence",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_spruce_fence_gate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_spruce_log",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_spruce_planks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_spruce_pressure_plate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_spruce_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_spruce_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_spruce_wood",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_sticky_piston",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stone",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stone_brick_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stone_brick_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stone_brick_wall",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stone_bricks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stone_button",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stone_pressure_plate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stone_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stone_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stripped_acacia_log",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stripped_acacia_wood",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stripped_bamboo_block",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stripped_birch_log",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stripped_birch_wood",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stripped_cherry_log",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stripped_cherry_wood",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stripped_crimson_hyphae",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stripped_crimson_stem",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stripped_dark_oak_log",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stripped_dark_oak_wood",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stripped_jungle_log",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stripped_jungle_wood",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stripped_mangrove_log",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stripped_mangrove_wood",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stripped_oak_log",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stripped_oak_wood",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stripped_spruce_log",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stripped_spruce_wood",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stripped_warped_hyphae",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_stripped_warped_stem",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_tinted_glass",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_tuff",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_verdant_froglight",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_warped_button",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_warped_fence",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_warped_fence_gate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_warped_hyphae",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_warped_nylium",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_warped_planks",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_warped_pressure_plate",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_warped_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_warped_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_warped_stem",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_warped_wart_block",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_weathered_copper",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_weathered_cut_copper",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_weathered_cut_copper_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_weathered_cut_copper_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_white_carpet",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_white_concrete",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_white_glazed_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_white_stained_glass",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_white_stained_glass_pane",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_white_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_white_wool",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_yellow_carpet",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_yellow_concrete",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_yellow_glazed_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_yellow_stained_glass",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_yellow_stained_glass_pane",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_yellow_terracotta",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:reinforced_yellow_wool",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:remote_access_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:remote_access_sentry",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:retinal_scanner",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:rift_stabilizer",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:sand_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:sc_manual",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:scanner_door_item",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:scanner_trapdoor",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:secret_acacia_hanging_sign",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:secret_acacia_sign_item",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:secret_bamboo_hanging_sign",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:secret_bamboo_sign_item",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:secret_birch_hanging_sign",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:secret_birch_sign_item",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:secret_cherry_hanging_sign",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:secret_cherry_sign_item",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:secret_crimson_hanging_sign",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:secret_crimson_sign_item",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:secret_dark_oak_hanging_sign",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:secret_dark_oak_sign_item",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:secret_jungle_hanging_sign",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:secret_jungle_sign_item",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:secret_mangrove_hanging_sign",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:secret_mangrove_sign_item",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:secret_oak_hanging_sign",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:secret_sign_item",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:secret_spruce_hanging_sign",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:secret_spruce_sign_item",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:secret_warped_hanging_sign",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:secret_warped_sign_item",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:secure_redstone_interface",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:secure_trading_station",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:security_camera",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:sentry",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:smart_module",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:smoker_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:smooth_crystal_quartz",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:smooth_crystal_quartz_slab",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:smooth_crystal_quartz_stairs",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:sonic_security_system",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:speed_module",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:spruce_security_sea_boat",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:stone_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:storage_module",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:suspicious_gravel_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:suspicious_sand_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:taser",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:taser_powered",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:track_mine",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:trophy_system",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:universal_block_modifier",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:universal_block_reinforcer_lvl1",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:universal_block_reinforcer_lvl2",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:universal_block_reinforcer_lvl3",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:universal_block_remover",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:universal_key_changer",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:universal_owner_changer",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:username_logger",
+      "emc": 256
+    },
+    {
+      "item": "securitycraft:whitelist_module",
+      "emc": 1024
+    },
+    {
+      "item": "securitycraft:wire_cutters",
+      "emc": 256
+    },
+    {
+      "item": "patchouli:guide_book",
+      "emc": 1024
+    },
+    {
+      "item": "avaritia:amethyst_singularity",
+      "emc": 65536
+    },
+    {
+      "item": "avaritia:compressed_crafting_table",
+      "emc": 8192
+    },
+    {
+      "item": "avaritia:compressor",
+      "emc": 16384
+    },
+    {
+      "item": "avaritia:copper_singularity",
+      "emc": 65536
+    },
+    {
+      "item": "avaritia:cosmic_meatballs",
+      "emc": 32768
+    },
+    {
+      "item": "avaritia:crystal_matrix_block",
+      "emc": 9437184
+    },
+    {
+      "item": "avaritia:crystal_matrix_ingot",
+      "emc": 1048576
+    },
+    {
+      "item": "avaritia:dark_matter_singularity",
+      "emc": 65536
+    },
+    {
+      "item": "avaritia:diamond_lattice",
+      "emc": 8192
+    },
+    {
+      "item": "avaritia:diamond_singularity",
+      "emc": 65536
+    },
+    {
+      "item": "avaritia:double_compressed_crafting_table",
+      "emc": 65536
+    },
+    {
+      "item": "avaritia:emerald_singularity",
+      "emc": 65536
+    },
+    {
+      "item": "avaritia:endest_pearl",
+      "emc": 32768
+    },
+    {
+      "item": "avaritia:extreme_crafting_table",
+      "emc": 4669440
+    },
+    {
+      "item": "avaritia:gold_singularity",
+      "emc": 65536
+    },
+    {
+      "item": "avaritia:infinity_axe",
+      "emc": 4669440
+    },
+    {
+      "item": "avaritia:infinity_block",
+      "emc": 42024960
+    },
+    {
+      "item": "avaritia:infinity_boots",
+      "emc": 4669440
+    },
+    {
+      "item": "avaritia:infinity_bow",
+      "emc": 4669440
+    },
+    {
+      "item": "avaritia:infinity_catalyst",
+      "emc": 4669440
+    },
+    {
+      "item": "avaritia:infinity_chest",
+      "emc": 4669440
+    },
+    {
+      "item": "avaritia:infinity_chestplate",
+      "emc": 4669440
+    },
+    {
+      "item": "avaritia:infinity_helmet",
+      "emc": 4669440
+    },
+    {
+      "item": "avaritia:infinity_hoe",
+      "emc": 4669440
+    },
+    {
+      "item": "avaritia:infinity_ingot",
+      "emc": 4669440
+    },
+    {
+      "item": "avaritia:infinity_leggings",
+      "emc": 4669440
+    },
+    {
+      "item": "avaritia:infinity_pickaxe",
+      "emc": 4669440
+    },
+    {
+      "item": "avaritia:infinity_shovel",
+      "emc": 4669440
+    },
+    {
+      "item": "avaritia:infinity_singularity",
+      "emc": 65536
+    },
+    {
+      "item": "avaritia:infinity_sword",
+      "emc": 4669440
+    },
+    {
+      "item": "avaritia:iron_singularity",
+      "emc": 65536
+    },
+    {
+      "item": "avaritia:json_singularity",
+      "emc": 65536
+    },
+    {
+      "item": "avaritia:lapis_singularity",
+      "emc": 65536
+    },
+    {
+      "item": "avaritia:matter_cluster",
+      "emc": 16384
+    },
+    {
+      "item": "avaritia:netherite_singularity",
+      "emc": 65536
+    },
+    {
+      "item": "avaritia:neutron_collector",
+      "emc": 16384
+    },
+    {
+      "item": "avaritia:neutron_nugget",
+      "emc": 16384
+    },
+    {
+      "item": "avaritia:neutron_pile",
+      "emc": 16384
+    },
+    {
+      "item": "avaritia:neutronium_block",
+      "emc": 65536
+    },
+    {
+      "item": "avaritia:neutronium_ingot",
+      "emc": 16384
+    },
+    {
+      "item": "avaritia:quartz_singularity",
+      "emc": 65536
+    },
+    {
+      "item": "avaritia:record_fragment",
+      "emc": 16384
+    },
+    {
+      "item": "avaritia:red_matter_singularity",
+      "emc": 65536
+    },
+    {
+      "item": "avaritia:redstone_singularity",
+      "emc": 65536
+    },
+    {
+      "item": "avaritia:skullfire_sword",
+      "emc": 16384
+    },
+    {
+      "item": "avaritia:ultimate_stew",
+      "emc": 16384
+    },
+    {
+      "item": "guardvillagers:guard_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "guardvillagers:illusioner_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "guardvillagers:iron_golem_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "guardvillagers:snow_golem_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "biomesoplenty:algal_end_stone",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:anomaly",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:barley",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:barnacles",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:black_sand",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:black_sandstone",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:black_sandstone_slab",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:black_sandstone_stairs",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:black_sandstone_wall",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:blackstone_bulb",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:blackstone_spines",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:blood",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:blood_bucket",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:blue_hydrangea",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:bop_icon",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:bramble",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:bramble_leaves",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:brimstone",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:brimstone_brick_slab",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:brimstone_brick_stairs",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:brimstone_brick_wall",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:brimstone_bricks",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:brimstone_bud",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:brimstone_cluster",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:brimstone_fumarole",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:burning_blossom",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:bush",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:cattail",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:chiseled_black_sandstone",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:chiseled_brimstone_bricks",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:chiseled_orange_sandstone",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:chiseled_white_sandstone",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:clover",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:cut_black_sandstone",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:cut_black_sandstone_slab",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:cut_orange_sandstone",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:cut_orange_sandstone_slab",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:cut_white_sandstone",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:cut_white_sandstone_slab",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:cypress_leaves",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:cypress_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:dead_boat",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:dead_branch",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:dead_button",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:dead_chest_boat",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:dead_door",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:dead_fence",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:dead_fence_gate",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:dead_grass",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:dead_hanging_sign",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:dead_leaves",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:dead_log",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:dead_planks",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:dead_pressure_plate",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:dead_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:dead_sign",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:dead_slab",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:dead_stairs",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:dead_trapdoor",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:dead_wood",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:desert_grass",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:dried_salt",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:dune_grass",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:empyreal_boat",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:empyreal_button",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:empyreal_chest_boat",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:empyreal_door",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:empyreal_fence",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:empyreal_fence_gate",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:empyreal_hanging_sign",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:empyreal_leaves",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:empyreal_log",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:empyreal_planks",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:empyreal_pressure_plate",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:empyreal_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:empyreal_sign",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:empyreal_slab",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:empyreal_stairs",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:empyreal_trapdoor",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:empyreal_wood",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:endbloom",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:enderphyte",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:eyebulb",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:fir_boat",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:fir_button",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:fir_chest_boat",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:fir_door",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:fir_fence",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:fir_fence_gate",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:fir_hanging_sign",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:fir_leaves",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:fir_log",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:fir_planks",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:fir_pressure_plate",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:fir_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:fir_sign",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:fir_slab",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:fir_stairs",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:fir_trapdoor",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:fir_wood",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:flesh",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:flesh_tendons",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:flesh_tendons_strand",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:flowering_oak_leaves",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:flowering_oak_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:glowflower",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:glowing_moss_block",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:glowing_moss_carpet",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:glowshroom",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:glowshroom_block",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:glowworm_silk",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:glowworm_silk_strand",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:goldenrod",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:hair",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:hanging_cobweb",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:hanging_cobweb_strand",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:hellbark_boat",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:hellbark_button",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:hellbark_chest_boat",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:hellbark_door",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:hellbark_fence",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:hellbark_fence_gate",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:hellbark_hanging_sign",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:hellbark_leaves",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:hellbark_log",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:hellbark_planks",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:hellbark_pressure_plate",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:hellbark_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:hellbark_sign",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:hellbark_slab",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:hellbark_stairs",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:hellbark_trapdoor",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:hellbark_wood",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:high_grass",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:high_grass_plant",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:huge_clover_petal",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:huge_lily_pad",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:icy_iris",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:jacaranda_boat",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:jacaranda_button",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:jacaranda_chest_boat",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:jacaranda_door",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:jacaranda_fence",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:jacaranda_fence_gate",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:jacaranda_hanging_sign",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:jacaranda_leaves",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:jacaranda_log",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:jacaranda_planks",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:jacaranda_pressure_plate",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:jacaranda_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:jacaranda_sign",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:jacaranda_slab",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:jacaranda_stairs",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:jacaranda_trapdoor",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:jacaranda_wood",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:large_rose_quartz_bud",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:lavender",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:liquid_null",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:liquid_null_bucket",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:lumaloop",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:lumaloop_plant",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:magic_boat",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:magic_button",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:magic_chest_boat",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:magic_door",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:magic_fence",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:magic_fence_gate",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:magic_hanging_sign",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:magic_leaves",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:magic_log",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:magic_planks",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:magic_pressure_plate",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:magic_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:magic_sign",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:magic_slab",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:magic_stairs",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:magic_trapdoor",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:magic_wood",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:mahogany_boat",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:mahogany_button",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:mahogany_chest_boat",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:mahogany_door",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:mahogany_fence",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:mahogany_fence_gate",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:mahogany_hanging_sign",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:mahogany_leaves",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:mahogany_log",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:mahogany_planks",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:mahogany_pressure_plate",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:mahogany_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:mahogany_sign",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:mahogany_slab",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:mahogany_stairs",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:mahogany_trapdoor",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:mahogany_wood",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:maple_boat",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:maple_button",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:maple_chest_boat",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:maple_door",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:maple_fence",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:maple_fence_gate",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:maple_hanging_sign",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:maple_log",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:maple_planks",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:maple_pressure_plate",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:maple_sign",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:maple_slab",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:maple_stairs",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:maple_trapdoor",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:maple_wood",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:medium_rose_quartz_bud",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:mossy_black_sand",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:music_disc_wanderer",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:null_block",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:null_end_stone",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:null_leaves",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:null_plant",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:orange_cosmos",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:orange_maple_leaf_pile",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:orange_maple_leaves",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:orange_maple_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:orange_sand",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:orange_sandstone",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:orange_sandstone_slab",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:orange_sandstone_stairs",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:orange_sandstone_wall",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:origin_grass_block",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:origin_leaves",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:origin_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:palm_boat",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:palm_button",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:palm_chest_boat",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:palm_door",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:palm_fence",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:palm_fence_gate",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:palm_hanging_sign",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:palm_leaves",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:palm_log",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:palm_planks",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:palm_pressure_plate",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:palm_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:palm_sign",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:palm_slab",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:palm_stairs",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:palm_trapdoor",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:palm_wood",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:pine_boat",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:pine_button",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:pine_chest_boat",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:pine_door",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:pine_fence",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:pine_fence_gate",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:pine_hanging_sign",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:pine_leaves",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:pine_log",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:pine_planks",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:pine_pressure_plate",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:pine_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:pine_sign",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:pine_slab",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:pine_stairs",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:pine_trapdoor",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:pine_wood",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:pink_daffodil",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:pink_hibiscus",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:porous_flesh",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:potted_burning_blossom",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:potted_cypress_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:potted_dead_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:potted_empyreal_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:potted_endbloom",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:potted_fir_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:potted_flowering_oak_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:potted_glowflower",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:potted_glowshroom",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:potted_hellbark_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:potted_jacaranda_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:potted_lavender",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:potted_magic_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:potted_mahogany_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:potted_orange_cosmos",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:potted_orange_maple_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:potted_origin_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:potted_palm_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:potted_pine_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:potted_pink_daffodil",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:potted_pink_hibiscus",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:potted_rainbow_birch_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:potted_red_maple_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:potted_redwood_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:potted_rose",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:potted_snowblossom_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:potted_sprout",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:potted_tiny_cactus",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:potted_toadstool",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:potted_umbran_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:potted_violet",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:potted_white_lavender",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:potted_wildflower",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:potted_willow_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:potted_wilted_lily",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:potted_yellow_maple_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:pus_bubble",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:rainbow_birch_leaves",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:rainbow_birch_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:red_maple_leaf_pile",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:red_maple_leaves",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:red_maple_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:redwood_boat",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:redwood_button",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:redwood_chest_boat",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:redwood_door",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:redwood_fence",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:redwood_fence_gate",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:redwood_hanging_sign",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:redwood_leaves",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:redwood_log",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:redwood_planks",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:redwood_pressure_plate",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:redwood_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:redwood_sign",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:redwood_slab",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:redwood_stairs",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:redwood_trapdoor",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:redwood_wood",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:reed",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:rose",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:rose_quartz_block",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:rose_quartz_chunk",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:rose_quartz_cluster",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:sea_oats",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:small_rose_quartz_bud",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:smooth_black_sandstone",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:smooth_black_sandstone_slab",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:smooth_black_sandstone_stairs",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:smooth_orange_sandstone",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:smooth_orange_sandstone_slab",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:smooth_orange_sandstone_stairs",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:smooth_white_sandstone",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:smooth_white_sandstone_slab",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:smooth_white_sandstone_stairs",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:snowblossom_leaves",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:snowblossom_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:spanish_moss",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:spanish_moss_plant",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:spider_egg",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:sprout",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:stringy_cobweb",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:stripped_dead_log",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:stripped_dead_wood",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:stripped_empyreal_log",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:stripped_empyreal_wood",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:stripped_fir_log",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:stripped_fir_wood",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:stripped_hellbark_log",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:stripped_hellbark_wood",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:stripped_jacaranda_log",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:stripped_jacaranda_wood",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:stripped_magic_log",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:stripped_magic_wood",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:stripped_mahogany_log",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:stripped_mahogany_wood",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:stripped_maple_log",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:stripped_maple_wood",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:stripped_palm_log",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:stripped_palm_wood",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:stripped_pine_log",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:stripped_pine_wood",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:stripped_redwood_log",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:stripped_redwood_wood",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:stripped_umbran_log",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:stripped_umbran_wood",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:stripped_willow_log",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:stripped_willow_wood",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:tall_lavender",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:tall_white_lavender",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:thermal_calcite",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:thermal_calcite_vent",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:tiny_cactus",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:toadstool",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:toadstool_block",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:tundra_shrub",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:umbran_boat",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:umbran_button",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:umbran_chest_boat",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:umbran_door",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:umbran_fence",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:umbran_fence_gate",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:umbran_hanging_sign",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:umbran_leaves",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:umbran_log",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:umbran_planks",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:umbran_pressure_plate",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:umbran_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:umbran_sign",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:umbran_slab",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:umbran_stairs",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:umbran_trapdoor",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:umbran_wood",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:unmapped_end_stone",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:violet",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:watergrass",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:waterlily",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:webbing",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:white_lavender",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:white_petals",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:white_sand",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:white_sandstone",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:white_sandstone_slab",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:white_sandstone_stairs",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:white_sandstone_wall",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:wildflower",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:willow_boat",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:willow_button",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:willow_chest_boat",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:willow_door",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:willow_fence",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:willow_fence_gate",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:willow_hanging_sign",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:willow_leaves",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:willow_log",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:willow_planks",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:willow_pressure_plate",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:willow_sapling",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:willow_sign",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:willow_slab",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:willow_stairs",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:willow_trapdoor",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:willow_vine",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:willow_wood",
+      "emc": 32
+    },
+    {
+      "item": "biomesoplenty:wilted_lily",
+      "emc": 16
+    },
+    {
+      "item": "biomesoplenty:wispjelly",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:yellow_maple_leaf_pile",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:yellow_maple_leaves",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:yellow_maple_sapling",
+      "emc": 32
+    },
+    {
+      "item": "citadel:citadel_book",
+      "emc": 64
+    },
+    {
+      "item": "citadel:debug",
+      "emc": 64
+    },
+    {
+      "item": "citadel:effect_item",
+      "emc": 64
+    },
+    {
+      "item": "citadel:fancy_item",
+      "emc": 64
+    },
+    {
+      "item": "citadel:icon_item",
+      "emc": 64
+    },
+    {
+      "item": "manaita_plus_legacy:block_brewing_manaita",
+      "emc": 4096
+    },
+    {
+      "item": "manaita_plus_legacy:block_crafting_manaita",
+      "emc": 4096
+    },
+    {
+      "item": "manaita_plus_legacy:block_furnace_manaita",
+      "emc": 4096
+    },
+    {
+      "item": "manaita_plus_legacy:block_hook_manaita",
+      "emc": 4096
+    },
+    {
+      "item": "manaita_plus_legacy:manaita_axe",
+      "emc": 2048
+    },
+    {
+      "item": "manaita_plus_legacy:manaita_boots",
+      "emc": 2048
+    },
+    {
+      "item": "manaita_plus_legacy:manaita_bow",
+      "emc": 2048
+    },
+    {
+      "item": "manaita_plus_legacy:manaita_brewing_portable",
+      "emc": 4096
+    },
+    {
+      "item": "manaita_plus_legacy:manaita_brewing_ring",
+      "emc": 1024
+    },
+    {
+      "item": "manaita_plus_legacy:manaita_chestplate",
+      "emc": 2048
+    },
+    {
+      "item": "manaita_plus_legacy:manaita_crafting_portable",
+      "emc": 4096
+    },
+    {
+      "item": "manaita_plus_legacy:manaita_crafting_ring",
+      "emc": 1024
+    },
+    {
+      "item": "manaita_plus_legacy:manaita_furnace_portable",
+      "emc": 4096
+    },
+    {
+      "item": "manaita_plus_legacy:manaita_furnace_ring",
+      "emc": 1024
+    },
+    {
+      "item": "manaita_plus_legacy:manaita_helmet",
+      "emc": 2048
+    },
+    {
+      "item": "manaita_plus_legacy:manaita_hoe",
+      "emc": 2048
+    },
+    {
+      "item": "manaita_plus_legacy:manaita_hook",
+      "emc": 2048
+    },
+    {
+      "item": "manaita_plus_legacy:manaita_leggings",
+      "emc": 2048
+    },
+    {
+      "item": "manaita_plus_legacy:manaita_paxel",
+      "emc": 2048
+    },
+    {
+      "item": "manaita_plus_legacy:manaita_pickaxe",
+      "emc": 2048
+    },
+    {
+      "item": "manaita_plus_legacy:manaita_shears",
+      "emc": 2048
+    },
+    {
+      "item": "manaita_plus_legacy:manaita_shovel",
+      "emc": 2048
+    },
+    {
+      "item": "manaita_plus_legacy:manaita_source",
+      "emc": 2048
+    },
+    {
+      "item": "manaita_plus_legacy:manaita_sword",
+      "emc": 2048
+    },
+    {
+      "item": "manaita_plus_legacy:manaita_sword_god",
+      "emc": 8192
+    }
+  ]
+}
