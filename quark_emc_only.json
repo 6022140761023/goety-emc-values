@@ -1,0 +1,3356 @@
+{
+  "entries": [
+    {
+      "item": "quark:abacus",
+      "emc": 64
+    },
+    {
+      "item": "quark:acacia_bookshelf",
+      "emc": 128
+    },
+    {
+      "item": "quark:acacia_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:acacia_hedge",
+      "emc": 8
+    },
+    {
+      "item": "quark:acacia_ladder",
+      "emc": 32
+    },
+    {
+      "item": "quark:acacia_leaf_carpet",
+      "emc": 8
+    },
+    {
+      "item": "quark:acacia_post",
+      "emc": 8
+    },
+    {
+      "item": "quark:acacia_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:acacia_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:ancient_boat",
+      "emc": 40
+    },
+    {
+      "item": "quark:ancient_bookshelf",
+      "emc": 128
+    },
+    {
+      "item": "quark:ancient_button",
+      "emc": 4
+    },
+    {
+      "item": "quark:ancient_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:ancient_chest_boat",
+      "emc": 64
+    },
+    {
+      "item": "quark:ancient_door",
+      "emc": 8
+    },
+    {
+      "item": "quark:ancient_fence",
+      "emc": 8
+    },
+    {
+      "item": "quark:ancient_fence_gate",
+      "emc": 64
+    },
+    {
+      "item": "quark:ancient_fruit",
+      "emc": 64
+    },
+    {
+      "item": "quark:ancient_hanging_sign",
+      "emc": 8
+    },
+    {
+      "item": "quark:ancient_hedge",
+      "emc": 8
+    },
+    {
+      "item": "quark:ancient_ladder",
+      "emc": 32
+    },
+    {
+      "item": "quark:ancient_leaf_carpet",
+      "emc": 8
+    },
+    {
+      "item": "quark:ancient_leaves",
+      "emc": 1
+    },
+    {
+      "item": "quark:ancient_log",
+      "emc": 32
+    },
+    {
+      "item": "quark:ancient_planks",
+      "emc": 8
+    },
+    {
+      "item": "quark:ancient_planks_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:ancient_planks_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:ancient_planks_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:ancient_post",
+      "emc": 8
+    },
+    {
+      "item": "quark:ancient_pressure_plate",
+      "emc": 4
+    },
+    {
+      "item": "quark:ancient_sapling",
+      "emc": 32
+    },
+    {
+      "item": "quark:ancient_sign",
+      "emc": 8
+    },
+    {
+      "item": "quark:ancient_tome",
+      "emc": 2048
+    },
+    {
+      "item": "quark:ancient_trapdoor",
+      "emc": 8
+    },
+    {
+      "item": "quark:ancient_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:ancient_wood",
+      "emc": 32
+    },
+    {
+      "item": "quark:andesite_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:andesite_bricks_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:andesite_bricks_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:andesite_bricks_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:andesite_bricks_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:andesite_pillar",
+      "emc": 64
+    },
+    {
+      "item": "quark:andesite_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:apple_crate",
+      "emc": 64
+    },
+    {
+      "item": "quark:azalea_boat",
+      "emc": 40
+    },
+    {
+      "item": "quark:azalea_bookshelf",
+      "emc": 128
+    },
+    {
+      "item": "quark:azalea_button",
+      "emc": 4
+    },
+    {
+      "item": "quark:azalea_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:azalea_chest_boat",
+      "emc": 64
+    },
+    {
+      "item": "quark:azalea_door",
+      "emc": 8
+    },
+    {
+      "item": "quark:azalea_fence",
+      "emc": 8
+    },
+    {
+      "item": "quark:azalea_fence_gate",
+      "emc": 64
+    },
+    {
+      "item": "quark:azalea_hanging_sign",
+      "emc": 8
+    },
+    {
+      "item": "quark:azalea_hedge",
+      "emc": 8
+    },
+    {
+      "item": "quark:azalea_ladder",
+      "emc": 32
+    },
+    {
+      "item": "quark:azalea_leaf_carpet",
+      "emc": 8
+    },
+    {
+      "item": "quark:azalea_log",
+      "emc": 32
+    },
+    {
+      "item": "quark:azalea_planks",
+      "emc": 8
+    },
+    {
+      "item": "quark:azalea_planks_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:azalea_planks_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:azalea_planks_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:azalea_post",
+      "emc": 8
+    },
+    {
+      "item": "quark:azalea_pressure_plate",
+      "emc": 4
+    },
+    {
+      "item": "quark:azalea_sign",
+      "emc": 8
+    },
+    {
+      "item": "quark:azalea_trapdoor",
+      "emc": 8
+    },
+    {
+      "item": "quark:azalea_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:azalea_wood",
+      "emc": 32
+    },
+    {
+      "item": "quark:backpack",
+      "emc": 2048
+    },
+    {
+      "item": "quark:bamboo_bookshelf",
+      "emc": 128
+    },
+    {
+      "item": "quark:bamboo_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:bamboo_ladder",
+      "emc": 32
+    },
+    {
+      "item": "quark:bamboo_mat",
+      "emc": 64
+    },
+    {
+      "item": "quark:bamboo_mat_carpet",
+      "emc": 64
+    },
+    {
+      "item": "quark:bamboo_mosaic_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:bamboo_post",
+      "emc": 8
+    },
+    {
+      "item": "quark:bamboo_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:bamboo_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:beetroot_crate",
+      "emc": 64
+    },
+    {
+      "item": "quark:berry_sack",
+      "emc": 64
+    },
+    {
+      "item": "quark:birch_bookshelf",
+      "emc": 128
+    },
+    {
+      "item": "quark:birch_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:birch_hedge",
+      "emc": 8
+    },
+    {
+      "item": "quark:birch_ladder",
+      "emc": 32
+    },
+    {
+      "item": "quark:birch_leaf_carpet",
+      "emc": 8
+    },
+    {
+      "item": "quark:birch_post",
+      "emc": 8
+    },
+    {
+      "item": "quark:birch_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:birch_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:black_corundum",
+      "emc": 64
+    },
+    {
+      "item": "quark:black_corundum_cluster",
+      "emc": 64
+    },
+    {
+      "item": "quark:black_corundum_pane",
+      "emc": 64
+    },
+    {
+      "item": "quark:black_crystal_lamp",
+      "emc": 256
+    },
+    {
+      "item": "quark:black_framed_glass",
+      "emc": 16
+    },
+    {
+      "item": "quark:black_framed_glass_pane",
+      "emc": 16
+    },
+    {
+      "item": "quark:black_shard",
+      "emc": 64
+    },
+    {
+      "item": "quark:black_shingles",
+      "emc": 64
+    },
+    {
+      "item": "quark:black_shingles_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:black_shingles_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:black_shingles_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:black_stool",
+      "emc": 64
+    },
+    {
+      "item": "quark:blackstone_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:blackstone_bricks_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:blackstone_bricks_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:blackstone_bricks_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:blackstone_bricks_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:blackstone_furnace",
+      "emc": 64
+    },
+    {
+      "item": "quark:blackstone_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:blaze_lantern",
+      "emc": 256
+    },
+    {
+      "item": "quark:blossom_boat",
+      "emc": 40
+    },
+    {
+      "item": "quark:blossom_bookshelf",
+      "emc": 128
+    },
+    {
+      "item": "quark:blossom_button",
+      "emc": 4
+    },
+    {
+      "item": "quark:blossom_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:blossom_chest_boat",
+      "emc": 64
+    },
+    {
+      "item": "quark:blossom_door",
+      "emc": 8
+    },
+    {
+      "item": "quark:blossom_fence",
+      "emc": 8
+    },
+    {
+      "item": "quark:blossom_fence_gate",
+      "emc": 64
+    },
+    {
+      "item": "quark:blossom_hanging_sign",
+      "emc": 8
+    },
+    {
+      "item": "quark:blossom_ladder",
+      "emc": 32
+    },
+    {
+      "item": "quark:blossom_log",
+      "emc": 32
+    },
+    {
+      "item": "quark:blossom_planks",
+      "emc": 8
+    },
+    {
+      "item": "quark:blossom_planks_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:blossom_planks_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:blossom_planks_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:blossom_post",
+      "emc": 8
+    },
+    {
+      "item": "quark:blossom_pressure_plate",
+      "emc": 4
+    },
+    {
+      "item": "quark:blossom_sign",
+      "emc": 8
+    },
+    {
+      "item": "quark:blossom_trapdoor",
+      "emc": 8
+    },
+    {
+      "item": "quark:blossom_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:blossom_wood",
+      "emc": 32
+    },
+    {
+      "item": "quark:blue_blossom_hedge",
+      "emc": 8
+    },
+    {
+      "item": "quark:blue_blossom_leaf_carpet",
+      "emc": 8
+    },
+    {
+      "item": "quark:blue_blossom_leaves",
+      "emc": 1
+    },
+    {
+      "item": "quark:blue_blossom_sapling",
+      "emc": 32
+    },
+    {
+      "item": "quark:blue_corundum",
+      "emc": 64
+    },
+    {
+      "item": "quark:blue_corundum_cluster",
+      "emc": 64
+    },
+    {
+      "item": "quark:blue_corundum_pane",
+      "emc": 64
+    },
+    {
+      "item": "quark:blue_crystal_lamp",
+      "emc": 256
+    },
+    {
+      "item": "quark:blue_framed_glass",
+      "emc": 16
+    },
+    {
+      "item": "quark:blue_framed_glass_pane",
+      "emc": 16
+    },
+    {
+      "item": "quark:blue_nether_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:blue_nether_bricks_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:blue_nether_bricks_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:blue_nether_bricks_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:blue_nether_bricks_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:blue_shard",
+      "emc": 64
+    },
+    {
+      "item": "quark:blue_shingles",
+      "emc": 64
+    },
+    {
+      "item": "quark:blue_shingles_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:blue_shingles_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:blue_shingles_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:blue_stool",
+      "emc": 64
+    },
+    {
+      "item": "quark:bonded_leather",
+      "emc": 512
+    },
+    {
+      "item": "quark:bonded_rabbit_hide",
+      "emc": 64
+    },
+    {
+      "item": "quark:bonded_ravager_hide",
+      "emc": 512
+    },
+    {
+      "item": "quark:bottled_cloud",
+      "emc": 512
+    },
+    {
+      "item": "quark:brick_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:brown_framed_glass",
+      "emc": 16
+    },
+    {
+      "item": "quark:brown_framed_glass_pane",
+      "emc": 16
+    },
+    {
+      "item": "quark:brown_shard",
+      "emc": 64
+    },
+    {
+      "item": "quark:brown_shingles",
+      "emc": 64
+    },
+    {
+      "item": "quark:brown_shingles_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:brown_shingles_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:brown_shingles_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:brown_stool",
+      "emc": 64
+    },
+    {
+      "item": "quark:cactus_block",
+      "emc": 64
+    },
+    {
+      "item": "quark:calcite_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:calcite_bricks_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:calcite_bricks_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:calcite_bricks_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:calcite_bricks_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:calcite_pillar",
+      "emc": 64
+    },
+    {
+      "item": "quark:calcite_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:calcite_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:calcite_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:calcite_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:carrot_crate",
+      "emc": 64
+    },
+    {
+      "item": "quark:carved_mud_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:charcoal_block",
+      "emc": 1152
+    },
+    {
+      "item": "quark:cherry_bookshelf",
+      "emc": 128
+    },
+    {
+      "item": "quark:cherry_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:cherry_hedge",
+      "emc": 8
+    },
+    {
+      "item": "quark:cherry_ladder",
+      "emc": 32
+    },
+    {
+      "item": "quark:cherry_leaf_carpet",
+      "emc": 8
+    },
+    {
+      "item": "quark:cherry_post",
+      "emc": 8
+    },
+    {
+      "item": "quark:cherry_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:cherry_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:chiseled_andesite_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:chiseled_calcite_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:chiseled_diorite_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:chiseled_dripstone_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:chiseled_granite_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:chiseled_jasper_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:chiseled_limestone_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:chiseled_myalite_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:chiseled_shale_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:chiseled_soul_sandstone",
+      "emc": 64
+    },
+    {
+      "item": "quark:chiseled_tuff_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:chorus_fruit_block",
+      "emc": 64
+    },
+    {
+      "item": "quark:chorus_twist",
+      "emc": 64
+    },
+    {
+      "item": "quark:chorus_weeds",
+      "emc": 64
+    },
+    {
+      "item": "quark:chute",
+      "emc": 64
+    },
+    {
+      "item": "quark:clear_shard",
+      "emc": 64
+    },
+    {
+      "item": "quark:cloud",
+      "emc": 64
+    },
+    {
+      "item": "quark:cobbled_deepslate_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:cobblestone_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:cobblestone_bricks_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:cobblestone_bricks_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:cobblestone_bricks_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:cobblestone_bricks_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:cobblestone_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:cocoa_beans_sack",
+      "emc": 64
+    },
+    {
+      "item": "quark:cooked_crab_leg",
+      "emc": 64
+    },
+    {
+      "item": "quark:crab_bucket",
+      "emc": 512
+    },
+    {
+      "item": "quark:crab_leg",
+      "emc": 64
+    },
+    {
+      "item": "quark:crab_shell",
+      "emc": 64
+    },
+    {
+      "item": "quark:crab_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "quark:crafter",
+      "emc": 64
+    },
+    {
+      "item": "quark:crate",
+      "emc": 64
+    },
+    {
+      "item": "quark:crimson_bookshelf",
+      "emc": 128
+    },
+    {
+      "item": "quark:crimson_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:crimson_ladder",
+      "emc": 32
+    },
+    {
+      "item": "quark:crimson_post",
+      "emc": 8
+    },
+    {
+      "item": "quark:crimson_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:crimson_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:cut_copper_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:cut_red_sandstone_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:cut_sandstone_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:cut_soul_sandstone",
+      "emc": 64
+    },
+    {
+      "item": "quark:cut_soul_sandstone_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:cut_soul_sandstone_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:cut_vine",
+      "emc": 64
+    },
+    {
+      "item": "quark:cyan_framed_glass",
+      "emc": 16
+    },
+    {
+      "item": "quark:cyan_framed_glass_pane",
+      "emc": 16
+    },
+    {
+      "item": "quark:cyan_shard",
+      "emc": 64
+    },
+    {
+      "item": "quark:cyan_shingles",
+      "emc": 64
+    },
+    {
+      "item": "quark:cyan_shingles_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:cyan_shingles_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:cyan_shingles_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:cyan_stool",
+      "emc": 64
+    },
+    {
+      "item": "quark:dark_oak_bookshelf",
+      "emc": 128
+    },
+    {
+      "item": "quark:dark_oak_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:dark_oak_hedge",
+      "emc": 8
+    },
+    {
+      "item": "quark:dark_oak_ladder",
+      "emc": 32
+    },
+    {
+      "item": "quark:dark_oak_leaf_carpet",
+      "emc": 8
+    },
+    {
+      "item": "quark:dark_oak_post",
+      "emc": 8
+    },
+    {
+      "item": "quark:dark_oak_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:dark_oak_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:dark_prismarine_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:deepslate_brick_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:deepslate_furnace",
+      "emc": 64
+    },
+    {
+      "item": "quark:deepslate_tile_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:diamond_heart",
+      "emc": 8192
+    },
+    {
+      "item": "quark:diorite_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:diorite_bricks_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:diorite_bricks_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:diorite_bricks_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:diorite_bricks_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:diorite_pillar",
+      "emc": 64
+    },
+    {
+      "item": "quark:diorite_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:dirt_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:dirt_bricks_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:dirt_bricks_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:dirt_bricks_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:dirt_bricks_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:dirty_glass",
+      "emc": 16
+    },
+    {
+      "item": "quark:dirty_glass_pane",
+      "emc": 16
+    },
+    {
+      "item": "quark:dirty_shard",
+      "emc": 64
+    },
+    {
+      "item": "quark:dragon_scale",
+      "emc": 512
+    },
+    {
+      "item": "quark:dripstone_block_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:dripstone_block_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:dripstone_block_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:dripstone_block_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:dripstone_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:dripstone_bricks_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:dripstone_bricks_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:dripstone_bricks_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:dripstone_bricks_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:dripstone_pillar",
+      "emc": 64
+    },
+    {
+      "item": "quark:duskbound_block",
+      "emc": 64
+    },
+    {
+      "item": "quark:duskbound_block_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:duskbound_block_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:duskbound_block_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:duskbound_lantern",
+      "emc": 256
+    },
+    {
+      "item": "quark:dusky_myalite",
+      "emc": 64
+    },
+    {
+      "item": "quark:egg_parrot_blue",
+      "emc": 64
+    },
+    {
+      "item": "quark:egg_parrot_gray",
+      "emc": 64
+    },
+    {
+      "item": "quark:egg_parrot_green",
+      "emc": 64
+    },
+    {
+      "item": "quark:egg_parrot_red_blue",
+      "emc": 64
+    },
+    {
+      "item": "quark:egg_parrot_yellow_blue",
+      "emc": 64
+    },
+    {
+      "item": "quark:encased_pipe",
+      "emc": 64
+    },
+    {
+      "item": "quark:end_stone_brick_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:ender_watcher",
+      "emc": 64
+    },
+    {
+      "item": "quark:exposed_cut_copper_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:feeding_trough",
+      "emc": 64
+    },
+    {
+      "item": "quark:flamerang",
+      "emc": 8192
+    },
+    {
+      "item": "quark:flowering_azalea_hedge",
+      "emc": 8
+    },
+    {
+      "item": "quark:flowering_azalea_leaf_carpet",
+      "emc": 8
+    },
+    {
+      "item": "quark:forgotten_hat",
+      "emc": 1024
+    },
+    {
+      "item": "quark:forgotten_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "quark:foxhound_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "quark:framed_glass",
+      "emc": 16
+    },
+    {
+      "item": "quark:framed_glass_pane",
+      "emc": 16
+    },
+    {
+      "item": "quark:glass_item_frame",
+      "emc": 128
+    },
+    {
+      "item": "quark:glow_lichen_growth",
+      "emc": 64
+    },
+    {
+      "item": "quark:glow_shroom",
+      "emc": 64
+    },
+    {
+      "item": "quark:glow_shroom_block",
+      "emc": 64
+    },
+    {
+      "item": "quark:glow_shroom_ring",
+      "emc": 64
+    },
+    {
+      "item": "quark:glow_shroom_stem",
+      "emc": 64
+    },
+    {
+      "item": "quark:glowberry_sack",
+      "emc": 64
+    },
+    {
+      "item": "quark:glowing_glass_item_frame",
+      "emc": 128
+    },
+    {
+      "item": "quark:gold_bars",
+      "emc": 64
+    },
+    {
+      "item": "quark:gold_button",
+      "emc": 4
+    },
+    {
+      "item": "quark:golden_apple_crate",
+      "emc": 64
+    },
+    {
+      "item": "quark:golden_carrot_crate",
+      "emc": 64
+    },
+    {
+      "item": "quark:granite_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:granite_bricks_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:granite_bricks_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:granite_bricks_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:granite_bricks_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:granite_pillar",
+      "emc": 64
+    },
+    {
+      "item": "quark:granite_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:grate",
+      "emc": 64
+    },
+    {
+      "item": "quark:gravisand",
+      "emc": 64
+    },
+    {
+      "item": "quark:gray_framed_glass",
+      "emc": 16
+    },
+    {
+      "item": "quark:gray_framed_glass_pane",
+      "emc": 16
+    },
+    {
+      "item": "quark:gray_shard",
+      "emc": 64
+    },
+    {
+      "item": "quark:gray_shingles",
+      "emc": 64
+    },
+    {
+      "item": "quark:gray_shingles_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:gray_shingles_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:gray_shingles_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:gray_stool",
+      "emc": 64
+    },
+    {
+      "item": "quark:green_corundum",
+      "emc": 64
+    },
+    {
+      "item": "quark:green_corundum_cluster",
+      "emc": 64
+    },
+    {
+      "item": "quark:green_corundum_pane",
+      "emc": 64
+    },
+    {
+      "item": "quark:green_crystal_lamp",
+      "emc": 256
+    },
+    {
+      "item": "quark:green_framed_glass",
+      "emc": 16
+    },
+    {
+      "item": "quark:green_framed_glass_pane",
+      "emc": 16
+    },
+    {
+      "item": "quark:green_shard",
+      "emc": 64
+    },
+    {
+      "item": "quark:green_shingles",
+      "emc": 64
+    },
+    {
+      "item": "quark:green_shingles_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:green_shingles_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:green_shingles_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:green_stool",
+      "emc": 64
+    },
+    {
+      "item": "quark:gunpowder_sack",
+      "emc": 64
+    },
+    {
+      "item": "quark:hammer",
+      "emc": 1024
+    },
+    {
+      "item": "quark:hollow_acacia_log",
+      "emc": 32
+    },
+    {
+      "item": "quark:hollow_ancient_log",
+      "emc": 32
+    },
+    {
+      "item": "quark:hollow_azalea_log",
+      "emc": 32
+    },
+    {
+      "item": "quark:hollow_birch_log",
+      "emc": 32
+    },
+    {
+      "item": "quark:hollow_blossom_log",
+      "emc": 32
+    },
+    {
+      "item": "quark:hollow_cherry_log",
+      "emc": 32
+    },
+    {
+      "item": "quark:hollow_crimson_stem",
+      "emc": 64
+    },
+    {
+      "item": "quark:hollow_dark_oak_log",
+      "emc": 32
+    },
+    {
+      "item": "quark:hollow_jungle_log",
+      "emc": 32
+    },
+    {
+      "item": "quark:hollow_mangrove_log",
+      "emc": 32
+    },
+    {
+      "item": "quark:hollow_oak_log",
+      "emc": 32
+    },
+    {
+      "item": "quark:hollow_spruce_log",
+      "emc": 32
+    },
+    {
+      "item": "quark:hollow_warped_stem",
+      "emc": 64
+    },
+    {
+      "item": "quark:indigo_corundum",
+      "emc": 64
+    },
+    {
+      "item": "quark:indigo_corundum_cluster",
+      "emc": 64
+    },
+    {
+      "item": "quark:indigo_corundum_pane",
+      "emc": 64
+    },
+    {
+      "item": "quark:indigo_crystal_lamp",
+      "emc": 256
+    },
+    {
+      "item": "quark:iron_button",
+      "emc": 4
+    },
+    {
+      "item": "quark:iron_ladder",
+      "emc": 32
+    },
+    {
+      "item": "quark:iron_pillar",
+      "emc": 64
+    },
+    {
+      "item": "quark:iron_plate",
+      "emc": 64
+    },
+    {
+      "item": "quark:iron_plate_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:iron_plate_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:iron_plate_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:iron_rod",
+      "emc": 64
+    },
+    {
+      "item": "quark:jasper",
+      "emc": 16
+    },
+    {
+      "item": "quark:jasper_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:jasper_bricks_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:jasper_bricks_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:jasper_bricks_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:jasper_bricks_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:jasper_pillar",
+      "emc": 64
+    },
+    {
+      "item": "quark:jasper_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:jasper_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:jasper_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:jasper_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:jungle_bookshelf",
+      "emc": 128
+    },
+    {
+      "item": "quark:jungle_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:jungle_hedge",
+      "emc": 8
+    },
+    {
+      "item": "quark:jungle_ladder",
+      "emc": 32
+    },
+    {
+      "item": "quark:jungle_leaf_carpet",
+      "emc": 8
+    },
+    {
+      "item": "quark:jungle_post",
+      "emc": 8
+    },
+    {
+      "item": "quark:jungle_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:jungle_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:lavender_blossom_hedge",
+      "emc": 8
+    },
+    {
+      "item": "quark:lavender_blossom_leaf_carpet",
+      "emc": 8
+    },
+    {
+      "item": "quark:lavender_blossom_leaves",
+      "emc": 1
+    },
+    {
+      "item": "quark:lavender_blossom_sapling",
+      "emc": 32
+    },
+    {
+      "item": "quark:light_blue_framed_glass",
+      "emc": 16
+    },
+    {
+      "item": "quark:light_blue_framed_glass_pane",
+      "emc": 16
+    },
+    {
+      "item": "quark:light_blue_shard",
+      "emc": 64
+    },
+    {
+      "item": "quark:light_blue_shingles",
+      "emc": 64
+    },
+    {
+      "item": "quark:light_blue_shingles_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:light_blue_shingles_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:light_blue_shingles_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:light_blue_stool",
+      "emc": 64
+    },
+    {
+      "item": "quark:light_gray_framed_glass",
+      "emc": 16
+    },
+    {
+      "item": "quark:light_gray_framed_glass_pane",
+      "emc": 16
+    },
+    {
+      "item": "quark:light_gray_shard",
+      "emc": 64
+    },
+    {
+      "item": "quark:light_gray_shingles",
+      "emc": 64
+    },
+    {
+      "item": "quark:light_gray_shingles_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:light_gray_shingles_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:light_gray_shingles_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:light_gray_stool",
+      "emc": 64
+    },
+    {
+      "item": "quark:lime_framed_glass",
+      "emc": 16
+    },
+    {
+      "item": "quark:lime_framed_glass_pane",
+      "emc": 16
+    },
+    {
+      "item": "quark:lime_shard",
+      "emc": 64
+    },
+    {
+      "item": "quark:lime_shingles",
+      "emc": 64
+    },
+    {
+      "item": "quark:lime_shingles_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:lime_shingles_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:lime_shingles_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:lime_stool",
+      "emc": 64
+    },
+    {
+      "item": "quark:limestone",
+      "emc": 16
+    },
+    {
+      "item": "quark:limestone_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:limestone_bricks_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:limestone_bricks_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:limestone_bricks_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:limestone_bricks_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:limestone_pillar",
+      "emc": 64
+    },
+    {
+      "item": "quark:limestone_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:limestone_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:limestone_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:limestone_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:lootr_acacia_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_acacia_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_ancient_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_ancient_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_azalea_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_azalea_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_bamboo_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_bamboo_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_birch_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_birch_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_blossom_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_blossom_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_cherry_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_cherry_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_crimson_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_crimson_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_dark_oak_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_dark_oak_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_jungle_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_jungle_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_mangrove_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_mangrove_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_nether_brick_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_nether_brick_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_oak_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_oak_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_prismarine_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_prismarine_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_purpur_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_purpur_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_spruce_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_spruce_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_warped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:lootr_warped_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:magenta_framed_glass",
+      "emc": 16
+    },
+    {
+      "item": "quark:magenta_framed_glass_pane",
+      "emc": 16
+    },
+    {
+      "item": "quark:magenta_shard",
+      "emc": 64
+    },
+    {
+      "item": "quark:magenta_shingles",
+      "emc": 64
+    },
+    {
+      "item": "quark:magenta_shingles_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:magenta_shingles_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:magenta_shingles_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:magenta_stool",
+      "emc": 64
+    },
+    {
+      "item": "quark:magnet",
+      "emc": 64
+    },
+    {
+      "item": "quark:magnetized_block",
+      "emc": 64
+    },
+    {
+      "item": "quark:mangrove_bookshelf",
+      "emc": 128
+    },
+    {
+      "item": "quark:mangrove_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:mangrove_hedge",
+      "emc": 8
+    },
+    {
+      "item": "quark:mangrove_ladder",
+      "emc": 32
+    },
+    {
+      "item": "quark:mangrove_leaf_carpet",
+      "emc": 8
+    },
+    {
+      "item": "quark:mangrove_post",
+      "emc": 8
+    },
+    {
+      "item": "quark:mangrove_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:mangrove_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:matrix_enchanter",
+      "emc": 64
+    },
+    {
+      "item": "quark:midori_block",
+      "emc": 64
+    },
+    {
+      "item": "quark:midori_block_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:midori_block_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:midori_block_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:midori_pillar",
+      "emc": 64
+    },
+    {
+      "item": "quark:monster_box",
+      "emc": 64
+    },
+    {
+      "item": "quark:moss_paste",
+      "emc": 256
+    },
+    {
+      "item": "quark:mossy_cobblestone_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:mossy_cobblestone_bricks_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:mossy_cobblestone_bricks_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:mossy_cobblestone_bricks_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:mossy_cobblestone_bricks_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:mossy_cobblestone_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:mossy_stone_brick_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:mud_brick_lattice",
+      "emc": 64
+    },
+    {
+      "item": "quark:mud_brick_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:mud_pillar",
+      "emc": 64
+    },
+    {
+      "item": "quark:music_disc_chatter",
+      "emc": 2048
+    },
+    {
+      "item": "quark:music_disc_clock",
+      "emc": 2048
+    },
+    {
+      "item": "quark:music_disc_crickets",
+      "emc": 2048
+    },
+    {
+      "item": "quark:music_disc_drips",
+      "emc": 2048
+    },
+    {
+      "item": "quark:music_disc_endermosh",
+      "emc": 2048
+    },
+    {
+      "item": "quark:music_disc_fire",
+      "emc": 2048
+    },
+    {
+      "item": "quark:music_disc_ocean",
+      "emc": 2048
+    },
+    {
+      "item": "quark:music_disc_rain",
+      "emc": 2048
+    },
+    {
+      "item": "quark:music_disc_wind",
+      "emc": 2048
+    },
+    {
+      "item": "quark:myalite",
+      "emc": 16
+    },
+    {
+      "item": "quark:myalite_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:myalite_bricks_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:myalite_bricks_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:myalite_bricks_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:myalite_bricks_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:myalite_crystal",
+      "emc": 64
+    },
+    {
+      "item": "quark:myalite_pillar",
+      "emc": 64
+    },
+    {
+      "item": "quark:myalite_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:myalite_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:myalite_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:myalite_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:nether_brick_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:nether_brick_fence_gate",
+      "emc": 64
+    },
+    {
+      "item": "quark:nether_brick_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:nether_brick_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:nether_wart_sack",
+      "emc": 64
+    },
+    {
+      "item": "quark:netherrack_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:netherrack_bricks_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:netherrack_bricks_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:netherrack_bricks_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:netherrack_bricks_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:oak_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:oak_hedge",
+      "emc": 8
+    },
+    {
+      "item": "quark:oak_leaf_carpet",
+      "emc": 8
+    },
+    {
+      "item": "quark:oak_post",
+      "emc": 8
+    },
+    {
+      "item": "quark:oak_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:oak_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:obsidian_pressure_plate",
+      "emc": 4
+    },
+    {
+      "item": "quark:orange_blossom_hedge",
+      "emc": 8
+    },
+    {
+      "item": "quark:orange_blossom_leaf_carpet",
+      "emc": 8
+    },
+    {
+      "item": "quark:orange_blossom_leaves",
+      "emc": 1
+    },
+    {
+      "item": "quark:orange_blossom_sapling",
+      "emc": 32
+    },
+    {
+      "item": "quark:orange_corundum",
+      "emc": 64
+    },
+    {
+      "item": "quark:orange_corundum_cluster",
+      "emc": 64
+    },
+    {
+      "item": "quark:orange_corundum_pane",
+      "emc": 64
+    },
+    {
+      "item": "quark:orange_crystal_lamp",
+      "emc": 256
+    },
+    {
+      "item": "quark:orange_framed_glass",
+      "emc": 16
+    },
+    {
+      "item": "quark:orange_framed_glass_pane",
+      "emc": 16
+    },
+    {
+      "item": "quark:orange_shard",
+      "emc": 64
+    },
+    {
+      "item": "quark:orange_shingles",
+      "emc": 64
+    },
+    {
+      "item": "quark:orange_shingles_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:orange_shingles_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:orange_shingles_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:orange_stool",
+      "emc": 64
+    },
+    {
+      "item": "quark:oxidized_cut_copper_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:paper_lantern",
+      "emc": 256
+    },
+    {
+      "item": "quark:paper_lantern_sakura",
+      "emc": 128
+    },
+    {
+      "item": "quark:paper_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:paper_wall_big",
+      "emc": 128
+    },
+    {
+      "item": "quark:paper_wall_sakura",
+      "emc": 128
+    },
+    {
+      "item": "quark:pathfinders_quill",
+      "emc": 512
+    },
+    {
+      "item": "quark:permafrost",
+      "emc": 64
+    },
+    {
+      "item": "quark:permafrost_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:permafrost_bricks_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:permafrost_bricks_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:permafrost_bricks_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:permafrost_bricks_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:permafrost_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:permafrost_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:permafrost_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:permafrost_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:pickarang",
+      "emc": 4096
+    },
+    {
+      "item": "quark:pink_framed_glass",
+      "emc": 16
+    },
+    {
+      "item": "quark:pink_framed_glass_pane",
+      "emc": 16
+    },
+    {
+      "item": "quark:pink_shard",
+      "emc": 64
+    },
+    {
+      "item": "quark:pink_shingles",
+      "emc": 64
+    },
+    {
+      "item": "quark:pink_shingles_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:pink_shingles_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:pink_shingles_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:pink_stool",
+      "emc": 64
+    },
+    {
+      "item": "quark:pipe",
+      "emc": 64
+    },
+    {
+      "item": "quark:polished_andesite_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:polished_blackstone_brick_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:polished_blackstone_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:polished_calcite",
+      "emc": 64
+    },
+    {
+      "item": "quark:polished_calcite_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:polished_calcite_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:polished_calcite_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:polished_deepslate_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:polished_diorite_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:polished_dripstone",
+      "emc": 64
+    },
+    {
+      "item": "quark:polished_dripstone_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:polished_dripstone_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:polished_dripstone_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:polished_granite_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:polished_jasper",
+      "emc": 64
+    },
+    {
+      "item": "quark:polished_jasper_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:polished_jasper_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:polished_jasper_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:polished_limestone",
+      "emc": 64
+    },
+    {
+      "item": "quark:polished_limestone_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:polished_limestone_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:polished_limestone_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:polished_myalite",
+      "emc": 64
+    },
+    {
+      "item": "quark:polished_myalite_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:polished_myalite_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:polished_myalite_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:polished_shale",
+      "emc": 64
+    },
+    {
+      "item": "quark:polished_shale_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:polished_shale_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:polished_shale_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:polished_tuff",
+      "emc": 64
+    },
+    {
+      "item": "quark:polished_tuff_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:polished_tuff_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:polished_tuff_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:potato_crate",
+      "emc": 64
+    },
+    {
+      "item": "quark:prismarine_brick_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:prismarine_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:prismarine_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:prismarine_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:purple_framed_glass",
+      "emc": 16
+    },
+    {
+      "item": "quark:purple_framed_glass_pane",
+      "emc": 16
+    },
+    {
+      "item": "quark:purple_shard",
+      "emc": 64
+    },
+    {
+      "item": "quark:purple_shingles",
+      "emc": 64
+    },
+    {
+      "item": "quark:purple_shingles_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:purple_shingles_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:purple_shingles_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:purple_stool",
+      "emc": 64
+    },
+    {
+      "item": "quark:purpur_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:purpur_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:purpur_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:quartz_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:ravager_hide",
+      "emc": 128
+    },
+    {
+      "item": "quark:raw_copper_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:raw_copper_bricks_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:raw_copper_bricks_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:raw_copper_bricks_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:raw_copper_bricks_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:raw_gold_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:raw_gold_bricks_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:raw_gold_bricks_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:raw_gold_bricks_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:raw_gold_bricks_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:raw_iron_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:raw_iron_bricks_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:raw_iron_bricks_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:raw_iron_bricks_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:raw_iron_bricks_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:red_blossom_hedge",
+      "emc": 8
+    },
+    {
+      "item": "quark:red_blossom_leaf_carpet",
+      "emc": 8
+    },
+    {
+      "item": "quark:red_blossom_leaves",
+      "emc": 1
+    },
+    {
+      "item": "quark:red_blossom_sapling",
+      "emc": 32
+    },
+    {
+      "item": "quark:red_corundum",
+      "emc": 64
+    },
+    {
+      "item": "quark:red_corundum_cluster",
+      "emc": 64
+    },
+    {
+      "item": "quark:red_corundum_pane",
+      "emc": 64
+    },
+    {
+      "item": "quark:red_crystal_lamp",
+      "emc": 256
+    },
+    {
+      "item": "quark:red_framed_glass",
+      "emc": 16
+    },
+    {
+      "item": "quark:red_framed_glass_pane",
+      "emc": 16
+    },
+    {
+      "item": "quark:red_nether_brick_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:red_sandstone_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:red_sandstone_bricks_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:red_sandstone_bricks_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:red_sandstone_bricks_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:red_sandstone_bricks_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:red_sandstone_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:red_shard",
+      "emc": 64
+    },
+    {
+      "item": "quark:red_shingles",
+      "emc": 64
+    },
+    {
+      "item": "quark:red_shingles_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:red_shingles_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:red_shingles_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:red_stool",
+      "emc": 64
+    },
+    {
+      "item": "quark:redstone_randomizer",
+      "emc": 64
+    },
+    {
+      "item": "quark:rope",
+      "emc": 64
+    },
+    {
+      "item": "quark:rusty_iron_plate",
+      "emc": 64
+    },
+    {
+      "item": "quark:rusty_iron_plate_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:rusty_iron_plate_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:rusty_iron_plate_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:sandstone_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:sandstone_bricks_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:sandstone_bricks_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:sandstone_bricks_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:sandstone_bricks_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:sandstone_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:seed_pouch",
+      "emc": 512
+    },
+    {
+      "item": "quark:shale",
+      "emc": 16
+    },
+    {
+      "item": "quark:shale_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:shale_bricks_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:shale_bricks_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:shale_bricks_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:shale_bricks_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:shale_pillar",
+      "emc": 64
+    },
+    {
+      "item": "quark:shale_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:shale_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:shale_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:shale_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:shiba_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "quark:shingles",
+      "emc": 64
+    },
+    {
+      "item": "quark:shingles_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:shingles_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:shingles_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:slime_in_a_bucket",
+      "emc": 512
+    },
+    {
+      "item": "quark:smithing_template_rune",
+      "emc": 64
+    },
+    {
+      "item": "quark:smooth_quartz_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:smooth_red_sandstone_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:smooth_sandstone_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:smooth_soul_sandstone",
+      "emc": 64
+    },
+    {
+      "item": "quark:smooth_soul_sandstone_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:smooth_soul_sandstone_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:smooth_soul_sandstone_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:smooth_stone_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:soul_bead",
+      "emc": 2048
+    },
+    {
+      "item": "quark:soul_sandstone",
+      "emc": 64
+    },
+    {
+      "item": "quark:soul_sandstone_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:soul_sandstone_bricks_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:soul_sandstone_bricks_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:soul_sandstone_bricks_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:soul_sandstone_bricks_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:soul_sandstone_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:soul_sandstone_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:soul_sandstone_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:soul_sandstone_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:spruce_bookshelf",
+      "emc": 128
+    },
+    {
+      "item": "quark:spruce_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:spruce_hedge",
+      "emc": 8
+    },
+    {
+      "item": "quark:spruce_ladder",
+      "emc": 32
+    },
+    {
+      "item": "quark:spruce_leaf_carpet",
+      "emc": 8
+    },
+    {
+      "item": "quark:spruce_post",
+      "emc": 8
+    },
+    {
+      "item": "quark:spruce_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:spruce_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:stick_block",
+      "emc": 64
+    },
+    {
+      "item": "quark:stone_brick_lamp",
+      "emc": 256
+    },
+    {
+      "item": "quark:stone_brick_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:stone_lamp",
+      "emc": 256
+    },
+    {
+      "item": "quark:stone_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:stoneling_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "quark:stripped_acacia_post",
+      "emc": 8
+    },
+    {
+      "item": "quark:stripped_ancient_log",
+      "emc": 32
+    },
+    {
+      "item": "quark:stripped_ancient_post",
+      "emc": 8
+    },
+    {
+      "item": "quark:stripped_ancient_wood",
+      "emc": 32
+    },
+    {
+      "item": "quark:stripped_azalea_log",
+      "emc": 32
+    },
+    {
+      "item": "quark:stripped_azalea_post",
+      "emc": 8
+    },
+    {
+      "item": "quark:stripped_azalea_wood",
+      "emc": 32
+    },
+    {
+      "item": "quark:stripped_bamboo_post",
+      "emc": 8
+    },
+    {
+      "item": "quark:stripped_birch_post",
+      "emc": 8
+    },
+    {
+      "item": "quark:stripped_blossom_log",
+      "emc": 32
+    },
+    {
+      "item": "quark:stripped_blossom_post",
+      "emc": 8
+    },
+    {
+      "item": "quark:stripped_blossom_wood",
+      "emc": 32
+    },
+    {
+      "item": "quark:stripped_cherry_post",
+      "emc": 8
+    },
+    {
+      "item": "quark:stripped_crimson_post",
+      "emc": 8
+    },
+    {
+      "item": "quark:stripped_dark_oak_post",
+      "emc": 8
+    },
+    {
+      "item": "quark:stripped_jungle_post",
+      "emc": 8
+    },
+    {
+      "item": "quark:stripped_mangrove_post",
+      "emc": 8
+    },
+    {
+      "item": "quark:stripped_oak_post",
+      "emc": 8
+    },
+    {
+      "item": "quark:stripped_spruce_post",
+      "emc": 8
+    },
+    {
+      "item": "quark:stripped_warped_post",
+      "emc": 8
+    },
+    {
+      "item": "quark:sturdy_stone",
+      "emc": 64
+    },
+    {
+      "item": "quark:sugar_cane_block",
+      "emc": 64
+    },
+    {
+      "item": "quark:thatch",
+      "emc": 64
+    },
+    {
+      "item": "quark:thatch_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:thatch_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:thatch_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:tiny_potato",
+      "emc": 64
+    },
+    {
+      "item": "quark:torch_arrow",
+      "emc": 64
+    },
+    {
+      "item": "quark:toretoise_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "quark:trowel",
+      "emc": 256
+    },
+    {
+      "item": "quark:tuff_bricks",
+      "emc": 16
+    },
+    {
+      "item": "quark:tuff_bricks_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:tuff_bricks_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:tuff_bricks_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:tuff_bricks_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:tuff_pillar",
+      "emc": 64
+    },
+    {
+      "item": "quark:tuff_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:tuff_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:tuff_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:tuff_wall",
+      "emc": 8
+    },
+    {
+      "item": "quark:vertical_acacia_planks",
+      "emc": 8
+    },
+    {
+      "item": "quark:vertical_ancient_planks",
+      "emc": 8
+    },
+    {
+      "item": "quark:vertical_azalea_planks",
+      "emc": 8
+    },
+    {
+      "item": "quark:vertical_bamboo_planks",
+      "emc": 8
+    },
+    {
+      "item": "quark:vertical_birch_planks",
+      "emc": 8
+    },
+    {
+      "item": "quark:vertical_blossom_planks",
+      "emc": 8
+    },
+    {
+      "item": "quark:vertical_cherry_planks",
+      "emc": 8
+    },
+    {
+      "item": "quark:vertical_crimson_planks",
+      "emc": 8
+    },
+    {
+      "item": "quark:vertical_dark_oak_planks",
+      "emc": 8
+    },
+    {
+      "item": "quark:vertical_jungle_planks",
+      "emc": 8
+    },
+    {
+      "item": "quark:vertical_mangrove_planks",
+      "emc": 8
+    },
+    {
+      "item": "quark:vertical_oak_planks",
+      "emc": 8
+    },
+    {
+      "item": "quark:vertical_spruce_planks",
+      "emc": 8
+    },
+    {
+      "item": "quark:vertical_warped_planks",
+      "emc": 8
+    },
+    {
+      "item": "quark:violet_corundum",
+      "emc": 64
+    },
+    {
+      "item": "quark:violet_corundum_cluster",
+      "emc": 64
+    },
+    {
+      "item": "quark:violet_corundum_pane",
+      "emc": 64
+    },
+    {
+      "item": "quark:violet_crystal_lamp",
+      "emc": 256
+    },
+    {
+      "item": "quark:warped_bookshelf",
+      "emc": 128
+    },
+    {
+      "item": "quark:warped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:warped_ladder",
+      "emc": 32
+    },
+    {
+      "item": "quark:warped_post",
+      "emc": 8
+    },
+    {
+      "item": "quark:warped_trapped_chest",
+      "emc": 64
+    },
+    {
+      "item": "quark:warped_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:waxed_black_corundum",
+      "emc": 64
+    },
+    {
+      "item": "quark:waxed_blue_corundum",
+      "emc": 64
+    },
+    {
+      "item": "quark:waxed_cut_copper_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:waxed_exposed_cut_copper_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:waxed_green_corundum",
+      "emc": 64
+    },
+    {
+      "item": "quark:waxed_indigo_corundum",
+      "emc": 64
+    },
+    {
+      "item": "quark:waxed_orange_corundum",
+      "emc": 64
+    },
+    {
+      "item": "quark:waxed_oxidized_cut_copper_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:waxed_red_corundum",
+      "emc": 64
+    },
+    {
+      "item": "quark:waxed_violet_corundum",
+      "emc": 64
+    },
+    {
+      "item": "quark:waxed_weathered_cut_copper_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:waxed_white_corundum",
+      "emc": 64
+    },
+    {
+      "item": "quark:waxed_yellow_corundum",
+      "emc": 64
+    },
+    {
+      "item": "quark:weathered_cut_copper_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:white_corundum",
+      "emc": 64
+    },
+    {
+      "item": "quark:white_corundum_cluster",
+      "emc": 64
+    },
+    {
+      "item": "quark:white_corundum_pane",
+      "emc": 64
+    },
+    {
+      "item": "quark:white_crystal_lamp",
+      "emc": 256
+    },
+    {
+      "item": "quark:white_framed_glass",
+      "emc": 16
+    },
+    {
+      "item": "quark:white_framed_glass_pane",
+      "emc": 16
+    },
+    {
+      "item": "quark:white_shard",
+      "emc": 64
+    },
+    {
+      "item": "quark:white_shingles",
+      "emc": 64
+    },
+    {
+      "item": "quark:white_shingles_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:white_shingles_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:white_shingles_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:white_stool",
+      "emc": 64
+    },
+    {
+      "item": "quark:wraith_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "quark:yellow_blossom_hedge",
+      "emc": 8
+    },
+    {
+      "item": "quark:yellow_blossom_leaf_carpet",
+      "emc": 8
+    },
+    {
+      "item": "quark:yellow_blossom_leaves",
+      "emc": 1
+    },
+    {
+      "item": "quark:yellow_blossom_sapling",
+      "emc": 32
+    },
+    {
+      "item": "quark:yellow_corundum",
+      "emc": 64
+    },
+    {
+      "item": "quark:yellow_corundum_cluster",
+      "emc": 64
+    },
+    {
+      "item": "quark:yellow_corundum_pane",
+      "emc": 64
+    },
+    {
+      "item": "quark:yellow_crystal_lamp",
+      "emc": 256
+    },
+    {
+      "item": "quark:yellow_framed_glass",
+      "emc": 16
+    },
+    {
+      "item": "quark:yellow_framed_glass_pane",
+      "emc": 16
+    },
+    {
+      "item": "quark:yellow_shard",
+      "emc": 64
+    },
+    {
+      "item": "quark:yellow_shingles",
+      "emc": 64
+    },
+    {
+      "item": "quark:yellow_shingles_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:yellow_shingles_stairs",
+      "emc": 8
+    },
+    {
+      "item": "quark:yellow_shingles_vertical_slab",
+      "emc": 4
+    },
+    {
+      "item": "quark:yellow_stool",
+      "emc": 64
+    }
+  ]
+}
