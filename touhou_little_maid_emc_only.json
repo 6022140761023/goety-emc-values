@@ -1,0 +1,300 @@
+{
+  "entries": [
+    {
+      "item": "touhou_little_maid:all_netherite_equipment",
+      "emc": 1
+    },
+    {
+      "item": "touhou_little_maid:altar",
+      "emc": 128
+    },
+    {
+      "item": "touhou_little_maid:bookshelf",
+      "emc": 2048
+    },
+    {
+      "item": "touhou_little_maid:broom",
+      "emc": 1024
+    },
+    {
+      "item": "touhou_little_maid:camera",
+      "emc": 1024
+    },
+    {
+      "item": "touhou_little_maid:cchess",
+      "emc": 512
+    },
+    {
+      "item": "touhou_little_maid:cchess_board_state",
+      "emc": 1
+    },
+    {
+      "item": "touhou_little_maid:chair",
+      "emc": 512
+    },
+    {
+      "item": "touhou_little_maid:chair_show",
+      "emc": 128
+    },
+    {
+      "item": "touhou_little_maid:change_chair_model",
+      "emc": 1
+    },
+    {
+      "item": "touhou_little_maid:change_maid_model",
+      "emc": 1
+    },
+    {
+      "item": "touhou_little_maid:chisel",
+      "emc": 256
+    },
+    {
+      "item": "touhou_little_maid:computer",
+      "emc": 2048
+    },
+    {
+      "item": "touhou_little_maid:crafting_table_backpack",
+      "emc": 2048
+    },
+    {
+      "item": "touhou_little_maid:drown_protect_bauble",
+      "emc": 2048
+    },
+    {
+      "item": "touhou_little_maid:ender_chest_backpack",
+      "emc": 2048
+    },
+    {
+      "item": "touhou_little_maid:entity_id_copy",
+      "emc": 128
+    },
+    {
+      "item": "touhou_little_maid:explosion_protect_bauble",
+      "emc": 2048
+    },
+    {
+      "item": "touhou_little_maid:extinguisher",
+      "emc": 1024
+    },
+    {
+      "item": "touhou_little_maid:fairy_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "touhou_little_maid:fall_protect_bauble",
+      "emc": 2048
+    },
+    {
+      "item": "touhou_little_maid:favorability_tool_add",
+      "emc": 512
+    },
+    {
+      "item": "touhou_little_maid:favorability_tool_full",
+      "emc": 512
+    },
+    {
+      "item": "touhou_little_maid:favorability_tool_reduce",
+      "emc": 512
+    },
+    {
+      "item": "touhou_little_maid:film",
+      "emc": 1
+    },
+    {
+      "item": "touhou_little_maid:fire_protect_bauble",
+      "emc": 2048
+    },
+    {
+      "item": "touhou_little_maid:furnace_backpack",
+      "emc": 2048
+    },
+    {
+      "item": "touhou_little_maid:garage_kit",
+      "emc": 2048
+    },
+    {
+      "item": "touhou_little_maid:gomoku",
+      "emc": 512
+    },
+    {
+      "item": "touhou_little_maid:gomoku_board_state",
+      "emc": 1
+    },
+    {
+      "item": "touhou_little_maid:hakurei_gohei",
+      "emc": 1024
+    },
+    {
+      "item": "touhou_little_maid:item_magnet_bauble",
+      "emc": 2048
+    },
+    {
+      "item": "touhou_little_maid:kappa_compass",
+      "emc": 1024
+    },
+    {
+      "item": "touhou_little_maid:keyboard",
+      "emc": 2048
+    },
+    {
+      "item": "touhou_little_maid:kill_100",
+      "emc": 1
+    },
+    {
+      "item": "touhou_little_maid:kill_dragon",
+      "emc": 1
+    },
+    {
+      "item": "touhou_little_maid:kill_slime_300",
+      "emc": 1
+    },
+    {
+      "item": "touhou_little_maid:kill_wither",
+      "emc": 1
+    },
+    {
+      "item": "touhou_little_maid:magic_protect_bauble",
+      "emc": 2048
+    },
+    {
+      "item": "touhou_little_maid:maid_100_healthy",
+      "emc": 1
+    },
+    {
+      "item": "touhou_little_maid:maid_backpack_big",
+      "emc": 4096
+    },
+    {
+      "item": "touhou_little_maid:maid_backpack_middle",
+      "emc": 2048
+    },
+    {
+      "item": "touhou_little_maid:maid_backpack_small",
+      "emc": 1024
+    },
+    {
+      "item": "touhou_little_maid:maid_beacon",
+      "emc": 4096
+    },
+    {
+      "item": "touhou_little_maid:maid_bed",
+      "emc": 512
+    },
+    {
+      "item": "touhou_little_maid:maid_spawn_egg",
+      "emc": 300
+    },
+    {
+      "item": "touhou_little_maid:model_switcher",
+      "emc": 2048
+    },
+    {
+      "item": "touhou_little_maid:monster_list",
+      "emc": 1024
+    },
+    {
+      "item": "touhou_little_maid:mute_bauble",
+      "emc": 2048
+    },
+    {
+      "item": "touhou_little_maid:nimble_fabric",
+      "emc": 2048
+    },
+    {
+      "item": "touhou_little_maid:owner_conversion_tool",
+      "emc": 2048
+    },
+    {
+      "item": "touhou_little_maid:photo",
+      "emc": 1
+    },
+    {
+      "item": "touhou_little_maid:picnic_basket",
+      "emc": 128
+    },
+    {
+      "item": "touhou_little_maid:picnic_mat",
+      "emc": 512
+    },
+    {
+      "item": "touhou_little_maid:power_point",
+      "emc": 2048
+    },
+    {
+      "item": "touhou_little_maid:projectile_protect_bauble",
+      "emc": 2048
+    },
+    {
+      "item": "touhou_little_maid:red_fox_scroll",
+      "emc": 2048
+    },
+    {
+      "item": "touhou_little_maid:sanae_gohei",
+      "emc": 1024
+    },
+    {
+      "item": "touhou_little_maid:scarecrow",
+      "emc": 2048
+    },
+    {
+      "item": "touhou_little_maid:servant_bell",
+      "emc": 2048
+    },
+    {
+      "item": "touhou_little_maid:shrine",
+      "emc": 2048
+    },
+    {
+      "item": "touhou_little_maid:smart_slab_empty",
+      "emc": 1
+    },
+    {
+      "item": "touhou_little_maid:smart_slab_has_maid",
+      "emc": 1
+    },
+    {
+      "item": "touhou_little_maid:smart_slab_init",
+      "emc": 1
+    },
+    {
+      "item": "touhou_little_maid:snack_cabinet",
+      "emc": 2048
+    },
+    {
+      "item": "touhou_little_maid:statue",
+      "emc": 128
+    },
+    {
+      "item": "touhou_little_maid:substitute_jizo",
+      "emc": 2048
+    },
+    {
+      "item": "touhou_little_maid:tank_backpack",
+      "emc": 2048
+    },
+    {
+      "item": "touhou_little_maid:trumpet",
+      "emc": 512
+    },
+    {
+      "item": "touhou_little_maid:ultramarine_orb_elixir",
+      "emc": 1024
+    },
+    {
+      "item": "touhou_little_maid:wchess",
+      "emc": 512
+    },
+    {
+      "item": "touhou_little_maid:wchess_board_state",
+      "emc": 1
+    },
+    {
+      "item": "touhou_little_maid:white_fox_scroll",
+      "emc": 2048
+    },
+    {
+      "item": "touhou_little_maid:wireless_io",
+      "emc": 1024
+    }
+  ]
+}
